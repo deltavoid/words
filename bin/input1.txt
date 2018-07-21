@@ -5,7 +5,7 @@ abide	vi.(abode，abided)(by)遵守；坚持
 ability	n.能力；本领；才能，才干；专门技能，天资
 able	adj.有(能力、时间、知识等)做某事，有本事的
 abnormal	adj.反常的，不正常的，不规则的
-aboard	adv.&prep.在船(飞机、车)上；adv.上船(飞机)
+aboard	adv./prep.在船(飞机、车)上；adv.上船(飞机)
 abolish	vt.废除(法律、习惯等)；取消
 abound	vi.大量存在；(in，with)充满，富于
 about	adv.在周围；大约 prep.关于；在周围 adj.准备
@@ -36,7 +36,7 @@ accommodate	vt.向…提供住处；对…予以照顾性考虑
 accommodation	n.(accommodations)住宿，留宿；膳宿供应
 accompany	v.陪伴，陪同；伴随，和…一起发生，伴奏
 accomplish	v.实现(计划等)；达到(目的)；完成(任务)
-accord	vt.给予(欢迎、称颂等) vi.&n.符合，一致
+accord	vt.给予(欢迎、称颂等) vi./n.符合，一致
 accordance	n.一致，和谐，符合
 according to	prep.据/照…(所说、所写)；按…，视…
 accordingly	adv.相应地，照着办，按照；于是，因此
@@ -170,7 +170,7 @@ altitude	n.高度，海拔；[pl]高处，高地
 altogether	adv.完全，总之，全部地；总共；总而言之
 aluminum	n.(aluminium)铝
 always	adv.总是，无例外地；永远，始终
-amateur	adj.&n.业余(水平)的(运动员、艺术家等)
+amateur	adj./n.业余(水平)的(运动员、艺术家等)
 amaze	vt.使惊奇，使惊愕；使困惑 vi.表现出惊奇
 ambassador	n.大使；特使，(派驻国际组织的)代表
 ambiguous	adj.引起歧义的，模棱两可的，含糊不清的
@@ -687,7 +687,7 @@ cardinal	n.(天主教的)红衣主教 adj.首要的，基本的
 care	n.小心;关怀,照料 v.(about)关心,介意,计较
 career	n.(个人的)事业；专业，生涯，职业，经历
 careful	adj.小心的,仔细的;细致的,精心的
-caress	vt.／n.爱抚，抚摸
+caress	vt./n.爱抚，抚摸
 cargo	n.船货,货物
 carpenter	n.木工,木匠
 carpet	n.地毯
@@ -1089,7 +1089,7 @@ cop	n.警察(slang 俚语)
 cope	v.(with)竞争,对抗;(with)对付,妥善处理
 copper	n.铜;铜币,铜制器
 copy	n.抄本，摹本；(一)本 vt.抄写；考试中抄袭
-copyright	n.／adj.版权(的)
+copyright	n./adj.版权(的)
 cord	n.绳,索
 cordial	adj.诚恳的,亲切的,热诚的
 core	n.果核;中心,核心
@@ -1172,7 +1172,7 @@ cruel	adj.残忍的,残酷的
 cruise	v.巡航；以节省燃料的速度前进 n.乘船巡游
 crush	n./v.压碎,压坏 v.压服,压垮
 crust	n.外皮,壳;地壳
-cry	n.&v.叫，喊，哭；(鸟兽)叫，啼，鸣，嗥
+cry	n./v.叫，喊，哭；(鸟兽)叫，啼，鸣，嗥
 crystal	n.水晶,水晶饰品;结晶 adj.水晶的,透明的
 cube	n.立方形,立方体;立方,三次幂
 cucumber	n.黄瓜
@@ -2108,7 +2108,7 @@ ghost	n.鬼魂,幽灵
 giant	n.巨人 adj.巨大的
 gift	n.礼品,赠品;天赋,才能
 gigantic	adj.巨大的,庞大的
-giggle	vi.／n.痴笑；咯咯地笑 vt.咯咯地笑着说
+giggle	vi./n.痴笑；咯咯地笑 vt.咯咯地笑着说
 girl	n.少女，姑娘，女孩；女职员
 give	v.给，授予；供给；献出，让步；捐赠；发表
 glad	adj.高兴的，快活的；乐意的，情愿的
@@ -2368,7 +2368,7 @@ hover	vi.(鸟)盘旋，翱翔，(人)逗留在附近徘徊
 how	adv.(表示方法、手段、状态)怎样；如何
 however	adv.然而，可是，不过，无论如何 conj.无论
 howl	n.怒吼，嗥叫 vi.(风等)怒吼，咆哮
-huddle	n./v.拥挤;聚集v.(因寒冷、害怕而)缩成一团
+huddle	n.拥挤;聚集v.拥挤;聚集；(因寒冷、害怕而)缩成一团
 hug	v./n.热烈拥抱,紧抱
 huge	adj.巨大的,庞大的
 hum	v.哼曲子；发嗡嗡声；忙碌n.嗡嗡声，嘈杂声
@@ -3132,7 +3132,7 @@ mushroom	n.蘑菇 vt.迅速生长,迅速增加,采蘑菇
 music	n.音乐，乐曲，乐谱
 musical	adj.音乐的;有音乐才能的 n.音乐片
 musician	n.音乐家,乐师
-must	aux.&v.必须；很可能；一定要 n.必须做的事
+must	aux./v.必须；很可能；一定要 n.必须做的事
 mute	adj.哑的,缄默的n.哑巴;弱音器v.减弱…的声音
 mutter	n.喃喃而语,小声低语;抱怨 v.低声说,抱怨
 mutton	n.羊肉
@@ -3217,7 +3217,7 @@ nonetheless	adv.[nevertheless]虽然如此, 但是
 nonsense	n.胡说,废话
 noodle	n.(常用复数)面条
 noon	n.中午，正午
-nor	conj.／adv.也不，也没有
+nor	conj./adv.也不，也没有
 norm	n.准则,规范,准则,平均数
 normal	adj.正常的,普通的;正规的,标准的
 normalization	n.(normalisation)正常化,标准化
@@ -4522,7 +4522,7 @@ solemn	adj.庄严的,隆重的;严肃的
 solid	adj.固体的;结实的,稳固的,可靠的 n.固体
 solidarity	n.团结；休戚相关
 solitary	adj.(好)孤独的；偏僻的；单一的，唯一的
-solo	n.独奏 adj.&adv.单独的(地)；独唱的(地)
+solo	n.独奏 adj./adv.单独的(地)；独唱的(地)
 soluble	adj.可溶的
 solution	n.解答,解决办法;溶解,溶液
 solve	v.解决,解答
@@ -4533,7 +4533,7 @@ someone	pron.某人(=somebody)
 something	pron.某事，某物；被视为有意义的事物
 sometime	adv.将来(或过去)某个时候adj.以前的
 sometimes	adv.不时，有时，间或
-somewhat	pron.&adv.一点儿，几分
+somewhat	pron./adv.一点儿，几分
 somewhere	adv.某地，在某处；在附近，前后，大约
 son	n.儿子；孩子(长者对年青或年幼男子的称呼)
 song	n.歌唱，(虫、鸟等)鸣声；歌曲，歌词
@@ -4719,7 +4719,7 @@ strip	v.剥,剥去 n.窄条,条纹
 stripe	n.长条，条纹；军服上表示军阶的臂章条纹
 strive	v.奋斗,努力
 stroke	n.击;报时的钟声;一击/划/笔;中风 v.抚摸
-stroll	n.&v.漫步；散步；游荡
+stroll	n./v.漫步；散步；游荡
 strong	adj.强壮的,强大的;强烈的,浓的
 structure	n.结构,构造;建筑物 v.构造,建造
 struggle	n./v.斗争,奋斗,努力
@@ -4756,7 +4756,7 @@ succession	n.连续,系列;继任,继承
 successive	adj.接连的,连续的
 successor	n.接替的人或事物，继任者
 such	adj.这样的;上述的adv.那么pron.这样的人/事物
-suck	v.&n.吸，舐；吸收(取)
+suck	v./n.吸，舐；吸收(取)
 sudden	adj.出乎意料的，突然的
 sue	v.控告,对…提出诉讼,起诉
 suffer	v.(from)受痛苦,患病;受损失;遭受;忍受
@@ -4946,7 +4946,7 @@ thereby	adv.因此,从而
 therefore	adv.因此，所以 conj.因此
 thermal	adj.热的,热力的；(小规模的)上升气流
 thermometer	n.温度计
-these	pron.&adj.[this的复数]这些；这些人(东西)
+these	pron./adj.[this的复数]这些；这些人(东西)
 thesis	n.(pltheses) 论文;论题;论点
 they	商店。(一般人经常用复数they来指一家商店)
 thick	adj.厚的，粗的，稠的，浓的  adv.厚，浓，密
@@ -5090,7 +5090,7 @@ treaty	n.条约，协议，协商
 tree	n.树,树状物  vi.爬上树
 tremble	n.战栗,颤抖 v.发抖,颤抖；摇动；焦虑
 tremendous	adj.巨大的,极大的
-trench	n.&v.(挖)沟，(挖)战壕
+trench	n./v.(挖)沟，(挖)战壕
 trend	n.倾向,趋势 vi.伸向,倾向
 trial	n.讯问，审讯；试验；试用；尝试
 triangle	n.三角(形)
@@ -5188,7 +5188,7 @@ unless	conj.除非 prep.除…外
 unlike	adj.不同的,不相似的 prep.不象,和…不同
 unlikely	adj.未必的,靠不住的
 unload	vi.卸货;退子弹 vt.摆脱…之负担;倾销
-until	conj.&prep.直到…为止，在…以前；直到…
+until	conj./prep.直到…为止，在…以前；直到…
 unusual	adj.不平常的,与众不同的
 up	adv.向上，…起来；…完；起床 prep.向上
 update	v.更新,使现代化
@@ -5472,7 +5472,7 @@ yearly	adj.每年的，一年一度的 adv.每年，一年一次地
 yell	vi.大叫;呼喊 vt.叫着说 n.叫声;喊声
 yellow	adj.黄的，黄色的 n.黄色
 yes	adv.是[用于肯定句前]，是的
-yesterday	n.&adv.昨天；前不久
+yesterday	n./adv.昨天；前不久
 yet	adv.还，尚，仍然；已经 conj.然而 adv.甚至
 yield	v.出产,生长;(to)屈服,服从 n.产量,收获
 you	pron.你；你们；一个人，任何人

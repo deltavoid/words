@@ -57,15 +57,24 @@ int main()
             Entry en;
             en.word = entries[i].word;
             en.paraphrases.push_back(entries[i].paraphrases[j]);
+            if  (en.paraphrases[0].second == string("/"))
+                en.paraphrases[0].second = entries[i].paraphrases[j + 1].second;
             dic[en.paraphrases[0].first].push_back(en);
         }
     }
 
     Dictionary::iterator it;
     for (it = dic.begin(); it != dic.end(); it++)
+        cout << it->first << endl;
+    cout << endl << endl;
+
+    //Dictionary::iterator it;
+    for (it = dic.begin(); it != dic.end(); it++)
     {
+        cout << it->first << endl;
         for (int i = 0; i < it->second.size(); i++)
             output_entry1(it->second[i]);
+        cout << endl << endl;
     }
 
     return 0;

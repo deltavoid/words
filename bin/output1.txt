@@ -1,3 +1,19 @@
+adj
+adv
+art
+aux
+conj
+int
+n
+num
+prep
+pron
+v
+vi
+vt
+
+
+adj
 able          adj.有(能力、时间、知识等)做某事，有本事的
 abnormal      adj.反常的，不正常的，不规则的
 about         adj.准备
@@ -42,7 +58,7 @@ All           adj.全部的；非常的
 alone         adj.单独的，孤独的 
 alternate     adj.交替的，轮流的 
 alternative   adj.二选一的
-amateur       adj.&
+amateur       adj.业余(水平)的(运动员、艺术家等)
 ambiguous     adj.引起歧义的，模棱两可的，含糊不清的
 ambitious     adj.有抱负的，雄心勃勃的；有野心的
 amiable       adj.和蔼可亲的，友善的，亲切的
@@ -96,7 +112,7 @@ bare          adj.赤裸的,空的;稀少的,仅有的
 barren        adj.贫瘠的；不育的；(植物)不结果的；无用的
 basic         adj.基本的,基础的
 beautiful     adj.美的，美丽的；出色的，完美的
-beloved       adj./
+beloved       adj.受爱戴的,敬爱的;爱人,被心爱的人
 beneficial    adj.(to)有利的,有益的
 benign        adj.(病)良性的,(气候)良好的,仁慈的,和蔼的
 best          adj.最好的(good和well最高级) 
@@ -151,10 +167,10 @@ civilian      adj.平民的;民用的
 classic       adj.第一流的,不朽的
 classical     adj.经典的,古典(文学)的
 clean         adj.清洁的，干净的
-clear         adj./
+clear         adj.清晰的(地)
 clever        adj.聪明的,伶俐的,机敏的,精巧的
 clockwise     adj.顺时针方向
-close         adj./
+close         adj.近的(地)；紧密的(地)
 closet        adj.私下的
 cloudy        adj.多云的,阴(天)的;混浊的,模糊的
 clumsy        adj.笨拙的,愚笨的
@@ -218,7 +234,7 @@ corrupt       adj.腐败的,贪污的
 cosmic        adj.宇宙的；无比巨大的，无穷尽的
 costly        adj.昂贵的,价值高的,豪华的
 cosy          adj.暖和舒服的；舒适的 [反]uncomfortable
-counter       adj./
+counter       adj.相反(的) 
 crazy         adj.疯狂的,古怪的,蠢的;(about)狂热的
 creative      adj.有创造力的,创造性的
 criminal      adj.犯罪的,刑事的
@@ -229,7 +245,7 @@ crucial       adj.至关重要的,决定性的
 crude         adj.天然的,未加工的;未熟的;粗鲁的,粗野的
 cruel         adj.残忍的,残酷的
 crystal       adj.水晶的,透明的
-cunning       adj./
+cunning       adj.狡猾(的),狡诈(的)
 curious       adj.好奇的, 求知的, 古怪的, 爱挑剔的
 current       adj.当前的;流通的
 customary     adj.习惯的,惯例的
@@ -269,7 +285,7 @@ diligent      adj.勤奋的,用功的
 dilute        adj.稀释的，冲淡的
 dim           adj.暗淡的,模糊的
 diplomatic    adj.外交的,从事外交的;策略的,有手腕的
-direct        adj./
+direct        adj.径直的(地) 
 dirty         adj.弄脏的;下流的 
 disastrous    adj.灾难性的
 discreet      adj.(言行)谨慎的；慎重的；有判断力的
@@ -295,7 +311,7 @@ dumb          adj.哑的,无言的
 duplicate     adj.复制的,二重的
 durable       adj.持久的,耐久的
 dynamic       adj.动力的,电动的;有生气的
-each          adj./
+each          adj.各,各自的,每
 eager         adj.(for)渴望的,热切的
 early         adj.早的,早期的,及早的 
 earnest       adj.热心的,诚挚的 
@@ -379,7 +395,7 @@ familiar      adj.熟悉的;通晓的;亲近的
 famous        adj.著名的
 fancy         adj.花式的,奇特的
 fantastic     adj.(fantastical)奇异的,幻想的,异想天开的
-far           adj./
+far           adj.远，久远，遥远 
 farther       adj.更远的
 fashionable   adj.流行的,时髦的
 fast          adj.快的，迅速的；坚固的 
@@ -407,7 +423,7 @@ financial     adj.财政的,金融的
 fine          adj.晴朗的,美好的,细致的 
 finite        adj.有限的；[数]有穷的,限定的
 firm          adj.坚固的;坚决的,坚定的 
-first         adj./
+first         adj.第一；最初;首次 
 fit           adj.(病的)发作，痉挛 
 fit           adj.
 fitting       adj.适当的,恰当的 
@@ -446,7 +462,7 @@ friendly      adj.友好的,友谊的
 front         adj.前面的,前部的 
 fruitful      adj.多产的;果实累累的,富有成效的
 full          adj.(of)满的,充满的 
-full          adj./
+full          adj.完全,充分
 fundamental   adj.基础的,基本的 
 funny         adj.滑稽的,可笑的
 furious       adj.狂怒的,狂暴的,猛烈的
@@ -557,12 +573,12 @@ infectious    adj.传染的,传染性的,有感染力的
 inferior      adj.下等的,下级的;劣等的,差的 
 infinite      adj.无限的,无穷的 
 influential   adj.有影响的;有权势的
-infrared      adj./
+infrared      adj.红外线(的)
 ingenious     adj.机敏的;有独创性的;精致的;精巧制成的
 inherent      adj.固有的,内在的,天生的
 initial       adj.最初的,开头的;词首的 
 initiative    adj.创始的,起始的 
-inland        adj./
+inland        adj.国内,内地,内陆
 inner         adj.内部的,里面的;内心的
 innocent      adj.(of)清白的,无罪的;无害的;单纯的,无知的
 innumerable   adj.无数的,数不清的
@@ -597,7 +613,7 @@ jealous       adj.(of)妒忌的;猜疑的,警惕的
 joint         adj.联合的,共同的,连接的
 jolly         adj.欢乐的,高兴的
 judicial      adj.司法的，法庭的，审判的；明断的，公正的
-junior        adj./
+junior        adj.年少的/者,三年级的/学生,下级(的)
 just          adj.公正的，公平的
 juvenile      adj.青少年的, 幼稚的
 keen          adj.锋利的;敏锐的;敏捷的;(on)热心的,渴望的
@@ -619,7 +635,7 @@ least         adj.最小的;最少的
 left          adj.左边的，左面的；在左方的
 legal         adj.法律的,法定的;合法的,正当的
 legitimate    adj.合法的；合理的，合乎逻辑的 
-less          adj./
+less          adj.更少的(地),更小的(地)
 level         adj.水平的
 liable        adj.有…倾向的；可能遭受…的；有责任的
 liberal       adj.慷慨的,大方的;富足的;自由的,思想开放的
@@ -925,7 +941,7 @@ reciprocal    adj.相互的,往复的,互利的
 reckless      adj.不注意的,大意的,卤莽的,不顾后果的
 red           adj.红的，红色的 
 redundant     adj.多余的,过剩的;(食物)丰富的;被解雇的
-regardless    adj./
+regardless    adj.不管…的,不顾…的,不注意的
 regular       adj.有规律的;整齐的,匀称的,正规的,正式的
 relative      adj.相对的,比较的,有关系的 
 relevant      adj.有关的,中肯的,相应的,实质性的
@@ -1036,7 +1052,7 @@ sole          adj.单独的,唯一的
 solemn        adj.庄严的,隆重的;严肃的
 solid         adj.固体的;结实的,稳固的,可靠的 
 solitary      adj.(好)孤独的；偏僻的；单一的，唯一的
-solo          adj.&
+solo          adj.单独的(地)；独唱的(地)
 soluble       adj.可溶的
 some          adj.几个；一些；有些；某(人或物) 
 sometime      adj.以前的
@@ -1113,7 +1129,7 @@ susceptible   adj.易受影响的;易受感动的;易受感染的
 suspect       adj.可疑的 
 suspicious    adj.(of)可疑的,多疑的,疑心的
 sweet         adj.甜的;可爱的,美好的 
-swift         adj./
+swift         adj.快的(地);敏捷的(地)
 swift         adj.立刻的
 sympathetic   adj.有同情心的；赞同的；
 synthetic     adj.合成的,人造的;综合的
@@ -1132,7 +1148,7 @@ terminal      adj.晚期的;终点的;期末的
 terrible      adj.很糟的;可怕的,骇人的;极度的,厉害的
 terrific      adj.极好的,非常的,极度的
 textile       adj.纺织的
-that          adj./
+that          adj.那，那个 
 theoretical   adj.理论(上)的
 thermal       adj.热的,热力的；(小规模的)上升气流
 these         adj.[this的复数]这些；这些人(东西)
@@ -1179,7 +1195,7 @@ twin          adj.双的,成对的,孪生的
 typical       adj.(of)典型的,有代表性的
 ugly          adj.丑陋的,难看的;丑恶的,讨厌的
 ultimate      adj.最后的,最终的;根本的
-ultraviolet   adj./
+ultraviolet   adj.紫外线(的)
 unanimous     adj.全体一致的,一致同意的
 underground   adj.地下的;秘密的 
 underlying    adj.含蓄的,潜在的;在下面的
@@ -1249,7 +1265,7 @@ western       adj.西方的,西部的
 wet           adj.湿的,潮湿的;有雨的,多雨的 
 what          adj.多么，何等；什么；尽可能多的
 whatever      adj.无论什么样的
-which         adj./
+which         adj.哪个，哪些；什么样的；那个，那些
 whichever     adj.无论哪个,无论哪些
 white         adj.白色的；苍白的；白种的 
 whole         adj.全体的；全部的；完整的；无缺的
@@ -1263,19 +1279,22 @@ wise          adj.有智慧的,聪明的
 wonderful     adj.惊人的,奇妙的;极好的
 wooden        adj.木制的;呆笨的
 worldwide     adj.全世界的,世界范围的 
-worse         adj./
-worst         adj./
+worse         adj.更坏,更差(的/地)
+worst         adj.最坏(的),最差(的)
 worth         adj.值…的,价值…的,值得…的
 worthwhile    adj.值得(做)的
 worthy        adj.(of)值得…的,配得上…的;有价值的
 wretched      adj.可怜的;悲惨的;肮脏的;恶劣的
 wrong         adj.错的 
-year          adj./
+year          adj.每年，一年一次
 yearly        adj.每年的，一年一度的 
 yellow        adj.黄的，黄色的 
 young         adj.年轻的，幼小的；没经验的 
 zigzag        adj.之字形(的) 
-aboard        adv.&
+
+
+adv
+aboard        adv.在船(飞机、车)上；
 aboard        adv.上船(飞机)
 about         adv.在周围；大约 
 above         adv.在上面  
@@ -1361,7 +1380,7 @@ forever       adv.(for ever)永远；总是
 forth         adv.向前；向外，往外
 forward       adv.(also forwards)向前 
 full          adv.完全,充分
-further       adv./
+further       adv.更远,更往前;进一步 
 furthermore   adv.而且,此外
 gently        adv.文雅地,有礼貌地;轻轻地
 half          adv.一半地
@@ -1396,7 +1415,7 @@ less          adv.更少的(地),更小的(地)
 likely        adv.大概,多半
 likewise      adv.同样地,照样地;又,也,而且
 literally     adv.照字面意义,逐字地;确实
-little        adv./
+little        adv.不多，几乎没有
 long          adv.长久，长期地
 maybe         adv.可能；大概；也许
 meantime      adv.同时,当时
@@ -1425,7 +1444,7 @@ north         adv.向北方,在北方
 northeast     adv.向东北,在东北
 northwest     adv.向西北,在西北
 not           adv.不，不是，不会；没有
-notwithstanding           adv./
+notwithstanding           adv.尽管
 now           adv.现在，如今，目前；当时，于是，然后
 nowadays      adv.现今,现在
 nowhere       adv.任何地方都不,没有地方
@@ -1469,7 +1488,7 @@ seemingly     adv.外观上，表面上
 seldom        adv.很少,不常
 sharp         adv.(指时刻)正
 shortly       adv.立刻，不久；不耐烦地，简慢地
-sideways      adv./
+sideways      adv.向旁边(的),侧身,横着(的),斜着(的)
 simply        adv.简单地;完全,简直;仅仅,只不过;朴素地
 since         adv.后来
 so            adv.那么；非常；也；不错 
@@ -1520,11 +1539,11 @@ weekly        adv.每周一次
 well          adv.好，令人满意地；很 
 west          adv.向西
 whatsoever    adv.(用于否定句中以加强语气)任何
-when          adv./
+when          adv.何时；当时 
 where         adv.在哪/那里 
 wherever      adv.无论在哪里,究竟在哪里
 wholly        adv.完全地,全部,一概
-why           adv./
+why           adv.为什么；…的理由 
 wide          adv.广阔地;偏差地
 within        adv.在内
 worldwide     adv.遍及全世界
@@ -1537,20 +1556,29 @@ yes           adv.是[用于肯定句前]，是的
 yesterday     adv.昨天；前不久
 yet           adv.还，尚，仍然；已经 
 yet           adv.甚至
+
+
+art
 a             art.一(个)；每一(个)；(同类事物中)任一个
 the           art.这(那)个;这(那)些(指特定的人或物)
+
+
+aux
 can           aux.
 could         aux.(口语)(表示许可或请求）可以…，行
 do            aux.
 may           aux.
 might         aux.
-must          aux.&
+must          aux.必须；很可能；一定要 
 need          aux.
 ought         aux.应该(使用时,之后应接to,再接动词原形)
 shall         aux.
 should        aux.
-will          aux./
-would         aux./
+will          aux. 将；会；愿意 
+would         aux.将；可能；将会；总是，总会；宁愿
+
+
+conj
 although      conj.尽管，虽然…但是
 and           conj.和，与，而且；那么；接连，又
 as            conj.由于；像…一样 
@@ -1560,9 +1588,9 @@ for           conj.因为?
 however       conj.无论
 if            conj.(用于连接宾语从句)是否；是不是
 lest          conj.惟恐,免得
-moreover      conj./
+moreover      conj.再者,加之,而且
 nevertheless              conj.(nonetheless)然而,不过
-nor           conj.／
+nor           conj.也不，也没有
 notwithstanding           conj.尽管
 once          conj.一(旦)…就… 
 only          conj.可是，不过
@@ -1577,10 +1605,10 @@ that          conj.[引导从句]
 therefore     conj.因此
 though        conj.尽管，虽然
 unless        conj.除非 
-until         conj.&
+until         conj.直到…为止，在…以前；直到…
 when          conj.那时；然后；而
 whenever      conj.无论何时,随时;每当
-where         conj./
+where         conj.哪里 
 where         conj.然而
 whereas       conj.而,却,反之
 wherever      conj.无论在哪里 
@@ -1588,6 +1616,9 @@ whether       conj.是否，会不会，不管，无论
 while         conj.当…的时候；而；虽然；尽管 
 why           conj.为什么；…的理由 
 yet           conj.然而 
+
+
+int
 damn          int.该死 
 dear          int.呵！哎呀！
 farewell      int.再会,别了 
@@ -1598,6 +1629,9 @@ thank         int.[-s]谢谢
 welcome       int.欢迎 
 well          int.哎呀，好啦，嗯
 why           int.咳，哎呀
+
+
+n
 abdomen       n.腹，下腹(胸部到腿部的部分)
 ability       n.能力；本领；才能，才干；专门技能，天资
 absence       n.缺乏，不存在；缺席，不在；缺席的时间
@@ -1759,9 +1793,9 @@ attention     n.注意，注意力；立正；特别照顾；照料
 attitude      n.态度，看法(to, toward, about)；姿势
 attorney      n.(业务或法律事务上的)代理人；辩护律师
 attribute     n.属性,品质,特征
-auction       n./
+auction       n.拍卖
 audience      n.听众，观众，读者；见面，会见
-audio         n./
+audio         n.音频(响)(的)；声音(的)，听觉(的)
 auditorium    n.观众席，听众席；会堂，礼堂
 August        n.8月
 aunt          n.姨母，姑母，伯母，婶母，舅母，阿姨
@@ -1857,7 +1891,7 @@ benefit       n.利益,好处,恩惠
 bet           n.打赌,赌注
 better        n.较佳者
 beverage      n.(水，酒等之外的)饮料
-bias          n./
+bias          n.(使有)偏见,偏心,偏袒
 Bible         n.圣经
 bibliography              n.(有关某一专题的)书目；参考书目
 bicycle       n.(bike)自行车 
@@ -1915,7 +1949,7 @@ boss          n.老板，上司
 bother        n.烦恼，焦急
 bottle        n.瓶(子) 
 bottom        n.底(部);基础,根基;海底,湖底,河床
-bounce        n./
+bounce        n.(球)弹起,弹回；弹起,跳起；
 bounce        n.弹力
 bound         n.跳(跃) 
 bound         n.界限
@@ -1927,7 +1961,7 @@ bowl          n.碗(状物),钵
 bowling       n.保龄球运动
 box           n.盒，箱；包厢 
 boy           n.男孩子，儿子；男性服务员
-boycott       n./
+boycott       n.(联合)抵制,拒绝参与
 brace         n.托架
 bracket       n.(方)括号
 brain         n.(大)脑,骨髓;(pl)脑力,智能
@@ -1959,7 +1993,7 @@ brook         n.小溪
 broom         n.扫帚
 brother       n.兄弟;同胞;教友
 brow          n.眉(毛);额
-brown         n./
+brown         n.褐色(的),棕色(的)
 bruise        n.青肿，挫伤；伤痕
 brush         n.刷(子),毛刷;画笔 
 bubble        n.泡,水泡,气泡 
@@ -2072,7 +2106,7 @@ cement        n.水泥;胶泥,胶接剂
 cemetery      n.坟墓，墓地，坟场
 census        n.人口普查(调查)
 cent          n.分(币);百 per cent百分之
-centigrade    n./
+centigrade    n.摄氏温度计(的);百分度(的)
 centimetre    n.(centimeter)厘米
 centre        n.中心，中央，中间 
 century       n.世纪,(一)百年
@@ -2093,7 +2127,7 @@ chancellor    n.(英)大臣；法官；(德、奥)总理；大学校长
 change        n.改变,变化;零钱 
 channel       n.海峡,水道;信道,波道;路线,途径
 chaos         n.混乱,紊乱
-chap          n./
+chap          n.(皮肤)变粗糙；发痛；
 chap          n.小伙子
 chapter       n. 章；回，篇
 character     n.性格,品质,特性;人物,角色;字符,(汉)字
@@ -2214,7 +2248,7 @@ combine       n.集团；联合企业
 comedy        n.喜剧;喜剧性事件
 comfort       n.舒适，安逸；安慰，慰问 
 comic         n.连环漫画杂志；喜剧演员
-command       n./
+command       n.命令，指挥，控制 
 command       n.掌握，运用能力
 comment       n.注释,评论,意见 
 commerce      n.商业，贸易；交际，交往
@@ -2241,7 +2275,7 @@ complement    n.补足物，船上的定员；补语
 complex       n.联合体
 complication              n.复杂,纠纷;并发症
 compliment    n.(pl)问候,致意 
-compliment    n./
+compliment    n.称赞,恭维
 component     n.组成部分,成分,元件 
 composite     n.合成物，复合材料
 composition   n.作品,作文,乐曲;作曲;结构,组成,成分
@@ -2316,7 +2350,7 @@ coordinate    n.同等者,坐标
 cop           n.警察(slang 俚语)
 copper        n.铜;铜币,铜制器
 copy          n.抄本，摹本；(一)本 
-copyright     n.／
+copyright     n.版权(的)
 cord          n.绳,索
 core          n.果核;中心,核心
 corn          n.谷物,庄稼,玉米
@@ -2381,9 +2415,9 @@ crow          n.鸡啼,鸣叫
 crowd         n.人群;一群,一伙 
 crown         n.王冠,冕;君权,君王 
 cruise        n.乘船巡游
-crush         n./
+crush         n.压碎,压坏 
 crust         n.外皮,壳;地壳
-cry           n.&
+cry           n.叫，喊，哭；(鸟兽)叫，啼，鸣，嗥
 crystal       n.水晶,水晶饰品;结晶 
 cube          n.立方形,立方体;立方,三次幂
 cucumber      n.黄瓜
@@ -2405,7 +2439,7 @@ curve         n.曲线,弯曲(物)
 cushion       n.垫子,软垫 
 custom        n.习惯,风俗,惯例;(pl)海关,关税
 customer      n.顾客,主顾
-cut           n./
+cut           n.切，割，削;削减，删节 
 cut           n.切口，伤口
 cyberspace    n.虚拟信息空间;网络空间
 cycle         n.自行车;周期,循环 
@@ -2425,7 +2459,7 @@ dash          n.破折号
 data          n.(datum的复数)资料，数据
 database      n.(databank)数据库
 date          n.日期,年代 
-date          n./
+date          n.约会
 daughter      n.女儿
 dawn          n.黎明,拂晓 
 day           n.天，一昼夜；白昼，白天；时期，时代
@@ -2463,7 +2497,7 @@ delay         n.耽搁,延迟
 delegate      n.代表 
 delight       n.快乐,高兴 
 delivery      n.递送;交付;分娩;交货;引渡
-demand        n./
+demand        n.要求,请求,需要(量) 
 democracy     n.民主,民主制,民主国家
 denial        n.否认;拒绝;否认某事或某事实的声明
 density       n.密集,密度,浓度
@@ -2481,7 +2515,7 @@ design        n.设计,图样
 desire        n.愿望,欲望,要求
 desk          n.书桌，办公桌，服务台
 despair       n.绝望;失望;令人失望的人(事物)
-despatch      n./
+despatch      n.(dispatch)派遣;发送 
 despatch      n.急件;新闻报道
 dessert       n.正餐后的水果或甜食
 destination   n.目的地,终点
@@ -2527,11 +2561,11 @@ discovery     n.发现;被发现的事物
 discrepancy   n.相差;差异;矛盾;
 disease       n.疾病
 disgrace      n.失宠,耻辱 
-disguise      n./
+disguise      n.假装,伪装
 disgust       n.厌恶,恶心 
 dish          n.碟子,盘子,菜肴
-dislike       n./
-dismay        n./
+dislike       n.不喜欢,厌恶
+dismay        n.(使)沮丧;(使)惊慌;(使)失望,(使)绝望
 disorder      n.混乱,杂乱;骚乱;失调,疾病
 display       n.陈列,展览,显示(器)
 disposal      n.处理,处置;布置,安排
@@ -2566,9 +2600,9 @@ doorway       n.门口
 dorm          n.(dormitory)［美］［口］宿舍
 dose          n.剂量,一服,一剂 
 dot           n.点,圆点 
-doubt         n./
+doubt         n.怀疑,疑虑
 dove          n.鸽子
-downtown      n./
+downtown      n.城市商业区(的)
 doze          n.瞌睡;假寐
 dozen         n.一打,十二个
 draft         n.草稿,草案,草图 
@@ -2580,7 +2614,7 @@ drawback      n.欠缺,缺点;退还的关税
 drawer        n.抽屉
 drawing       n.绘图,图样
 dread         n.恐惧,担心
-dream         n./
+dream         n.梦,梦想,幻想
 dress         n.服装,童装,女装 
 drift         n.漂,漂流(物)
 drill         n.操练;练习;钻孔(机)
@@ -2647,12 +2681,12 @@ emotion       n.情绪,情感,感情
 emperor       n.皇帝
 emphasis      n.强调,重点
 empire        n.帝国
-employ        n./
+employ        n.雇用;用,使用
 employee      n.雇工,雇员
 employer      n.雇主
 employment    n.雇用;使用;工作,职业
 enclosure     n.围住,圈起,封入,附件
-encounter     n./
+encounter     n.遇到,遭遇
 encyclopedia              n.(encyclopaedia)百科全书
 end           n.末端，端，梢；目标，目的 
 endeavor      n.(endeavour)努力,尽力,力图
@@ -2706,7 +2740,7 @@ evolution     n.进化,演变,发展,进展
 exam          n.(examination)考试,测验
 example       n.例子,实例;模范,榜样
 exception     n.例外,除外;反对;异议
-excerpt       n./
+excerpt       n.摘录;引用
 excess        n.过量;过剩;超额;无节制
 exchange      n.(for)交换,兑换;交流,交易;交换台
 excitement    n.刺激,激动,兴奋
@@ -2726,7 +2760,7 @@ expectation   n.预期,期望,指望
 expedition    n.远征(队),探险(队)
 expenditure   n.花费;(时间,金钱等的)支出,消耗
 expense       n.花费,消费,消耗
-experience    n./
+experience    n.经验;经历;体验;阅历
 experiment    n.实验;试验 
 expert        n.专家,能手 
 expertise     n.专门知识(或技能等),专长
@@ -2760,7 +2794,7 @@ faculty       n.才能;学院,系;(学院或系的)全体教学人员
 fade          n.淡入(出)
 fade          n.乏味(平淡)的
 failure       n.失败,不及格;失败者;故障,失灵;未能
-faint         n./
+faint         n.昏倒;昏晕
 fair          n.集市,交易会
 fairy         n.仙女;精灵
 faith         n.信任,信用;信仰,信条
@@ -2781,11 +2815,11 @@ fashion       n.流行式样(或货品),风尚,风气;样子,方式
 fat           n.脂肪，肥肉
 fate          n.命运
 father        n.父亲；创始人，发明者；(Father)神父
-fatigue       n./
+fatigue       n.(使)疲劳
 fault         n.过失,过错;缺点,毛病
 favor         n.(favour)好感;喜爱;关切
 favorite      n.(favourite)最喜欢的人或物 
-fax           n./
+fax           n.传真(机)
 fear          n.害怕，恐惧；危险
 feast         n.节日;宴会
 feat          n.功绩，伟业，技艺
@@ -2834,9 +2868,9 @@ fixture       n.固定设备;预定日期;比赛时间;定期存款
 flag          n.旗
 flame         n.火焰,火苗;热情;光辉 
 flap          n.垂下物,帽沿,袋盖 
-flap          n./
+flap          n.拍打,拍动
 flare         n.闪耀,闪烁
-flash         n./
+flash         n.闪光(的) 
 flat          n.一套房间;平面
 flavor        n.(flavour)情味;风味;滋味 
 flaw          n.裂缝;缺陷 
@@ -2848,7 +2882,7 @@ flock         n.(一)群,(禽,畜等的)群;大量
 flood         n.洪水,水灾 
 floor         n.地板,(楼房)的层
 flour         n.面粉
-flourish      n./
+flourish      n.繁荣,茂盛,兴旺
 flow          n.流量,流速
 flower        n.花；精华，精粹，精英；盛时 
 flu           n.(influenza)流行性感冒
@@ -2919,14 +2953,14 @@ fur           n.毛,毛皮
 furnace       n.炉子,熔炉
 furniture     n.家具
 fuse          n.保险丝,导火线,引信 
-fuss          n./
+fuss          n.忙乱,大惊小怪
 future        n.将来,未来;前途,前景 
 gain          n.增进,增加；收益
 galaxy        n.星系;(the Galaxy)银河(系);一群显赫的人
 gallery       n.长廊,画廊,美术馆
 gallon        n.加仑
 gallop        n.奔驰,飞奔
-gamble        n./
+gamble        n.投机,冒险;赌博
 game          n.游戏，娱乐；比赛；(pl)运动会 
 gang          n.一帮,一群,一伙
 gaol          n.(jail)监狱；(不加冠词)监禁 
@@ -2966,8 +3000,8 @@ glamor        n.(glamour)魅力;魔法
 glance        n.匆匆看,一瞥,一眼
 glare         n.强光;怒视;炫耀
 glass         n.玻璃;玻璃杯;镜子;(pl)眼镜
-glide         n./
-glimpse       n./
+glide         n.溜,滑行;(时间)消逝
+glimpse       n.一瞥,瞥见
 glitter       n.光辉,灿烂 
 globe         n.球体,地球仪;地球,世界
 glory         n.光荣,荣誉
@@ -2984,7 +3018,7 @@ good          n.好处;利益
 goodness      n.善良，仁慈；(食物等)精华 
 goods         n.(pl)货物，商品
 goose         n.(plgeese)鹅,雌鹅,鹅肉
-gossip        n./
+gossip        n.(说)闲话,闲聊
 government    n.政府,内阁;管理,支配;政治,政体
 governor      n.统治者,管理者,总督,州(省)长
 gown          n.长袍，特殊场合穿的长服
@@ -3009,13 +3043,13 @@ grease        n.动物脂,油脂,润滑脂
 green         n.绿色;蔬菜;植物
 greenhouse    n.温室
 greeting      n.问候,致敬
-grey          n./
+grey          n.(gray)灰色(的)
 grief         n.悲伤，悲痛；悲伤的事，悲痛的缘由
-grin          n./
+grin          n.露齿而笑，咧嘴一笑
 grip          n.紧握,抓紧;掌握
 groan         n.呻吟
 grocer        n.食品商,杂货商
-grope         n./
+grope         n.摸索,探索
 gross         n.总额
 ground        n.地，地面，土地；场地，场所；理由，根据
 group         n.群,组 
@@ -3058,7 +3092,7 @@ harassment    n.骚扰，扰乱；烦恼，烦乱
 harbor        n.(harbour)海港;避难所 
 hardship      n.艰难,困苦
 hardware      n.五金,金属制品;硬件
-harm          n./
+harm          n.伤害,损害,危害
 harmony       n.协调,和谐;融洽
 harness       n.马具,挽具
 harvest       n.收获,收成;成果,后果 
@@ -3109,7 +3143,7 @@ hill          n.小山，山岗，高地；[pl]丘陵(地带)
 hinge         n.合页,铰链 
 hint          n.暗示,提示,线索 
 hip           n.臀部，髋；屋脊
-hire          n./
+hire          n.雇用,租借
 historian     n.历史学家
 history       n.历史,历史学;来历,经历
 hit           n.击中;成功而风行一时的事物
@@ -3145,14 +3179,14 @@ housewife     n.家庭主妇
 housework     n.家务，家事(不可数)
 housing       n.住房，住房供给；(外、阀)壳，防护罩
 howl          n.怒吼，嗥叫 
-huddle        n./
+huddle        n.拥挤;聚集
 hug           n.热烈拥抱,紧抱
 hum           n.嗡嗡声，嘈杂声
 human         n.人
 humanity      n.人类,人性,人情;(pl)人文科学
 humidity      n.湿气,湿度
 humor         n.(humour)幽默,诙谐
-hunger        n./
+hunger        n.饥饿;渴望
 hunt          n.打猎,猎取;(for)搜索;寻找
 hurricane     n.飓风
 hurry         n.急(匆)忙
@@ -3221,7 +3255,7 @@ ink           n.墨水，油墨
 inlet         n.水湾,小湾;进口,入口
 inn           n.小旅馆,客栈
 innovation    n.改革，革新；新观念，新方法，新发明
-input         n./
+input         n.输入
 inquiry       n.(enquiry)询问,打听,调查
 insect        n.昆虫
 insert        n.插入物
@@ -3307,7 +3341,7 @@ juvenile      n.青少年,少年读物
 kettle        n.水壶
 key           n.钥匙；答案；关键；键 
 keyboard      n.键盘 
-kick          n./
+kick          n.踢
 kid           n.小孩,儿童 
 kidney        n.肾,肾脏
 kilo          n.(kilogram/kilogramme)千克
@@ -3318,7 +3352,7 @@ kindergarten              n.幼儿园
 kindness      n.仁慈,亲切;好意;友好行为
 king          n.君主，国王
 kingdom       n.王国,领域
-kiss          n./
+kiss          n.吻,接吻
 kit           n.成套工具,用具包,工具箱
 kitchen       n.厨房
 kite          n.风筝
@@ -3332,7 +3366,7 @@ lab           n.(laboratory)实验室
 label         n.标签 
 labor         n.(labour)工作，劳动；劳力 
 lace          n.花边;带子,鞋带 
-lack          n./
+lack          n.缺乏,不足
 lad           n.男孩,小伙子
 ladder        n.梯子,阶梯
 lady          n.女士,夫人
@@ -3379,7 +3413,7 @@ learning      n.知识,学问;学习
 lease         n.租借,租期,租赁物
 leather       n.皮革,皮革制品
 leave         n.许可;假期
-lecture       n./
+lecture       n.演讲,讲课
 left          n.左面，左方 
 leg           n.腿，腿部；支柱；(旅程的)一段，一站
 legacy        n.遗产，遗赠；先人(或过去)留下的东西
@@ -3483,7 +3517,7 @@ majesty       n.雄伟,壮丽,庄严,威严;最高权威,王权
 major         n.成年人,专业学生,主修课程
 majority      n.多数,大多数,成年,法定年龄
 make          n.(产品)来源，制法 
-male          n./
+male          n.男性(的),雄性(的)
 mammal        n.哺乳动物
 man           n.(plmen)人；人类(单数，不加冠词)；男人
 management    n.经营,管理;处理,操纵;管理部门
@@ -3558,7 +3592,7 @@ method        n.方法,办法
 metre         n.(meter)米，公尺；仪表，计量器
 microphone    n.话筒,扩音器
 microscope    n.显微镜
-middle        n./
+middle        n.中间(的),当中(的)
 midst         n.中间,当中
 might         n.力量,威力,权力
 mile          n.英里，哩，海里
@@ -3620,7 +3654,7 @@ morality      n.道德,美德
 more          n.更多的人(或东西) 
 morning       n.早晨，上午
 mortal        n.凡人
-mortgage      n./
+mortgage      n.抵押(借款)
 mosaic        n.马赛克;镶嵌体
 mosquito      n.蚊子
 moss          n.苔,藓,地衣
@@ -3721,7 +3755,7 @@ nuisance      n.讨厌的人(或东西);麻烦事
 number        n.数,数字,数量,号码,一群 
 nurse         n.护士,保姆 
 nursery       n.托儿所
-nurture       n./
+nurture       n.养育,教育,教养 
 nurture       n.营养品
 nut           n.坚果;螺母,螺帽
 nutrition     n.营养,营养学
@@ -3785,7 +3819,7 @@ origin        n.起源,由来;出身,来历
 original      n.原物,原作,原文
 ornament      n.装饰,装饰物
 orphan        n.孤儿
-other         n./
+other         n.另一个人(或事)
 ounce         n.盎司,英两
 outbreak      n.(战争,愤怒,火灾等的)爆发,(疾病的)发作
 outcome       n.结果,成果
@@ -3835,14 +3869,14 @@ pamphlet      n.小册子
 pan           n.平底锅,盘子,面板
 panda         n.熊猫
 panel         n.面,板;控制板,仪表盘;专门小组
-panic         n./
+panic         n.恐慌(的),惊慌(的) 
 panorama      n.全景,全景画,全景摄影,全景照片[装置]
 pant          n.喘气 
 pants         n.裤子, 短裤
 paper         n.纸；纸制品；报纸；(pl)文件；试卷；论文
 paperback     n.平装本，简装本
 parachute     n.降落伞 
-parade        n./
+parade        n.游行,夸耀
 parade        n.检阅,阅兵式
 paradigm      n.典范; 范例; 示例
 paradox       n.似非而是的话,自相矛盾的话,反论
@@ -3958,7 +3992,7 @@ pink          n.粉红色
 pint          n.品脱
 pioneer       n.先驱,倡导者,开拓者
 pipe          n.管子,导管;烟斗;笛
-pirate        n./
+pirate        n.海盗,盗版(者)
 pistol        n.手枪
 piston        n.活塞
 pit           n.坑,陷阱;煤矿,矿井
@@ -4063,7 +4097,7 @@ prestige      n.声望,威望,威信
 pretext       n.借口,托词
 prey          n.被掠食者,牺牲者,掠食 
 price         n.价格,价钱;代价 
-prick         n./
+prick         n.刺伤,刺痛,刺孔
 pride         n.自豪;自满；引以自豪的东西 
 priest        n.教士,神父
 prime         n.青春,全盛期
@@ -4175,7 +4209,7 @@ random        n.随机,随意
 range         n.范围,领域;排列,连续;(山)脉
 rank          n.军衔,社会阶层;排 
 rap           n.叩击,轻拍,斥责 
-rape          n./
+rape          n.掠夺,蹂躏,强奸
 rapid         n.(pl)急流,湍滩
 rash          n.皮疹
 rat           n.鼠
@@ -4221,11 +4255,11 @@ refuse        n.废物,垃圾
 regard        n.(pl)敬重,问候
 regime        n.政体,制度
 region        n.地区,地带,行政区,(科学等)领域
-register      n./
+register      n.登记,注册 
 regret        n.遗憾,懊悔,抱歉
 regulation    n.规则,规章;调节,校准;调整
 rehearsal     n.排练,排演,演习,预演,试演
-reign         n./
+reign         n.统治,支配,盛行 
 reign         n.统治时期 
 rein          n.缰绳,统治,支配 
 reject        n.落选者
@@ -4253,7 +4287,7 @@ repertoire    n.节目,全部剧目,保留剧目,全部技能
 repetition    n.重复,反复
 replacement   n.取代,替换,替换物,代替物
 reply         n.(to)回答,答复,以…作答
-report        n./
+report        n.报告,汇报;传说,传阅
 reporter      n.报告人,通讯员;记者,报导者
 representative            n.代表,代理人 
 repression    n.压抑，压制，镇压
@@ -4276,7 +4310,7 @@ resolution    n.坚决,决心;决定,决议
 resolve       n.解决;决心
 resort        n.度假胜地,常去之处,手段
 resource      n.(pl)资源,财力;办法,智谋;应变之才
-respect       n./
+respect       n.尊敬,尊重 
 respect       n.敬意,问候,关系,方面
 response      n.回答,响应,反应
 responsibility            n.责任,责任心;职责,任务
@@ -4287,7 +4321,7 @@ result        n.结果,成绩
 resume        n.个人简历 
 retail        n.零售
 retention     n.保留,保持,保持力,记忆力
-retort        n./
+retort        n.报复,反击,反驳
 retrospect    n.回顾，回想，追溯[反]foresee
 return        n.返回,回来;归还,送还;回答
 revelation    n.揭示,揭露,显示,启示,新发现,被揭露的事
@@ -4318,7 +4352,7 @@ ritual        n.(宗教)仪式,典礼
 rival         n.竞争者,对手 
 river         n.河流
 road          n.路,道路,途径
-roar          n./
+roar          n.吼叫,怒号;轰鸣,咆哮
 robe          n.长袍,上衣
 robot         n.机器人,自动机械
 rock          n.岩石,石块 
@@ -4366,7 +4400,7 @@ salt          n.盐,盐,类
 salute        n.敬礼,鸣礼炮;迎接,欢迎
 salvation     n.拯救,救助;救济(者,品),救助工具;救世主
 sample        n.样品,实例,标本,抽样检查 
-sanction      n./
+sanction      n.批准,同意,支持,认可 
 sanction      n.处罚,制裁
 sand          n.沙;(pl)沙滩,沙地
 sandwich      n.三明治,夹肉面包 
@@ -4452,9 +4486,9 @@ sex           n.性别,性
 shade         n.荫,阴影;遮光物,罩 
 shadow        n.阴影,影子,荫;暗处,阴暗
 shaft         n.轴;杆状物
-shake         n./
+shake         n.摇动,摇;颤抖,震动
 shallow       n.浅滩,浅处
-sham          n./
+sham          n.假冒(的)，虚伪(的)
 shame         n.羞耻,耻辱;可耻的人(或事物) 
 shampoo       n.洗发膏,香波;洗发,洗头 
 shape         n.形状,外形;情况,状态;种类
@@ -4532,7 +4566,7 @@ sky           n.天空；[pl]天色；气候
 skyscraper    n.摩天大楼
 slack         n.淡季;(pl)便裤
 slam          n.猛然关闭的声音
-slap          n./
+slap          n.拍,掌击
 slaughter     n.屠杀，屠宰 
 slave         n.奴隶,苦工 
 sleep         n.睡眠
@@ -4553,7 +4587,7 @@ smog          n.烟雾
 smoke         n.烟,烟尘;吸烟,抽烟 
 snack         n.快餐,小吃,点心
 snake         n.蛇
-snatch        n./
+snatch        n.攫取,抢夺
 sneeze        n.喷嚏
 snow          n.雪，下雪 
 snowstorm     n.暴风雪
@@ -4585,8 +4619,8 @@ sound         n.声音
 soup          n.汤
 source        n.源,源泉;来源,出处
 south         n.南,南方,南部 
-southeast     n./
-southwest     n./
+southeast     n.东南(的),东南部(的)
+southwest     n.西南(的),西南部(的)
 sovereign     n.君主，国王，统治者
 space         n.间隔;空地,余地;空间 
 spacecraft    n.宇宙飞船
@@ -4675,7 +4709,7 @@ steel         n.钢
 stem          n.茎，干 
 step          n.步;台阶,梯级;步骤,措施 
 stereo        n.立体声音响；立体声装置 
-stereo        n./
+stereo        n.立体声(的)
 stereotype    n.陈规，老套，模式化 
 stern         n.船尾,舟尾
 steward       n.乘务员，服务员；看管人；膳食管理员
@@ -4708,14 +4742,14 @@ stress        n.压力；重要性；应力；重音
 stretch       n.拉长；伸展；一段时间/路程
 stride        n.一大步(pl)长足进步
 strife        n.争吵；冲突，斗争；竞争
-strike        n./
+strike        n.罢工 
 string        n.弦,线,细绳;(一串),(一行) 
 strip         n.窄条,条纹
 stripe        n.长条，条纹；军服上表示军阶的臂章条纹
 stroke        n.击;报时的钟声;一击/划/笔;中风 
-stroll        n.&
+stroll        n.漫步；散步；游荡
 structure     n.结构,构造;建筑物 
-struggle      n./
+struggle      n.斗争,奋斗,努力
 student       n.(大中学校的)学生；研究者，学者
 studio        n.画室;播音室;(电影)制片厂
 study         n.学习；研究
@@ -4756,7 +4790,7 @@ superstition              n.迷信，迷信的观念习俗
 supper        n.晚餐
 supplement    n.补遗;增刊;附录 
 supply        n.供应,供应量
-support       n./
+support       n.支撑;支持;赡养;维持 
 support       n.支持者;支柱
 surface       n.表面；外表 
 surge         n.巨浪;汹涌;彭湃
@@ -4780,7 +4814,7 @@ sway          n.摇动；影响力
 sweat         n.汗 
 sweater       n.毛衣,绒衣,厚运动衫
 sweet         n.(常pl)糖果;甜食
-swell         n./
+swell         n.肿胀;膨胀;增大;增加;
 swift         n.雨燕
 swim          n.游泳
 swing         n.秋千;摇摆,摆动
@@ -4806,12 +4840,12 @@ tailor        n.裁缝
 tale          n.故事,传说
 talent        n.才能,天资;人才
 talk          n.谈话；聊天；讲话；演讲 
-tan           n./
+tan           n.(皮肤因日晒而成)棕褐色(的) 
 tangle        n.纠缠；缠结；混乱 
 tank          n.罐,槽,箱；坦克 
 tanker        n.油船
 tap           n.塞子;水龙头; 
-tap           n./
+tap           n.轻打,轻敲; 
 tape          n.带(子);录音带,磁带 
 tar           n.柏油，焦油 
 target        n.目标,对象,靶子
@@ -4849,7 +4883,7 @@ term          n.学期;期限,期间;(pl)条件,条款;术语
 terminal      n.终点(站);终端
 territory     n.领土;版图;领域,范围
 terror        n.恐怖;可怕的人(事)
-test          n./
+test          n.试验；检验；测验
 testimony     n.证据,证词;表明,说明
 text          n.正文，文本；原文；教科书
 textbook      n.课本,教科书
@@ -4870,7 +4904,7 @@ thing         n.物，东西；事，事情；所有物；局面，情况
 thirst        n.渴,口渴;(for)渴望,热望
 thorn         n.刺,荆棘
 thought       n.思想，思考，思维；意图，打算；想法
-thousand      n./
+thousand      n.一千；[pl]许许多多，成千上万
 thread        n.线,细丝;线索,思路;螺纹 
 threat        n.恐吓,威胁;坏兆头,危险迹象
 threshold     n.门槛;入门,开端
@@ -4892,7 +4926,7 @@ timber        n.木材,木料
 time          n.时间，时刻；次，回；时代，时期；倍，乘
 tin           n.罐头；锡 
 tip           n.尖端;末端;小费 
-tip           n./
+tip           n.轻击;倾斜;给小费
 tire          n.(=tyre)轮胎,车胎
 tissue        n.织物,薄绢,纸巾;(动,植物的)组织
 title         n.书名,标题;头衔,称号
@@ -4951,7 +4985,7 @@ transistor    n.晶体管；晶体管收音机
 transition    n.转变，变迁，过渡(时期)
 translation   n.翻译;译文,译本
 transmission              n.播送,发射;传动,传送
-transplant    n./
+transplant    n.移植(植物；组织,器官等)；迁移；
 transport     n.运输;运输系统,运载工具
 trap          n.陷阱，圈套 
 trash         n.垃圾；拙劣的作品；渣滓，败类
@@ -4963,7 +4997,7 @@ treat         n.款待,请客
 treaty        n.条约，协议，协商
 tree          n.树,树状物  
 tremble       n.战栗,颤抖 
-trench        n.&
+trench        n.(挖)沟，(挖)战壕
 trend         n.倾向,趋势 
 trial         n.讯问，审讯；试验；试用；尝试
 triangle      n.三角(形)
@@ -5060,7 +5094,7 @@ vertical      n.垂线
 vessel        n.容器,器皿;船,舰;管,血管
 vest          n.背心,马甲;汗衫,内衣
 veteran       n.老手,老兵
-veto          n./
+veto          n.否决
 vice          n.邪恶;恶习;(pl)台钳,老虎钳
 vicinity      n.邻近,附近
 victim        n.牺牲品,受害者
@@ -5090,7 +5124,7 @@ volleyball    n.排球
 volt          n.伏特
 voltage       n.电压
 volume        n.容积,体积;卷,册;音量
-volunteer     n./
+volunteer     n.自愿(者,兵);自愿(提供)
 vote          n.投票,表决;选票,选票数 
 vowel         n.元音,元音字母
 voyage        n.航海;航行;旅行
@@ -5141,7 +5175,7 @@ weight        n.重量;负荷,重担;重要性,分量;砝码,秤砣
 welcome       n.欢迎；迎接
 weld          n.焊接,焊缝
 welfare       n.福利；幸福；福利事业
-west          n./
+west          n.西,西方(的),西部(的) 
 whale         n.鲸；庞然大物
 wheat         n.小麦
 wheel         n.轮,车轮
@@ -5201,7 +5235,7 @@ yawn          n.呵欠
 year          n.年，年度，学年 
 yell          n.叫声;喊声
 yellow        n.黄色
-yesterday     n.&
+yesterday     n.昨天；前不久
 yield         n.产量,收获
 young         n.青年人
 youngster     n.小伙子，年轻人；少年，儿童
@@ -5209,33 +5243,36 @@ youth         n.青年;年轻人
 zeal          n.热心，热忱，热情
 zebra         n.斑马
 zero          n.零,零度 
-zigzag        n./
+zigzag        n.之字形(的) 
 zinc          n.锌
 zone          n.地区,区域 
 zoo           n.动物园
 zoom          n.陡升；嗡嗡声
-billion       num./
+
+
+num
+billion       num.(美)十亿,(英)万亿
 eight         num.八 
 eighteen      num.十八，十八个
-eighty        num./
+eighty        num.八十 
 eleven        num.十一 
 fifteen       num.十五 
 fifty         num.五十，五十个
 five          num.五 
-forty         num./
+forty         num.四十 
 four          num.四 
 fourteen      num.十四，十四个
 hundred       num.百，一百；[pl]许多 
-million       num./
+million       num.百万,百万个
 nine          num.九 
-nineteen      num./
+nineteen      num.十九 
 ninety        num.九十，九十个
 one           num.一 
 seven         num.七，七个(人或物)
 six           num.六 
 ten           num.十 
 third         num.第三(个)，三分之一(的)
-thirteen      num./
+thirteen      num.十三 
 thirty        num.三十，三十个(人或物)
 thousand      num./
 three         num.三 
@@ -5243,6 +5280,9 @@ twelve        num.十二
 twenty        num.二十 
 two           num.二，两个
 zero          num.零
+
+
+prep
 aboard        prep.在船(飞机、车)上；
 about         prep.关于；在周围 
 above         prep.在…之上，高于
@@ -5295,7 +5335,7 @@ plus          prep.加上
 regarding     prep.关于,有关
 round         prep.围绕
 since         prep.自从 
-through       prep./
+through       prep.穿过；自始至终；由，以 
 throughout    prep.遍及，贯穿 
 till          prep.直到，直到…为止，与until意思相同
 to            prep.(表示方向)到；向；(表示间接关系)给
@@ -5312,6 +5352,9 @@ via           prep.经；通过；凭借
 with          prep.跟…一起；用；具有；关于；因；随着
 within        prep.在…里面,在…以内 
 without       prep.无，没有 
+
+
+pron
 All           pron.全部
 another       pron.另一个，类似的一个
 anybody       pron.(否定句)任何人；(肯定句)随便哪个人
@@ -5321,16 +5364,16 @@ each          pron.各,各自的,每
 eight         pron.八(个，只…)
 eighty        pron.八十(个，只…)
 either        pron.两者之一 
-eleven        pron./
+eleven        pron.十一(个，只…)
 everybody     pron.(everyone)每人，人人
 everyone      pron.(everybody)每人，人人，各人
 everything    pron.每件事，一切；最重要的东西
-fifteen       pron./
+fifteen       pron.十五(个，只…)
 first         pron.第一名
-five          pron./
+five          pron.五(个，只…)
 former        pron.前者
 forty         pron.四十(个，只…)
-four          pron./
+four          pron.四(个，只…)
 he            pron.他；(不论性别的)一个人
 her           pron.[she的宾格]她；[she的所有格]她的
 hers          pron.[she的物主代词]她的(所有物)
@@ -5348,7 +5391,7 @@ mine          pron.(I的物主代词)我的(东西)
 my            pron.(I的所有格)我的
 myself        pron.[反身代词]我自己；我亲自
 neither       pron.两者都不 
-nine          pron./
+nine          pron.九(个，只…)
 nineteen      pron.十九(个，只…)
 nobody        pron.谁也不,无人 
 none          pron.没有任何人(东西)；都不 
@@ -5360,33 +5403,33 @@ ours          pron.[we的物主代词]我们的(所有物)
 ourselves     pron.[反身代词]我们自己；我们亲自
 same          pron.相同的人(或物) 
 she           pron.(主格)她
-six           pron./
+six           pron.六(个，只…)
 some          pron.一些
 somebody      pron.某人，有人 
 someone       pron.某人(=somebody)
 something     pron.某事，某物；被视为有意义的事物
-somewhat      pron.&
+somewhat      pron.一点儿，几分
 such          pron.这样的人/事物
-ten           pron./
+ten           pron.十(个，只…)
 that          pron.那，那个 
 their         pron.[they的所有格]他(她、它)们的
 theirs        pron.[they的物主代词]他(她、它)们的
 them          pron.他们/她们/它们(they的宾格形式)
 themselves    pron.他(她、它)们自己；他(她、它)们亲自
-these         pron.&
+these         pron.[this的复数]这些；这些人(东西)
 thirteen      pron.十三(个，只…)
 this          pron.这(个) 
-those         pron./
-three         pron./
-twelve        pron./
-twenty        pron./
+those         pron.[that的复数]那些；那些人(东西)
+three         pron.三(个，只…)
+twelve        pron.十二(个，只…)
+twenty        pron.二十(个，只…)
 us            pron.我们(we的宾格形式)
 what          pron.什么 
 whatever      pron.无论什么 
 when          pron.何时；当时 
 where         pron.哪里 
 which         pron.哪个，哪些；什么样的；那个，那些
-whichever     pron./
+whichever     pron.无论哪个,无论哪些
 who           pron.谁，什么人；…的人；他，她，他们
 whoever       pron.[引导名词从句]谁；无论谁；究竟是谁
 whom          pron.谁；哪个人(who的宾格)
@@ -5395,6 +5438,9 @@ you           pron.你；你们；一个人，任何人
 your          pron.[you的所有格]你的，你们的
 yours         pron.[you的物主代词]你(们)的(所有物)
 yourself      pron.[反身代词]你自己；你亲自
+
+
+v
 accelerate    v.使加速，使增速，促进 
 acclaim       v.向…欢呼，公认 
 accompany     v.陪伴，陪同；伴随，和…一起发生，伴奏
@@ -5467,7 +5513,7 @@ bewilder      v.使迷惑,难住
 bias          v.(使有)偏见,偏心,偏袒
 bid           v.祝愿;命令,吩咐;报价,投标 
 bind          v.捆,绑,包括,束缚
-bite          v./
+bite          v.咬,叮 
 blame         v.责备;怪,把…归咎于 
 blast         v.爆炸
 blaze         v.燃烧,冒火焰
@@ -5478,7 +5524,7 @@ block         v.阻塞,拦阻
 bloom         v.开花
 blunder       v.(因无知等而)犯大错;踉踉跄跄地走 
 blunt         v.(使)钝;(使)迟钝
-blush         v./
+blush         v.脸红
 board         v.上船(车,飞机)
 boast         v.(of,about)自夸,夸耀 
 boil          v.(使)沸腾,煮(沸)
@@ -5488,12 +5534,12 @@ boom          v.迅速发展,兴旺;发出隆隆声
 border        v.交界,与…接壤;接近
 bore          v.钻(孔),挖(洞);烦扰 
 bottle        v.装瓶
-bound         v./
-bow           v./
+bound         v.跳(跃) 
+bow           v.鞠躬,点头 
 box           v.把…装箱；拳击，打耳光
 boycott       v.(联合)抵制,拒绝参与
 brace         v.使防备;支撑;使(手,足,肩等)绷紧 
-brake         v./
+brake         v.制动(器),闸,刹车
 brand         v.使铭记;打火印,打烙印
 brave         v.勇敢地面对(危险等)
 breakfast     v.(给某人)吃早餐
@@ -5503,7 +5549,7 @@ bribe         v.向…行贿,买通
 brick         v.用砖围砌，用砖填补
 brief         v.简短介绍,简要汇报
 bring         v.拿来，带来；产生，引起；使处于某种状态
-broadcast     v./
+broadcast     v.广播(节目)
 brush         v.刷,擦,掸,拂;掠过
 bubble        v.冒泡,起泡,沸腾
 bud           v.发芽,含苞欲放
@@ -5523,7 +5569,7 @@ can           v.能；可以
 cancel        v.取消,把…作废;删去,划掉
 cap           v.覆盖于…顶端
 captain       v.做…的首领,指挥
-capture       v./
+capture       v.捕获,俘虏;夺得,攻占
 care          v.(about)关心,介意,计较
 carry         v.运送,搬运;传送,传播;领,带
 carve         v.(雕)刻
@@ -5532,7 +5578,7 @@ cast          v.投,扔,掷,抛；铸造；投票；
 catalog       v.编目(录)
 catch         v.捕捉,捕获;赶上;感染;理解,听到
 cause         v.使产生,引起
-cease         v./
+cease         v.停止,中止
 cement        v.胶合;巩固,加强
 chain         v.用链条拴住
 challenge     v.向…挑战
@@ -5543,11 +5589,11 @@ characterize              v.(characterise)表示…的特性;描述…特性
 charge        v.索(价);控告;充电 
 charm         v.迷人,(使)陶醉;施魔法于
 charter       v.租船,租车,租用飞机；
-chase         v./
-chat          v./
+chase         v.追逐,追求
+chat          v.闲谈,聊天
 cheat         v.欺骗;作弊 
 cheer         v.(使)振奋,(使)高兴 
-cheer         v./
+cheer         v.喝彩,欢呼
 chew          v.咀嚼;思量
 chill         v.使寒冷
 choke         v.窒息,噎住;闷塞,堵塞,阻塞
@@ -5561,26 +5607,26 @@ civilize      v.(=civilise)使文明,开化
 claim         v.要求;声称;索赔 
 clap          v.拍手,拍,轻拍 
 clarify       v.澄清,阐明
-clash         v./
+clash         v.碰撞 
 clasp         v.扣住,钩住;紧握,紧抱
 classify      v.分类,分等(级)
 clean         v.除去…污垢,把…弄干净
-climb         v./
+climb         v.攀登,爬
 cling         v.(to)粘住;依附;坚持
 clip          v.剪,修剪;钳,夹住 
 clone         v.克隆
-close         v./
+close         v.关；结束 
 clothe        v.(给…)穿衣,供给…衣服
 cluster       v.群集,丛生
 clutch        v.抓住,攫住,掌握 
 coat          v.涂(盖)上
 coil          v.卷,盘绕 
 coin          v.铸造(硬币),创造(新词)
-collapse      v./
+collapse      v.倒塌；崩溃；(价格)暴跌；倒闭，破产
 collect       v.收集,搜集;领取,接走;收(税等);聚集,堆积
 color         v.给…着色
 comb          v.梳(理)
-combat        v./
+combat        v.战斗,搏斗,格斗
 combine       v.联合；结合；化合 
 come          v.来；出现于，产生；是，成为；开始，终于
 comfort       v.安慰，使舒适
@@ -5599,12 +5645,12 @@ complicate    v.使…复杂；使…难懂；使（疾病等）恶化；
 compliment    v.称赞,恭维
 comply        v.(with)遵照，照做，应允；顺从，服从
 compose       v.组成,构成;(of)由…组成;创作(诗歌等)
-compute       v./
+compute       v.计算,估计
 conceal       v.隐藏,隐瞒,隐蔽
 conceive      v.(of)设想,构思,想象;以为;怀胎,怀有
 concentrate   v.(on)集中,专心;浓缩 
 concern       v.涉及,关系到 
-concern       v./
+concern       v.关心 
 conclude      v.结束,终止;断定,下结论;缔结,议定
 concrete      v.用混凝土修筑
 condemn       v.谴责,指责;判刑,宣告有罪
@@ -5618,13 +5664,13 @@ confront      v.使面临,使遭遇;面对(危险等)
 confuse       v.使混乱,混淆
 congratulate              v.(on)祝贺,向…致贺词
 conquer       v.征服,战胜,占领;克服,破除(坏习惯等)
-consent       v./
+consent       v.(to)同意,赞成,答应
 consider      v.考虑，细想；体谅，顾及；认为，把…看作
 consist       v.(in)在于,存在于;(of)由…组成,由…构成
 consolidate   v.使加固，使加强；(把…)联为一体，合并
 construct     v.建设,建造,构造;创立
 consult       v.请教，向…咨询，找…商量；查阅，查看
-contact       v./
+contact       v.(使)接触,联系,交往
 contain       v.包含，容纳；容忍，抑制；可被…除尽
 contaminate   v.弄污,弄脏,毒害,传染,染污
 contend       v.竞争,斗争;坚决主张
@@ -5648,23 +5694,23 @@ correspond    v.通信,(with)符合,一致;(to)相当于,对应
 corrode       v.(受)腐蚀,侵蚀
 corrupt       v.贿赂,收买 
 cost          v.价值为,花费
-cough         v./
+cough         v.咳嗽
 could         v.
-counsel       v./
+counsel       v.劝告,忠告 
 count         v.数,计算;算入;看作,认为 
 counter       v.反对,反击
 couple        v.连接,结合
 cover         v.覆盖,包括,涉及 
 crack         v.(使)破裂,砸开
-crash         v./
-crawl         v./
+crash         v.碰撞,坠落,摔坏 
+crawl         v.爬行,蠕动;缓慢(的)行进
 create        v.创造,创作;引起,造成,建立
-credit        v./
+credit        v.信用,信任 
 creep         v.爬,爬行;(植物)蔓延
 cripple       v.使跛,使残疾
 criticize     v.(criticise)批评,评论
 cross         v.穿过
-crow          v./
+crow          v.鸡啼,鸣叫
 crowd         v.聚集,群集;挤满,拥挤
 crown         v.为…加冕
 cruise        v.巡航；以节省燃料的速度前进 
@@ -5677,17 +5723,17 @@ curl          v.(使)卷曲,蜷缩
 curve         v.弄弯,成曲形
 cut           v.切，割，削;削减，删节 
 cycle         v.骑自行车;循环
-damage        v./
+damage        v.损害,毁坏 
 dance         v.跳舞;跳动
 dare          v.敢,胆敢
-dash          v./
+dash          v.冲,猛冲,突进 
 date          v.注明…的日期 
 date          v.约会
 dawn          v.破晓;开始现出
 dazzle        v.使惊奇,使倾斜;耀(眼) 
 deal          v.处理;做买卖,经营;分配;对待  
-debate        v./
-decay         v./
+debate        v.争论,辩论
+decay         v.腐朽,腐烂;衰减,衰退
 deceive       v.欺骗,蒙蔽
 decide        v.决定,下决心;解决,裁决
 declare       v.宣布,宣告,声明;断言,宣称
@@ -5700,7 +5746,7 @@ defend        v.防守,保卫;为…辩护,为…答辩
 define        v.给…下定义;阐述;阐释;限定,规定
 defy          v.(公然)违抗,反抗;蔑视
 degenerate    v.衰退,堕落,蜕化 
-delay         v./
+delay         v.耽搁,延迟
 delight       v.(使)高兴,(使)欣喜
 deliver       v.交付,递送;发表,表达;释放;接生
 demand        v.要求,请求,需要(量) 
@@ -5718,7 +5764,7 @@ desert        v.抛弃,遗弃;擅离,开小差
 deserve       v.应受,值得
 design        v.设计;构思;绘制;图案;企图 
 designate     v.指明,指出;任命,指派
-desire        v./
+desire        v.愿望,欲望,要求
 desolate      v.使荒芜
 despair       v.绝望
 despatch      v.(dispatch)派遣;发送 
@@ -5740,12 +5786,12 @@ diffuse       v.扩散;传播
 dig           v.挖,掘
 diminish      v.缩小,减少,递减
 dine          v.吃饭,进餐
-dip           v./
+dip           v.浸,蘸
 direct        v.管理,指导;(at,to)指向
 dirty         v.弄脏,玷污
 disappear     v.不见,消失
 discern       v.认出,发现;辨别,识别
-discharge     v./
+discharge     v.卸货,排出;发射,放(电);遣散,解雇
 disclose      v.揭示,泄露
 discourage    v.使泄气,使失去信心
 discover      v.发现,显示
@@ -5758,7 +5804,7 @@ dismay        v.(使)沮丧;(使)惊慌;(使)失望,(使)绝望
 dismiss       v.免职,解雇,开除,解散
 disperse      v.(使)分散;(使)散开;疏散
 displace      v.移置,转移;取代,置换
-display       v./
+display       v.陈列,展览,显示(器)
 dispose       v.(of)处理,处置;(for)布置,安排
 dispute       v.争论,辩论;反驳;怀疑;阻止
 dissipate     v.驱散;(使云、雾、疑虑等)消散;挥霍
@@ -5769,24 +5815,24 @@ distract      v.分散;使分心;打扰;使心情烦乱
 distress      v.使苦恼
 distribute    v.分发;分配;分布;配(电);(over)散布
 disturb       v.扰乱,妨碍,使不安
-dive          v./
+dive          v.潜水,跳水,俯冲
 divide        v.分,划分,分开;分配;(by)除
-divorce       v./
+divorce       v.离婚,分离
 do            v. 
 dominate      v.支配,统治,控制;占优势
 doom          v.注定,命定
 dose          v.(给…)服药
 dot           v.在…上打点
 doubt         v.怀疑,疑虑
-doze          v./
+doze          v.瞌睡;假寐
 draft         v.起草,草拟
 drag          v.拖,拖曳
 drain         v.排去,放干
 draw          v.拉;画;汲取;引出;(to)挨近 
-dread         v./
+dread         v.恐惧,担心
 dream         v.梦,梦想,幻想
 dress         v.穿衣,打扮
-drift         v./
+drift         v.漂,漂流(物)
 drill         v.练习;操练;钻孔 
 drink         v.(drank,drunk)喝，饮 
 drip          v.滴下,漏水 
@@ -5802,12 +5848,12 @@ dwell         v.住,居留
 dye           v.染,染色
 earn          v.赚得,挣得,获得
 ease          v.减轻;使舒适,使安心 
-echo          v./
+echo          v.回声,反响,共鸣
 edge          v.侧身移动,挤进
 edit          v.编辑,校订
 educate       v.教育,培养,训练
 eject         v.喷射,排出;驱逐
-elaborate     v./
+elaborate     v.精心制作(的);详细阐述(的)
 elect         v.选举,推选;选择,作出选择
 embark        v.(使)上船(或飞机,汽车等);着手,从事
 embrace       v.拥抱;包含;包围;环绕;采用;接受
@@ -5820,7 +5866,7 @@ enclose       v.围住,圈起,封入
 encounter     v.遇到,遭遇
 encourage     v.鼓励,怂恿
 end           v.终止，结束
-endeavor      v./
+endeavor      v.(endeavour)努力,尽力,力图
 endure        v.忍受,持久,持续
 enforce       v.实施,执行;强制;支持,坚持(要求,主张等)
 engage        v.(in)从事,着手;约定;使订婚;保证;雇用
@@ -5833,7 +5879,7 @@ ensure        v.确保,保证;使安全
 entertain     v.招待,款待;使娱乐;使欢乐;容纳,接受
 entitle       v.给以权利(或资格);给…称号(题名);授权
 envisage      v.想象，设想，展望，正视
-envy          v./
+envy          v.羡慕,忌妒
 equal         v.等于
 equip         v.(with)装备,配备;训练
 erase         v.擦掉;删去;消磁
@@ -5842,7 +5888,7 @@ erupt         v.(尤指火山)爆发
 escalate      v.(使)逐步增长(或发展)，(使)逐步升级
 escape        v.逃跑;避开,避免
 establish     v.建立,设立;安置,使定居
-estimate      v./
+estimate      v.估计,估价;评估
 evaluate      v.估价,评价;求…的值
 evaporate     v.蒸发,挥发;沉淀;发射;消失
 evolve        v.(使)发展;(使)进化;(使)进展
@@ -5850,7 +5896,7 @@ exaggerate    v.夸大,夸张
 examine       v.检查,调查;对…进行考试
 exceed        v.超过,胜过;越出
 except        v.除外;反对
-exchange      v./
+exchange      v.(for)交换,兑换;交流,交易;交换台
 excite        v.刺激,使激动;激发,激励
 exclaim       v.呼喊,惊叫,大声说
 exclude       v.拒绝,把…排除在外,排斥
@@ -5873,12 +5919,12 @@ explain       v.解释,说明
 explode       v.(使)爆炸,(使)爆发
 exploit       v.开拓;开发;剥削 
 explore       v.勘探,探测;探究,探索
-export        v./
+export        v.输出,出口 
 expose        v.(to)使暴露,受到;使曝光
 express       v.表达,表示 
 extend        v.延长,延伸;扩充;给予;提供;估价
 extinguish    v.熄灭;消灭;结束;压制;使黯然失色;偿清
-extract       v./
+extract       v.拔出,抽出;摘录 
 fabricate     v.捏造,编造(谎言,借口等);建造,制造
 face          v.面对着;朝,面向
 facilitate    v.使变得(更)容易;使便利;推动;帮助;处进
@@ -5903,20 +5949,20 @@ fell          v.击倒;打倒(疾病等);砍伐
 fence         v.用篱笆瓦围住;击剑
 ferry         v.摆渡;渡运(人,车或物等)
 fetch         v.取来;接来;引出;售得;吸引 
-fight         v./
+fight         v.打(仗),搏斗,斗争,战斗
 figure        v.描绘;计算;推测
 file          v.锉
 fill          v.(with)填满,充满
 finance       v.为…提供资金
 find          v.(found,found)找到；发现；发觉；感到
-fine          v./
+fine          v.罚金,罚款
 finish        v.完成;结束;用完;毁掉
 fish          v.捕鱼；钓鱼
-fit           v./
+fit           v.
 fix           v.(使)固定;修理;安装;决定;注视 
 flame         v.发火焰,燃烧
 flap          v.拍打,拍动
-flare         v./
+flare         v.闪耀,闪烁
 flash         v.发闪光,闪亮;闪现
 flavor        v.给…调味
 flaw          v.使破裂;使有缺陷
@@ -5929,14 +5975,14 @@ flourish      v.繁荣,茂盛,兴旺
 flow          v.流,流动 
 fluctuate     v.(使)波动;(使)起伏
 flush         v.发红;奔流
-foam          v./
+foam          v.泡沫,起泡沫
 focus         v.(on)使聚集
 fog           v.以雾笼罩，被雾笼罩
 fold          v.折叠;合拢;抱住 
 follow        v.跟随,接着;领会;沿着…前进,遵循;结果是
 forbid        v.禁止,不许
 force         v.强迫
-forecast      v./
+forecast      v.预测,预报
 foresee       v.预见,预知
 forge         v.锻造,伪造 
 forget        v.忘记,遗忘
@@ -5959,12 +6005,12 @@ further       v.促进,增进
 fuse          v.熔化,熔合
 fuss          v.忙乱,大惊小怪
 gain          v.获得；增加；表等走快 
-gallop        v./
+gallop        v.奔驰,飞奔
 gamble        v.投机,冒险;赌博
 gasp          v.喘息;气吁吁地说
 gather        v.聚集,聚拢;推测,推断
 gauge         v.测量
-gaze          v./
+gaze          v.凝视,注视
 gear          v.(to)调整,使适合
 generalize    v.(generalise)归纳,概括;推广,普及
 gesture       v.做手势
@@ -5979,23 +6025,23 @@ glue          v.胶合,粘贴
 go            v.去，离开；走；放置；变成；运转 
 gossip        v.(说)闲话,闲聊
 govern        v.统治,管理;决定,支配
-grab          v./
+grab          v.(at)抓(住);夺(得)
 grade         v.分等,分级
 graduate      v.大学毕业
 grant         v.同意,准予;授予 
-grasp         v./
+grasp         v.抓住,抓紧;掌握,领会
 grease        v.抹油,润滑
 greet         v.致敬,敬意,迎接;扑(鼻),入(耳),触(目)
 grieve        v.使悲伤,使伤心
 grind         v.磨(碎),碾(碎)
-grip          v./
-groan         v./
+grip          v.紧握,抓紧;掌握
+groan         v.呻吟
 grope         v.摸索,探索
 group         v.分组
 grow          v.生长，成长；渐渐变成；栽培，种植；发展
 guarantee     v.保证,担保
-guard         v./
-guess         v./
+guard         v.保卫，守卫，提防 
+guess         v.猜测，推测；以为；猜想[同]surmise
 guide         v.领路;指导;支配;管理
 hail          v.下雹;欢呼,欢迎 
 halt          v.止步,(使)停止
@@ -6045,14 +6091,13 @@ hope          v.希望，期望
 horse         v.骑马
 hose          v.用软管(淋浇,冲洗)
 house         v.给…房子住
-huddle        v.拥挤;聚集
-huddle        v.(因寒冷、害怕而)缩成一团
-hug           v./
+huddle        v.拥挤;聚集；(因寒冷、害怕而)缩成一团
+hug           v.热烈拥抱,紧抱
 hum           v.哼曲子；发嗡嗡声；忙碌
 humble        v.降低,贬低
 humiliate     v.使羞辱，使丢脸[同]disgrace
 hunger        v.饥饿;渴望
-hunt          v./
+hunt          v.打猎,猎取;(for)搜索;寻找
 hurt          v.刺痛,伤害;伤…的感情
 identify      v.识别,鉴别;(with)把…和…看成一样
 idle          v.空费,虚度
@@ -6066,7 +6111,7 @@ impact        v.影响;挤入,压紧
 impair        v.损害,损伤;削弱,减少
 implement     v.贯彻,实现
 imply         v.意指,含…意思,暗示
-import        v./
+import        v.进口,输入,(pl)进口商品;要旨,含意
 impose        v.征(税);(on)把…强加给
 impress       v.(on)印,盖印;留下印象,引人注目
 improve       v.改善,改进,增进;好转,进步
@@ -6074,7 +6119,7 @@ impulse       v.推动
 incline       v.(使)倾斜;(使)倾向于 
 include       v.包括,包含,计入
 incorporate   v.合并,纳入,结合 
-increase      v./
+increase      v.增加,增长,增进
 incur         v.招致,惹起,遭受
 index         v.附以索引
 indicate      v.指出,指示;表明,暗示
@@ -6097,7 +6142,7 @@ interface     v.(使)互相联系
 interfere     v.(in)干涉,干预;(with)妨碍,打扰
 interrupt     v.中断,遮断,阻碍;打断(话),打扰
 intervene     v.(in)干涉,干预;插入,介入
-interview     v./
+interview     v.接见,会见;采访;面试
 intrigue      v.密谋,私通;激起…的兴趣;诡计取得
 invent        v.发明,创造;捏造,虚构
 inverse       v.倒转
@@ -6111,7 +6156,7 @@ jog           v.慢跑
 join          v.参加，加入；联合，连接；和…在一起
 joke          v.说笑话,开玩笑
 journey       v.旅行
-jump          v./
+jump          v.跳跃,跳动,跳过;暴涨,猛增
 justify       v.证明…正当(或有理、正确)，为…辩护
 keep          v.保持,保存,遵守,经营,看守,拘留,维持
 kick          v.踢
@@ -6126,7 +6171,7 @@ label         v.把…称为；用标签于；用标签标明
 labor         v.劳动，苦干
 lace          v.系带,扎带
 lack          v.缺乏,不足
-lag           v./
+lag           v.落后,滞后 
 land          v.(使)靠岸(登陆,降落)
 lapse         v.失效,偏离,流逝
 lash          v.鞭打,摆动,捆扎 
@@ -6150,7 +6195,7 @@ lift          v.升起,举起,消散
 light         v.点燃；照亮 
 like          v.喜欢 
 limit         v.(to)限制,限定
-limp          v./
+limp          v.蹒跚,跛行
 line          v.排队;加衬
 linger        v.逗留,徘徊,拖延,留恋,浪费光阴,苟延残喘
 link          v.连接,联系 
@@ -6194,7 +6239,7 @@ meditate      v.想,考虑,(尤指宗教上的)沉思,冥想
 meet          v.遇见;会谈;迎接;满足;符合
 melt          v.(使)融化,(使)熔化
 mend          v.修理,缝补;改正,改进
-mention       v./
+mention       v.提及,说起
 merge         v.(使)结合，(使)合并，(使)合为一体
 merit         v.值得,应得
 mess          v.弄脏,弄乱,搞糟
@@ -6227,16 +6272,16 @@ move          v.移动,迁移;活动;感动
 mud           v.弄脏，使沾污泥
 multiple      v.成倍增加
 multiply      v.(by)乘,使相乘;倍增,增加,繁殖
-murder        v./
-murmur        v./
+murder        v.谋杀,凶杀
+murmur        v.小声说(话);小声抱怨,咕哝
 must          v.必须；很可能；一定要 
 mute          v.减弱…的声音
 mutter        v.低声说,抱怨
 nail          v.将…钉牢,钉住
 necessitate   v.使成为必要,需要
-need          v./
 need          v.需要；必须 
-neglect       v./
+need          v.需要；必须 
+neglect       v.忽视;疏忽,漏做,忽略
 negotiate     v.商订；谈判，洽谈，交涉
 nest          v.筑巢
 net           v.用网捕,使落网 
@@ -6284,7 +6329,7 @@ overhear      v.偶然听到,从旁听到
 overlap       v.重叠,与…交叠 
 overlook      v.看漏,忽略;俯瞰,眺望;宽容,放任
 overtake      v.追上,超过,突然降临,压倒
-overthrow     v./
+overthrow     v.推翻,颠覆
 overturn      v.打翻,推翻,颠倒,翻倒
 overwhelm     v.淹没,覆没,压倒,制服,使不知所措
 owe           v.欠(债等),应向…付出,归功于,得感谢
@@ -6307,12 +6352,12 @@ participate   v.(in)参与,参加;分享,分担;含有,带有
 party         v.举行(参加)社交聚会
 pass          v.经/通/穿/度过；传递 
 paste         v.粘,贴
-pat           v./
+pat           v.轻拍,轻打,抚摸
 patch         v.补,修补,掩饰
 patent        v.批准专利
 patrol        v.巡逻，巡查 
 pattern       v.仿制,模仿
-pause         v./
+pause         v.中止,暂停
 pave          v.铺砌,铺(路)
 pay           v.付款,付出代价,给予注意 
 pedal         v.踩踏板,骑自行车
@@ -6413,7 +6458,7 @@ proclaim      v.宣告,声明
 produce       v.生产,制造,显示,演出,导致 
 profit        v.(by,from)得利,获益;有利于
 programme     v.编程序
-progress      v./
+progress      v.进步，进展；前进
 prohibit      v.禁止,不准;阻止
 project       v.投射,放映;设计,规划
 prolong       v.拉长,延长,拖延
@@ -6425,7 +6470,7 @@ propose       v.提议,建议;提名,推荐;求婚
 prosecute     v.起诉，告发 
 prosper       v.成功,兴隆,昌盛,使成功,使昌隆,繁荣
 protect       v.(from)保护,保卫
-protest       v./
+protest       v.主张,断言,抗议,反对
 prove         v.证明,证实;检验;考验;鉴定;结果是,表明是
 provide       v.供应,供给,准备,预防,规定
 provoke       v.挑动;激发;招惹
@@ -6448,7 +6493,7 @@ question      v.询问;怀疑,对…表示疑问
 queue         v.(up)排队,排队等待
 quiet         v.使安静,平静
 quit          v.离开,退出;停止,放弃,辞职
-quiver        v./
+quiver        v.颤抖,抖动
 quote         v.引用,援引
 race          v.赛跑
 rack          v.使痛苦,折磨
@@ -6486,13 +6531,13 @@ recover       v.收回;(from)恢复,痊愈;重新获得
 recruit       v.征募(新兵)，吸收；补充 
 rectify       v.纠正,整顿, [化]精馏
 recur         v.(尤指不好的事)一再发生；重现
-recycle       v./
+recycle       v.再循环,重复利用
 reduce        v.减少,缩小;简化,还原
 reel          v.卷,绕
 refer         v.参考,查询;提到,引用,涉及;提交,上呈
 refine        v.精炼,精制,提纯;使文雅,使高尚
 reflect       v.反射,反映,表现,反省,沉思
-reform        v./
+reform        v.改革,改造,改良
 refrain       v.节制,避免,制止 
 refresh       v.(使)精神振作,(使)精力恢复
 refund        v.退还,偿还,偿付
@@ -6501,7 +6546,7 @@ refute        v.反驳,驳斥
 regard        v.(as)把…看作为;考虑
 register      v.登记,注册 
 register      v.(仪表等)指示,(邮件)挂号
-regret        v./
+regret        v.遗憾,懊悔,抱歉
 regulate      v.管制,控制;调节,校准;调整
 reign         v.统治,支配,盛行 
 reign         v.占优势
@@ -6530,15 +6575,15 @@ repair        v.补救,纠正;修理
 repay         v.偿还,报答
 repeat        v.重复,重说,重做 
 repel         v.击退,抵制,使厌恶,使不愉快
-reply         v./
+reply         v.(to)回答,答复,以…作答
 report        v.报告,汇报;传说,传阅
 represent     v.描述,表示;代表,代理;阐明,说明
-reproach      v./
+reproach      v.责备,指责
 reproduce     v.生殖;翻版;繁殖;复制,仿造
-request       v./
+request       v.请求,要求
 require       v.需要;(of)要求,命令
-rescue        v./
-research      v./
+rescue        v.营救,援救
+research      v.(into,on)研究,调查
 resemble      v.像,类似
 resent        v.对…表示忿恨,怨恨
 reserve       v.保留,储备;预定
@@ -6558,19 +6603,19 @@ retain        v.保持,保留
 retire        v.退休,引退;退却,撤退;就寝
 retort        v.报复,反击,反驳
 retreat       v.撤退,退却
-retrospect    v./
-return        v./
+retrospect    v.回顾，回想，追溯[反]foresee
+return        v.返回,回来;归还,送还;回答
 reveal        v.展现,显示,揭示,揭露,告诉,泄露
 revenge       v.替…报仇
 reverse       v.颠倒,倒转
 review        v.回顾,复习 
 revise        v.修订,校订;修正,修改
 revive        v.恢复;(使)复苏
-revolt        v./
+revolt        v.反抗,起义
 revolve       v.(使)旋转;考虑;【天】公转,循环
 reward        v.(for)酬劳;酬谢
 rid           v.(of)使摆脱,使去掉
-ride          v./
+ride          v.骑,乘
 ring          v.按(铃),敲(钟)
 riot          v.骚乱,暴动
 rip           v.撕,剥,劈,锯,裂开,撕裂 
@@ -6598,7 +6643,7 @@ sacrifice     v.(for,to)牺牲,献出
 safeguard     v.维护,保护,捍卫 
 sail          v.航行
 salt          v.腌,盐渍
-salute        v./
+salute        v.敬礼,鸣礼炮;迎接,欢迎
 sample        v.取样,采样
 sanction      v.批准,同意,支持,认可 
 sandwich      v.夹入,挤进
@@ -6614,16 +6659,16 @@ schedule      v.安排,预定
 scheme        v.计划,策划;阴谋
 scold         v.责骂,训斥
 score         v.得(分),记(…的)分数
-scorn         v./
+scorn         v.轻蔑,藐视
 scout         v.搜索,侦察
 scrap         v.废弃,报废
 scrape        v.刮(掉),擦过,勉强通过 
 scratch       v.抓,搔,扒 
-scream        v./
+scream        v.尖声叫,喊叫着说出,(风)呼啸
 screen        v.掩蔽,包庇;筛选
 screw         v.拧,拧紧
 seal          v.封,密封
-search        v./
+search        v.(for)搜索,寻找,探查
 seat          v.使坐下
 second        v.赞成,附和
 secure        v.得到;防护
@@ -6657,7 +6702,7 @@ shield        v.保护,防护
 shift         v.替换,转移
 shine         v.照耀,发光;擦亮 
 ship          v.装运，航运，运送；发货
-shiver        v./
+shiver        v.战栗,发抖
 shock         v.(使)震动/震惊
 shoot         v.发射;掠过,疾驰而过 
 shop          v.买东西
@@ -6696,7 +6741,7 @@ slit          v.切开,截开,纵割
 slope         v.(使)倾斜
 slow          v.(down)(使)放慢,减速
 smart         v.剧痛,刺疼
-smash         v./
+smash         v.打碎,粉碎
 smell         v.嗅,闻到;散发(…的)气味
 smoke         v.抽(烟);冒烟,冒气
 smooth        v.(over)掩饰
@@ -6704,7 +6749,7 @@ smuggle       v.走私;偷运
 snap          v.啪地移动；(使）突然断开，断开（成两截)
 snatch        v.攫取,抢夺
 soak          v.浸泡,浸湿,浸透
-sob           v./
+sob           v.哭泣,呜咽
 soil          v.弄脏,(使)变脏
 solve         v.解决,解答
 sort          v.分类,整理
@@ -6730,13 +6775,13 @@ spoil         v.损坏,搞错;宠坏,溺爱
 sponsor       v.发起,主办
 spot          v.认出,认清,发现;玷污,弄脏
 spray         v.喷,喷射
-spread        v./
+spread        v.伸开,伸展;散布,传播
 spring        v.跳,跳跃
 spur          v.刺激,激励
 spy           v.当间谍,刺探;察觉,发现
 square        v.使成方形
 squeeze       v.压榨,挤 
-stab          v./
+stab          v.刺,戳
 stack         v.堆积,堆起
 staff         v.配备工作人员
 stain         v.沾污;染色
@@ -6755,7 +6800,7 @@ steam         v.蒸发;蒸;用蒸汽开动
 step          v.踏,走,举步
 stick         v.刺,戳,扎;粘贴
 stimulate     v.刺激,使兴奋;激励,鼓舞
-sting         v./
+sting         v.刺,刺痛,剧痛;刺,叮
 stir          v.搅拌,搅动;动,摇动;激动;轰动;煽动,鼓动
 stitch        v.缝(合)
 stock         v.储存
@@ -6781,7 +6826,7 @@ submerge      v.沉没,淹没;潜入
 submit        v.(to)使服从,屈服;(to)呈送,提交
 substitute    v.(for)代替,替换
 subtract      v. (from)减(去)
-suck          v.&
+suck          v.吸，舐；吸收(取)
 sue           v.控告,对…提出诉讼,起诉
 suffer        v.(from)受痛苦,患病;受损失;遭受;忍受
 suffice       v.充足，足够；
@@ -6796,7 +6841,7 @@ supply        v.(with,to)供给,供应,补足
 suppose       v.料想,猜想;假定;
 suppress      v.镇压,压制;抑制,忍住;查禁
 surprise      v.使诧异,使惊异;奇袭 
-survey        v./
+survey        v.俯瞰,眺望;全面审视,调查;测量图,勘定
 survive       v.幸免于,幸存;比…长命
 suspect       v.猜想；怀疑；察觉 
 suspend       v.悬(浮)，挂；暂停，取消；推迟
@@ -6863,7 +6908,7 @@ treat         v.对待;治疗;论述;款待,请客
 tremble       v.发抖,颤抖；摇动；焦虑
 trench        v.(挖)沟，(挖)战壕
 trifle        v.玩弄；嬉耍；忽视
-trim          v./
+trim          v.整理,修整,装饰
 trip          v.绊倒；失足；犯错
 triple        v.使成三倍
 triumph       v.得胜,战胜
@@ -6873,7 +6918,7 @@ try           v.尝试，试图；试验，试用；审讯
 tuck          v.卷起;塞进
 tug           v.用力拖(或拉)；苦干 
 tumble        v.(使)摔倒;打滚,翻腾 
-turn          v./
+turn          v.(使)转动;(使)旋转;(使)转变 
 tutor         v.辅导;当导师;当家庭教师
 twist         v.捻;拧;扭曲;蜿蜒曲折而行 
 type          v.打字
@@ -6923,7 +6968,7 @@ whistle       v.吹口哨;鸣笛
 will          v. 将；会；愿意 
 wind          v.转动;缠绕;上发条,;蜿蜒而行
 wink          v.(使)眨眼；眨眼示意 
-wipe          v./
+wipe          v.擦,揩,抹
 wire          v.发电报(给)
 wish          v.希望；但愿；祝 
 withdraw      v.收回,撤消;缩回,退出;提取(钱)
@@ -6945,12 +6990,15 @@ yield         v.出产,生长;(to)屈服,服从
 zigzag        v.使曲折,曲折盘旋
 zip           v.(用拉链或像拉链那样)合上或打开
 zone          v.分区,划分地带
+
+
+vi
 abide         vi.(abode，abided)(by)遵守；坚持
 abound        vi.大量存在；(in，with)充满，富于
 accelerate    vi.加快，增加
 accept        vi.同意，认可
 access        vi.存取
-accord        vi.&
+accord        vi.符合，一致
 account       vi.说明，解释
 accumulate    vi.累积，聚积
 accuse        vi.指控，指责
@@ -7032,7 +7080,7 @@ fire          vi.开火
 flower        vi.开花
 fool          vi.干蠢事
 game          vi.赌博
-giggle        vi.／
+giggle        vi.痴笑；咯咯地笑 
 glare         vi.怒目而视;发射强光 
 graze         vi.吃青草 
 grin          vi.露齿而笑，咧嘴一笑
@@ -7048,7 +7096,7 @@ irrigate      vi.进行灌溉
 know          vi.知道，了解
 lie           vi.躺，平放；处于；位于 
 listen        vi.倾听(与介词to并用，方可置宾语)
-look          vi./
+look          vi.看，注视 
 mob           vi.围攻，聚众闹事
 opt           vi.抉择，选择
 pleasant      vi.满意；喜欢
@@ -7115,6 +7163,9 @@ win           vi.获胜，赢
 withhold      vi.忍住
 yell          vi.大叫;呼喊 
 zoom          vi.(飞机)陡升 
+
+
+vt
 abandon       vt.离弃，丢弃；遗弃，抛弃；放弃
 abolish       vt.废除(法律、习惯等)；取消
 absorb        vt.吸收(水、光、蒸汽等）；使全神贯注
@@ -7226,7 +7277,7 @@ buy           vt.买，买得；向…行贿，收买
 bypass        vt.绕过
 call          vt.叫，喊；打电话 
 can           vt.把…装罐
-caress        vt.／
+caress        vt.爱抚，抚摸
 caution       vt.劝…小心
 celebrate     vt.庆祝；颂扬，赞美
 centre        vt.集中 
@@ -7360,7 +7411,7 @@ inspect       vt.检查,调查,视察
 inspire       vt.鼓舞,激起;使产生灵感
 install       vt.(instal)安装,设置,安置；使就职,任命
 insulate      vt.隔离,孤立;使绝缘,使绝热
-insult        vt./
+insult        vt.侮辱,凌辱
 insure        vt.保险,给…保险;保证
 intend        vt.想要,打算,企图
 interpret     vt.解释,说明;口译
@@ -7392,7 +7443,7 @@ make          vt.制造，做成，准备
 manipulate    vt.(熟练地)使用，操作；(巧妙地)处理
 map           vt.在地图上标示出,绘制地图
 massacre      vt.残杀,集体屠杀 
-menace        vt./
+menace        vt.有危险性的人(或物)；威胁，威吓
 motivate      vt.促动；激励，鼓励，作为…的动机
 mushroom      vt.迅速生长,迅速增加,采蘑菇
 name          vt.给…取名；列举；提名
@@ -7414,13 +7465,13 @@ rape          vt.掠夺,蹂躏,强奸
 read          vt.辨认，观察 
 replace       vt.取代,替换,代替,把…放回原处
 retrieve      vt.重新得到，取回；挽回，补救；检索
-rouse         vt./
+rouse         vt.唤醒，唤起；激励；激起
 saturate      vt.使湿透，浸透；使充满，使饱和
 say           vt.说，讲；说明；比如说 
 see           vt.看见；会面；探望；知道，获悉；送行
 segregate     vt.使···分开，隔离（病患等）
 shove         vt.乱推；乱塞
-shrug         vt./
+shrug         vt.耸肩(表示冷淡、怀疑、无奈、不满等)
 sit           vt.使就坐
 skim          vt.撇去(液体表面)之漂浮物 
 skip          vt.故意忽略；略过
@@ -7480,7 +7531,7 @@ tow           vt.(用绳、链等)拖(车、船等)
 towel         vt.用毛巾擦或擦干
 trademark     vt.注册的…商标
 transcend     vt.超出,超越(经验、知识、能力的范围等)
-transfer      vt./
+transfer      vt.转移；转换；转让；过户；迁移；改乘
 transform     vt.改变,变换;变压;转化;改造,改造
 transmit      vt.传输/导；转送；发射 
 trap          vt.诱捕；使中圈套 
@@ -7514,9 +7565,11 @@ warn          vt.警告
 wash          vt.冲刷，洗；冲出 
 water         vt.浇灌；给…饮水 
 wedge         vt.楔牢,楔入,挤进
-welcome       vt./
+welcome       vt.欢迎；迎接
 win           vt.赢得；在…中获胜 
 wing          vt.装以翼
 withhold      vt.使停止;拒给;保留;抑制 
 withstand     vt.抵抗,经受住
 yell          vt.叫着说 
+
+
