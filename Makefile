@@ -1,7 +1,7 @@
 
 .PHONY : run
 run : main.exe
-	main.exe < input.txt > output.txt
+	main.exe < input1.txt > output.txt
 
 main.exe : A1.cpp
 	g++ -o main.exe A1.cpp
