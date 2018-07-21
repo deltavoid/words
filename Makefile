@@ -1,11 +1,11 @@
 
 .PHONY : run
-run : main.exe
-	main.exe < input1.txt > output.txt
+run : bin/main
+	cd bin && ./main < input1.txt > output.txt
 
-main.exe : A1.cpp
-	g++ -o main.exe A1.cpp
+bin/main : src/*
+	g++ -o bin/main src/*
 
 .PHONY : clean
 clean :
-	rm main.exe
+	rm bin/main
