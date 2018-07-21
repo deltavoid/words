@@ -192,7 +192,7 @@ analyse	vt.（analyze）分析，分解
 analysis	n.(planalyses)分析；分解
 analytic	adj.(analytical)分析的；分解的
 ancestor	n.祖宗，祖先；原型，先驱
-anchor	n./v.锚；危难时可依靠的人或物；用锚泊船
+anchor	n.用锚泊船v.锚；危难时可依靠的人或物；用锚泊船
 ancient	adj.古代的，古老的，古式的
 and	conj.和，与，而且；那么；接连，又
 anecdote	n.轶事，趣闻，短故事
@@ -318,7 +318,7 @@ athlete	n.运动员，体育家，身强力壮的人
 atmosphere	n.大气(层)；空气；气氛，环境；大气压
 atom	n.原子；微粒，微量
 attach	v.系，贴，装，连接；使成为一部分；使依恋
-attack	v./n.攻击，抨击；着手，开始  n.(病)发作
+attack	v.攻击，抨击；着手，开始n.攻击，抨击；着手，开始  n.(病)发作
 attain	vt.达到；完成；获得 vi.达到
 attempt	vt.企图，试图 n.努力，尝试，企图
 attend	vt.出席，参加；照顾，护理 vi.注意；侍奉
@@ -2167,7 +2167,7 @@ grateful	adj.(to,for)感激的;感谢的
 gratitude	n.感激,感谢
 grave	n.坟墓 adj.严肃的,庄重的
 gravity	n.重力,引力;严肃,庄重
-graze	vi.吃青草 vt.放牧;擦伤;掠过 .n.擦伤(处)
+graze	vi.吃青草 vt.放牧;擦伤;掠过 n.擦伤(处)
 grease	n.动物脂,油脂,润滑脂 v.抹油,润滑
 great	adj.伟大的；重要的；大量的；很好的；美好的
 greedy	adj.贪吃的,贪婪的,渴望的
@@ -2365,7 +2365,7 @@ housewife	n.家庭主妇
 housework	n.家务，家事(不可数)
 housing	n.住房，住房供给；(外、阀)壳，防护罩
 hover	vi.(鸟)盘旋，翱翔，(人)逗留在附近徘徊
-how	adv.1.(表示方法、手段、状态)怎样；如何
+how	adv.(表示方法、手段、状态)怎样；如何
 however	adv.然而，可是，不过，无论如何 conj.无论
 howl	n.怒吼，嗥叫 vi.(风等)怒吼，咆哮
 huddle	n./v.拥挤;聚集v.(因寒冷、害怕而)缩成一团
@@ -3303,7 +3303,7 @@ offset	n.分支,补偿 v.抵消,补偿
 offspring	n.子孙,后代;结果,产物
 often	adv.常常，经常，通常
 oil	n.油，石油 v.给…加润滑油；涂油，上油
-okay	adj.(okey，OK，O.K.)好，行，不错 n.同意
+okay	adj.(okey，OK，)好，行，不错 n.同意
 old	adj.年老的；…岁的；长时间的，老的；过去的
 omit	v.省略,删去;遗漏,忽略
 on	adj.连接上 prep.在…上；靠近 adv.向前，继续
@@ -4310,7 +4310,7 @@ semiconductor	n.半导体
 seminar	n.(大学的)研究班,研讨会
 senate	n.参议院,上院
 senator	n.参议员
-send	v.(sent,sent)1.打发；派遣 2.送；寄出
+send	v.(sent,sent)打发，派遣；送,寄出
 senior	adj.年长的;地位较高的 n.(大学)四年级学生
 sensation	n.感觉,知觉;激动,轰动,轰动一时的事情
 sense	n.感官;感觉;判断力;意义 v.觉得,意识到
@@ -5008,7 +5008,7 @@ tired	adj.疲劳的;厌倦的
 tiresome	adj.使人厌倦的,讨厌的
 tissue	n.织物,薄绢,纸巾;(动,植物的)组织
 title	n.书名,标题;头衔,称号
-to	prep.(表示方向)到；向；(表示间接关系)给.
+to	prep.(表示方向)到；向；(表示间接关系)给
 toast	n.烤面包,吐司;祝酒(词)v.烘,烤;(向…)祝酒
 tobacco	n.烟草,烟叶
 today	adv.在今天；现今，在当代 n.今天；现在

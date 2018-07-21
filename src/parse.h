@@ -18,7 +18,5 @@ const int Len = 1000;
 
 Entry parse(char* str, int len);
 
-typedef std::set<std::string> Classes;
-extern Classes classes;
 
 #endif
