@@ -27,7 +27,7 @@ void output_entry(Entry entry)
 void output_entry1(Entry entry)
 {
     cout << entry.word;
-    int tab = 12;
+    int tab = 16;
     int l = tab - (entry.word.size()) % tab;
     for (int i = 0; i < l; i++)
         cout << " ";
