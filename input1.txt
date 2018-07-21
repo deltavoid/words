@@ -9,7 +9,7 @@ aboard	ad.&prep.在船(飞机、车)上；ad.上船(飞机)
 abolish	vt.废除(法律、习惯等)；取消
 abound	vi.大量存在；(in，with)充满，富于
 about	ad.在周围；大约 prep.关于；在周围 a.准备
-above	a.上述的 ad.在上面  prep.在..之上，高于
+above	a.上述的 ad.在上面  prep.在…之上，高于
 abroad	ad.到国外，在国外；在传播，在流传
 abrupt	a.突然的，出其不意的；(行为等)粗鲁无礼的
 absence	n.缺乏，不存在；缺席，不在；缺席的时间
@@ -32,9 +32,9 @@ accessory	n.附件,附属品;(为全套衣服增加美感的)服饰
 accident	n.意外遭遇,事故；意外(因素)
 accidental	a.偶然的；意外的；无意中的
 acclaim	v.向…欢呼，公认 n.欢呼，喝彩，称赞
-accommodate	vt.向…提供住处；对...予以照顾性考虑
+accommodate	vt.向…提供住处；对…予以照顾性考虑
 accommodation	n.(accommodations)住宿，留宿；膳宿供应
-accompany	v.陪伴，陪同；伴随，和...一起发生，伴奏
+accompany	v.陪伴，陪同；伴随，和…一起发生，伴奏
 accomplish	v.实现(计划等)；达到(目的)；完成(任务)
 accord	vt.给予(欢迎、称颂等) vi.&n.符合，一致
 accordance	n.一致，和谐，符合
@@ -72,18 +72,18 @@ add	vt.加；增加(进)；进一步说/写 vi.(to)增添
 addict	v.使沉溺；使上瘾 n.沉溺于不良嗜好的人
 addition	n.加，加法；附加部分，增加(物)
 additional	a.额外的，附加的，另外的
-address	n.住址；致词 v.向...致词；在信封上写姓名
+address	n.住址；致词 v.向…致词；在信封上写姓名
 adequate	adj.充足的，足够的；适当的，胜任的
 adhere	vi.(to)粘着；坚持，遵守；依附，追随
 adjacent	a.(to)(时间上)紧接着的；邻近的，毗邻的
 adjective	n.形容词 a.形容词的，用作形容词的
 adjoin	v.临近，靠近；贴近，毗连
 adjust	vt.调节；整顿，调整 vi.适应(to)；使调节
-administer	v.施行，实施；掌管，料理...的事务；给予
+administer	v.施行，实施；掌管，料理…的事务；给予
 administration	n.经营，管理；行政，行政机关，管理部门
 admire	vt.钦佩,赞赏,羡慕；称赞,夸奖
 admission	n.允许进入；承认；入场费，入会费，入场券
-admit	vt.承认，供认；准许…进入，准许...加入
+admit	vt.承认，供认；准许…进入，准许…加入
 adolescent	n.青少年  a.青春期的，青少年的
 adopt	vt.采用，采取(态度等)；选定；收养
 adore	vt.崇拜,敬慕,爱慕；非常喜欢
@@ -95,7 +95,7 @@ advent	n.(重要事件等的)到来，来临
 adventure	n.冒险，冒险活动，奇遇 vt.大胆进行
 adverb	n.副词 a.副词的
 adverse	a.逆的，相反的；敌对的；不利的；有害的
-advertise	vt.公告，公布；为...做广告 vi.登广告
+advertise	vt.公告，公布；为…做广告 vi.登广告
 advice	n.劝告，忠告，(医生等的)意见
 advisable	a.可取的，适当的，明智的
 advise	vt.忠告，劝告，建议；通知，告知
@@ -103,7 +103,7 @@ advocate	n.辩护者，拥护者，鼓吹者 vt.拥护，提倡
 aerial	a.(在或来自)空中的，航空的 n.天线
 aeroplane	n.(airplane)(英)飞机
 aesthetic	a.(esthetic)美学的，艺术的；审美的
-affair	n.[pl.]事务；事情(件)；(个人的)事
+affair	n.[pl]事务；事情(件)；(个人的)事
 affect	vt.影响；(疾病)侵袭；感动 n.情感，感情
 affection	n.爱，喜爱；爱慕之情；感情；疾病，不适
 affiliate	v.使隶属(或附属)于 n.附属机构，分公司
@@ -111,7 +111,7 @@ affirm	vt.断言，坚持声称；肯定；证实,确认；
 affluent	a.富裕的，富有的，丰富的，富饶的
 afford	vt.担负得起(损失、费用、后果等)，买得起
 afraid	adj.害怕的，恐惧的；犯愁的，不乐意的
-after	prep.在...以后；在...后面 adv.以后，后来
+after	prep.在…以后；在…后面 adv.以后，后来
 afternoon	n.下午，午后
 afterward	ad.(afterwards)以后，后来
 again	ad.再次，另一次；重新；除此，再，更，还
@@ -156,8 +156,8 @@ Alloy	n.合金vt.将…铸成合金
 Ally	n.同盟者，同盟国，vt.使结盟；与…有关联
 almost	adv.几乎，差不多
 alone	a.单独的，孤独的 ad.单独地，独自地；仅仅
-along	ad.向前；和...一起，一同 prep.沿着，顺着
-alongside	ad.在旁边 prep.和...在一起；在...旁边
+along	ad.向前；和…一起，一同 prep.沿着，顺着
+alongside	ad.在旁边 prep.和…在一起；在…旁边
 aloud	adv.出声地，大声地
 alphabet	n.字母表；初步，入门
 already	ad.已，已经，早已
@@ -165,8 +165,8 @@ Also	ad.而且(也)，此外(还)；同样地
 Alter	vt.改变，更改；改做(衣服) vi.改变，变化
 alternate	a.交替的，轮流的 v.(使)交替，(使)轮流
 alternative	n.二选一；供选择的东西；取舍 a.二选一的
-although	conj.尽管，虽然...但是
-altitude	n.高度，海拔；[pl.]高处，高地
+although	conj.尽管，虽然…但是
+altitude	n.高度，海拔；[pl]高处，高地
 altogether	ad.完全，总之，全部地；总共；总而言之
 aluminum	n.(aluminium)铝
 always	ad.总是，无例外地；永远，始终
@@ -189,7 +189,7 @@ amuse	vt.向…提供娱乐，使…消遣；引人发笑
 analogue	n.类似物；相似体；模拟
 analogy	n.类似，相似，类比，类推
 analyse	vt.（analyze）分析，分解
-analysis	n.(pl.analyses)分析；分解
+analysis	n.(planalyses)分析；分解
 analytic	a.(analytical)分析的；分解的
 ancestor	n.祖宗，祖先；原型，先驱
 anchor	n./v.锚；危难时可依靠的人或物；用锚泊船
@@ -244,8 +244,8 @@ application	n.申请，请求，申请书；应用，实施，实用性
 apply	vi.(以书面形式)申请；请求 vt.应用；实施
 appoint	vt.任命，委派；指定，约定(时间、地点等)
 appointment	n.约会,约定；任命,委派;委任的职位
-appraisal	n.对...作出的评价；评价，鉴定，评估
-appreciate	vt.为...表示感激，感谢；欣赏，赏识，评价
+appraisal	n.对…作出的评价；评价，鉴定，评估
+appreciate	vt.为…表示感激，感谢；欣赏，赏识，评价
 approach	v.靠近，接近n.接近；途径，入门;方式,方法
 appropriate	a.适当的,恰当的,特有的 vt.拨给,挪用,盗用
 approval	n.批准，通过；赞成，同意
@@ -264,7 +264,7 @@ arise	v.出现，发生；(from)由…引起，由…产生
 arithmetic	n.算术，四则运算
 arm	n.手臂，扶手，臂状物 v.武装；配备 n.武器
 army	n.军队，陆军，军；大群，大批
-around	ad.在...周围，到处 prep.在..四周(或附近)
+around	ad.在…周围，到处 prep.在…四周(或附近)
 arouse	vt.唤醒，叫醒；唤起，激起
 arrange	v.安排，筹划；整理，使有条理，排列，布置
 array	n.大量；排列；盛装 v.列阵；装扮；排列
@@ -280,10 +280,10 @@ articulate	a.善于表达的；有关节相连的 v.清楚地讲话
 artificial	a.人工的，人造的，人为的；虚伪的，做作的
 artist	n.艺术家，美术家；(某方面的)能手
 artistic	a.艺术(家)的，美术(家)的；善于艺术创作的
-as	ad.同样地 conj.由于；像...一样 prep.作为
+as	ad.同样地 conj.由于；像…一样 prep.作为
 ascend	vi.渐渐上升，升高vt.攀登，登上
 ascertain	vt.确定，查明，弄清
-ash	n.灰，灰末；(pl.)骨灰；(pl.)废墟
+ash	n.灰，灰末；(pl)骨灰；(pl)废墟
 ashamed	a.惭愧的，羞耻的，害臊的
 ashore	ad.上岸；在岸上，向岸上
 aside	ad.在旁边，到一边 n.旁白；离题的话
@@ -297,7 +297,7 @@ assemble	vt.集合，召集；装配；收集 vi.集合，聚集
 assembly	n.集合；会议；装配；(美)洲议会的众议院
 assert	vt.断言,宣称；坚持；主张（权利、权威等）
 assess	vt.(为征税)评估(财产、收入)；征税；评价
-asset	n.(pl.)资产,财产；有价值的物品；天赋
+asset	n.(pl)资产,财产；有价值的物品；天赋
 assign	vt.派给，分配；选定，指定(时间、地点等)
 assignment	n.分配，指派；(指定的)作业，(分派的)任务
 assimilate	vt.吸收，消化；使同化 vi.被吸收；被同化
@@ -313,7 +313,7 @@ assure	vt.使确信，使放心(of)；向…保证
 astonish	vt.使惊讶，使吃惊
 astronaut	n.太空人，太空旅行者
 astronomy	n．天文学
-at	prep.[表示价格、速度等]以，达；在..方面
+at	prep.[表示价格、速度等]以，达；在…方面
 athlete	n.运动员，体育家，身强力壮的人
 atmosphere	n.大气(层)；空气；气氛，环境；大气压
 atom	n.原子；微粒，微量
@@ -341,7 +341,7 @@ aunt	n.姨母，姑母，伯母，婶母，舅母，阿姨
 aural	a.听觉的，听力的
 authentic	a.真的，真正的；可靠的，可信的，有根据的
 author	n.作者，作家，著作人；创始人，发起人
-authority	n.权力，权威；权威人士；(pl.)官方，当局
+authority	n.权力，权威；权威人士；(pl)官方，当局
 auto	n.(automobile)(口语)汽车
 automatic	a.自动(装置)的；无意识的；n.自动机械
 automation	n.自动，自动化，自动操作
@@ -371,7 +371,7 @@ back	a.后面的 ad.向后 v.倒退；支持 n.背；后面
 background	n.背景,经历；幕后
 backward	a.向后的,倒行的;迟钝的 ad.向后,朝反方向
 bacon	n.咸猪肉,熏猪肉
-bacterium	n.(pl.)bacteria 细菌
+bacterium	n.(pl)bacteria 细菌
 bad	a.坏的；低劣的；不舒服的；腐败的；严重的
 badge	n.徽章,像章；标记；象征；记号
 badly	ad.非常，严重地；坏地，差地，拙劣地
@@ -440,7 +440,7 @@ bed	n.床,床位；(苗)床,坛；河床，(湖、海的)底
 bee	n.蜂，蜜蜂；忙碌的人
 beef	n.牛肉
 beer	n.啤酒
-before	prep.(指时间)在…以前,在..前面，在..之前
+before	prep.(指时间)在…以前,在…前面，在…之前
 beforehand	ad.预先,事先
 beg	vt.请求，乞求 vi.恳请，行乞
 begin	v.(began,begun)开始，着手
@@ -448,7 +448,7 @@ beginning	n.开始，开端；起源，早期阶段
 behalf	n.利益
 behave	v.举止,举动,表现;运转,开动
 behavior	n.(behaviour)行为,举止；(机器等)运转情况
-behind	prep.在...的背后，(遗留)在..后面；落后于
+behind	prep.在…的背后，(遗留)在…后面；落后于
 being	n.生物，生命,存在；
 belief	n.信任，相信，信念；信仰，信条
 believe	vt.相信，认为 vi.相信，信任，信奉
@@ -464,7 +464,7 @@ beneath	prep.在…下边,在…之下 ad.在下方
 beneficial	a.(to)有利的,有益的
 benefit	n.利益,好处,恩惠 v.有益于;(from,by)受益
 benign	a.(病)良性的,(气候)良好的,仁慈的,和蔼的
-beside	prep.在...旁边，在...附近；和...相比
+beside	prep.在…旁边，在…附近；和…相比
 besides	ad.此外；并且 prep.于…之外；除…以外
 best	a.最好的(good和well最高级) ad.最好地；最
 bet	v.赌,打赌 n.打赌,赌注
@@ -474,7 +474,7 @@ between	prep.在…之间，在(两者)之间 ad.在中间
 beverage	n.(水，酒等之外的)饮料
 beware	v.当心,谨防
 bewilder	v.使迷惑,难住
-beyond	prep.在(或向)...的那边，远于；超出；
+beyond	prep.在(或向)…的那边，远于；超出；
 bias	n./v.(使有)偏见,偏心,偏袒
 Bible	n.圣经
 bibliography	n.(有关某一专题的)书目；参考书目
@@ -543,7 +543,7 @@ born	a.出生的，产生的；天生的，十足的
 borrow	vt.借，借入；(思想、文字等)采用，抄袭
 bosom	n.胸，胸部；胸怀；内心；a.亲密的
 boss	n.老板，上司 vt.指挥，控制，发号施令
-both	prep.两者(都)，双方(都） adj.两个..(都)
+both	prep.两者(都)，双方(都） adj.两个…(都)
 bother	vt.打扰，麻烦 vi.担心，烦恼 n.烦恼，焦急
 bottle	n.瓶(子) v.装瓶
 bottom	n.底(部);基础,根基;海底,湖底,河床
@@ -551,7 +551,7 @@ bounce	n./vi.(球)弹起,弹回；弹起,跳起；n.弹力
 bound	v./n.跳(跃) a.被束缚的，一定的；n.界限
 boundary	n.分界线,边界
 bow	v./n.鞠躬,点头 n.弓(形);蝴蝶结
-bowel	n.肠；［pl.］内部，深处
+bowel	n.肠；［pl］内部，深处
 bowl	n.碗(状物),钵
 bowling	n.保龄球运动
 box	n.盒，箱；包厢 v.把…装箱；拳击，打耳光
@@ -559,7 +559,7 @@ boy	n.男孩子，儿子；男性服务员
 boycott	n./v.(联合)抵制,拒绝参与
 brace	v.使防备;支撑;使(手,足,肩等)绷紧 n.托架
 bracket	n.(方)括号
-brain	n.(大)脑,骨髓;(pl.)脑力,智能
+brain	n.(大)脑,骨髓;(pl)脑力,智能
 brake	v./n.制动(器),闸,刹车
 branch	n.(树)条,分支;分店;(学科)分科,部门;支流
 brand	n.商标,标记,牌子 v.使铭记;打火印,打烙印
@@ -630,7 +630,7 @@ bus	n.公共汽车，总线，信息通路
 bush	n.灌木(丛)
 business	n.商业,生意;事务,业务,职责
 busy	a.忙，忙碌的；热闹的，繁忙的；(电话)占线
-but	conj.但是 prep.除...以外 ad.只，才，仅仅
+but	conj.但是 prep.除…以外 ad.只，才，仅仅
 butcher	n.屠夫,卖肉者
 butter	n.黄油,奶油 v.涂黄油于…上
 butterfly	n.蝴蝶
@@ -732,7 +732,7 @@ cent	n.分(币);百 per cent百分之
 centigrade	n./a.摄氏温度计(的);百分度(的)
 centimetre	n.(centimeter)厘米
 central	a.中心的,中央的,中枢的;主要的
-centre	n.中心，中央，中间 vt.集中 vi.以..为中心
+centre	n.中心，中央，中间 vt.集中 vi.以…为中心
 century	n.世纪,(一)百年
 cereal	n.加工而成的谷类食物；谷类植物，谷物
 ceremony	n.典礼,仪式;礼节,礼仪
@@ -741,7 +741,7 @@ certainly	ad.一定,必定,无疑;当然,行
 certainty	n.必然,肯定;必然的事
 certificate	n.证(明)书,执照
 certify	vt.证明，证实；发证书(或执照)给
-chain	n.链(条);(pl.)镣铐;一连串 v.用链条拴住
+chain	n.链(条);(pl)镣铐;一连串 v.用链条拴住
 chair	n.椅子；(会议的)主席 vt.当…的主席，主持
 chairman	n.主席,议长,会长,董事长
 chalk	n.粉笔,白垩
@@ -759,7 +759,7 @@ chapter	n. 章；回，篇
 character	n.性格,品质,特性;人物,角色;字符,(汉)字
 characteristic	a.(of)特有的,独特的 n.特征,特性
 characterize	v.(characterise)表示…的特性;描述…特性
-charge	v.索(价);控告;充电 n.(pl.)费用,代价;电荷
+charge	v.索(价);控告;充电 n.(pl)费用,代价;电荷
 charity	n.慈善(团体),仁慈,施舍
 charm	n.吸引力,魅力 v.迷人,(使)陶醉;施魔法于
 chart	n.图表；航海图；航行图 vt.绘图表，制图表
@@ -772,7 +772,7 @@ cheek	n.面颊,脸
 cheer	v.(使)振奋,(使)高兴 v./n.喝彩,欢呼
 cheese	n.干酪,乳酪
 chef	n.(餐馆等的)厨师长，厨师
-chemical	a.化学的 n.(pl.)化学制品,化学药品
+chemical	a.化学的 n.(pl)化学制品,化学药品
 chemist	n.化学家;药剂师
 chemistry	n.化学
 cheque	n.(check)支票,空白支票;总收入
@@ -783,7 +783,7 @@ chest	n.胸腔,胸膛;箱,柜
 chew	v.咀嚼;思量
 chicken	n.鸡肉；鸡，小鸡，小鸟
 chief	a.主要的,首要的 n.首领,领袖
-child	n.( [pl.] children)小孩，儿童，儿女
+child	n.( [pl] children)小孩，儿童，儿女
 childhood	n.幼年,童年
 chill	n.寒冷,寒气,寒战 v.使寒冷
 chimney	n.烟囱
@@ -812,7 +812,7 @@ circumference	n.圆周,周围
 circus	n.马戏团,杂技团;马戏场,杂技场
 cite	v.引用,引证,举(例)
 citizen	n.公民;市民,居民
-city	n．城市；都市；市
+city	n.城市；都市；市
 civil	a.公民的,市民的;民间的;民用的;有礼貌的
 civilian	n.平民 a.平民的;民用的
 civilization	n.(=civilisation)文明,文化
@@ -824,7 +824,7 @@ clarity	n.清晰,明晰
 clash	v./n.碰撞 n.碰撞声
 clasp	n.扣子,钩子;握手 v.扣住,钩住;紧握,紧抱
 class	n.班级，年级；种类，等级，阶级；(一节)课
-classic	n.(pl.)杰作,名著 a.第一流的,不朽的
+classic	n.(pl)杰作,名著 a.第一流的,不朽的
 classical	a.经典的,古典(文学)的
 classification	n.分类,分级
 classify	v.分类,分等(级)
@@ -833,7 +833,7 @@ classroom	n.教室，课堂
 clause	n.(正式文件或法律文件的)条款;从句,分句
 claw	n.爪,脚爪
 clay	n.粘土,泥土
-clean	a.清洁的，干净的v.除去..污垢,把...弄干净
+clean	a.清洁的，干净的v.除去…污垢,把…弄干净
 clear	a./ad.清晰的(地)vt.清除；使清楚vi.变清澈
 clergy	n.[总称]牧师，神职人员
 clerk	n.职员,办事员;店员
@@ -917,12 +917,12 @@ commercial	a.商业的；商务的；可获利的 n.广告节目
 commission	n.委员会;委任,委托(书),代办;佣金,手续费
 commit	v.把…交托给,提交;犯(错误),干(坏事)
 committee	n.委员会,全体委员
-commodity	n.(pl.)日用品；商品；农/矿产品；有用之物
+commodity	n.(pl)日用品；商品；农/矿产品；有用之物
 common	a.普通的；共同的；一般的；n.公有地
 commonplace	a.普通的，平庸的n.寻常的事物，平庸的东西
 commonwealth	n.共和国,联邦,共同体
 communicate	v.传达,传送;交流;通讯,通话
-communication	n.通讯,传达;(pl.)通讯系统;交通(工具)
+communication	n.通讯,传达;(pl)通讯系统;交通(工具)
 communism	n.共产主义
 community	n.同一地区的全体居民,社会,社区;共同体
 commute	v.乘公交车上下班,乘车(船等)往返于两地
@@ -934,7 +934,7 @@ comparative	a.比较的,相当的
 compare	vt.(to，with)比较；(to)把…比作vi.相比
 comparison	n.比较,对比,比喻,比拟
 compartment	n.卧车包房,(客车车厢内的)隔间;分隔的空间
-compass	n.罗盘,指南针;(pl.)圆规
+compass	n.罗盘,指南针;(pl)圆规
 compassion	n.同情；怜悯(for)
 compatible	a.能和睦相处的,合得来的;兼容的
 compel	v.强迫,迫使
@@ -950,10 +950,10 @@ complaint	n.抱怨，诉苦，怨言，控告；疾病
 complement	n.补足物，船上的定员；补语 vt.补充，补足
 complete	a.完全的,圆满的 v.完成,结束,使完满
 complex	a.复杂的;合成的,综合的 n.联合体
-complicate	v.使..复杂；使..难懂；使（疾病等）恶化；
+complicate	v.使…复杂；使…难懂；使（疾病等）恶化；
 complicated	a.错综复杂的,麻烦的,难解的
 complication	n.复杂,纠纷;并发症
-compliment	n.(pl.)问候,致意 n./v.称赞,恭维
+compliment	n.(pl)问候,致意 n./v.称赞,恭维
 comply	v.(with)遵照，照做，应允；顺从，服从
 component	n.组成部分,成分,元件 a.组成的,合成的
 compose	v.组成,构成;(of)由…组成;创作(诗歌等)
@@ -964,7 +964,7 @@ comprehend	vt.理解，领会；包含，包括
 comprehension	a.理解(力),领悟；包含，包含力
 comprehensive	a.内容广泛的,总括性的，综合的
 compress	vt.压紧，压缩；(把思想、文字等)浓缩
-comprise	vt.包含，包括，由...组成；构成，组成
+comprise	vt.包含，包括，由…组成；构成，组成
 compromise	n.妥协，折衷vi.妥协vt.危及，放弃(原则等)
 compulsory	a.必须做的，强制性的，(课程)必修的
 compute	v./n.计算,估计
@@ -995,7 +995,7 @@ confess	v.供认，承认，坦白，忏悔
 confidence	n.(in)信任;信心,自信;秘密,机密
 confident	n.(of,in)确信的,自信的
 confidential	a.秘(机)密的；表示信任的；担任机密工作的
-confine	vt.限制；使不外出，禁闭n.[pl.]界限，范围
+confine	vt.限制；使不外出，禁闭n.[pl]界限，范围
 confirm	v.使更坚固,使更坚定;(进一步)证实;确认
 conflict	n.战斗,斗争;抵触,冲突 v.(with)抵触,冲突
 conform	vi.(to)遵守，适应；相似，一致，符合
@@ -1003,7 +1003,7 @@ confront	v.使面临,使遭遇;面对(危险等)
 confuse	v.使混乱,混淆
 confusion	n.困惑，糊涂；混淆；混乱，骚乱
 congratulate	v.(on)祝贺,向…致贺词
-congratulation	n.(on)祝贺,(pl.)祝贺词
+congratulation	n.(on)祝贺,(pl)祝贺词
 congress	n.(代表)大会;(美国等国的)国会,议会
 conjunction	n.接合，连接，联合；连(接)词
 connect	vt.连接；与…联系，接通(电话) vi.连接
@@ -1027,7 +1027,7 @@ consideration	n.需要考虑的事,理由;考虑,思考;体谅,照顾
 consist	v.(in)在于,存在于;(of)由…组成,由…构成
 consistent	a.(in)前后一致的；（with）一致，符合
 console	n.控制台，仪表板；落地柜 vt.安慰，慰问
-consolidate	v.使加固，使加强；(把...)联为一体，合并
+consolidate	v.使加固，使加强；(把…)联为一体，合并
 conspicuous	a.显眼的,明显的
 conspiracy	n.阴谋，密谋，共谋
 constant	a.固定的，持续的,忠实的 n.常数,恒量
@@ -1037,19 +1037,19 @@ constitution	n.构成,构造,组成(方式),成分;体格;宪法
 constrain	vt.限制，约束；克制，抑制
 construct	v.建设,建造,构造;创立
 construction	n.建造，构造；建筑物，结构；释义，解释
-consult	v.请教，向...咨询，找...商量；查阅，查看
+consult	v.请教，向…咨询，找…商量；查阅，查看
 consultant	n.会诊医师,顾问医生;顾问
 consume	vt.消耗；吃完，喝光；(with)使着迷；烧毁
 consumption	n.消费(量),消耗
 contact	v./n.(使)接触,联系,交往
-contain	v.包含，容纳；容忍，抑制；可被...除尽
+contain	v.包含，容纳；容忍，抑制；可被…除尽
 container	n.容器;集装箱
 contaminate	v.弄污,弄脏,毒害,传染,染污
 contemplate	vt.盘算，计议；周密考虑；注视，凝视
 contemporary	a.现代的,当代的;同时代的
 contempt	n.轻视，藐视；受辱，丢脸
 contend	v.竞争,斗争;坚决主张
-content	n.容量,内容,(pl.)目录 a.(with)满足的
+content	n.容量,内容,(pl)目录 a.(with)满足的
 contest	n.竞争,竞赛,比赛 v.竞争,比赛,争论
 context	n.（文章等）前后关系；(事件等发生的)背景
 continent	n.大陆,洲
@@ -1067,7 +1067,7 @@ contrive	vt.谋划，策划；设法做到；设计，想出
 control	n.(over)控制,支配 v.控制,支配
 controversial	a.引起争论的,有争议的
 controversy	n.争论，辩论，争吵
-convenience	n.便利,方便;(pl.)便利设备
+convenience	n.便利,方便;(pl)便利设备
 convenient	a.(to)便利的,方便的
 convention	n.大会,会议;惯例,常规,习俗;公约,协定
 conventional	a.惯例的,常规的
@@ -1114,7 +1114,7 @@ cottage	n.村舍,小屋,别墅
 cotton	n.棉花;棉线,棉纱;棉制品
 couch	n.长沙发；(病人躺的)长榻vt.表达
 cough	v./n.咳嗽
-could	v.aux.(口语)(表示许可或请求）可以...，行
+could	v.aux.(口语)(表示许可或请求）可以…，行
 council	n.理事会,委员会,议事机构
 counsel	v./n.劝告,忠告 n.法律顾问,辩护人
 count	v.数,计算;算入;看作,认为 n.计数,总数
@@ -1146,7 +1146,7 @@ cream	n.乳脂,(鲜)奶油;奶油色
 create	v.创造,创作;引起,造成,建立
 creative	a.有创造力的,创造性的
 creature	n.人,动物;生物
-credential	n.凭证，(pl.)国书，证明书
+credential	n.凭证，(pl)国书，证明书
 credit	v./n.信用,信任 n.信用贷款,赊欠;名誉,名望
 creep	v.爬,爬行;(植物)蔓延
 crew	n.全体船员,全体乘务员
@@ -1154,9 +1154,9 @@ cricket	n.板球;蟋蟀
 crime	n.罪行,犯罪
 criminal	n.罪犯,刑事犯 a.犯罪的,刑事的
 cripple	n.跛子,残疾人 v.使跛,使残疾
-crisis	n.(pl.crises)危机,紧要关头
+crisis	n.(plcrises)危机,紧要关头
 crisp	a.脆的,易碎的;简明扼要的；（空气）清爽的
-criterion	n.(pl.criteria或criterions)标准，尺度
+criterion	n.(plcriteria或criterions)标准，尺度
 critic	n.批评家,评论家
 critical	a.批评的,评论的;危急,紧要的;临界的
 criticism	n.评论性的文章，评论；批评，指责，非难
@@ -1176,7 +1176,7 @@ cry	n.&v.叫，喊，哭；(鸟兽)叫，啼，鸣，嗥
 crystal	n.水晶,水晶饰品;结晶 a.水晶的,透明的
 cube	n.立方形,立方体;立方,三次幂
 cucumber	n.黄瓜
-cue	暗示, 提示, 球杆
+cue	n.暗示, 提示, 球杆
 cultivate	v.耕作,栽培,养殖;培养,教养,磨炼
 culture	n.文化,文明;修养;耕种；栽培,培育;
 cunning	a./n.狡猾(的),狡诈(的)
@@ -1189,12 +1189,12 @@ curious	a.好奇的, 求知的, 古怪的, 爱挑剔的
 curl	v.(使)卷曲,蜷缩 n.卷发;卷曲状;卷曲物
 currency	n.流传,流通；通货,货币
 current	n.电流,水流;潮流,趋势 a.当前的;流通的
-curriculum	n.(pl.curricula)课程,(学校等的)全部课程
+curriculum	n.(plcurricula)课程,(学校等的)全部课程
 curse	n.诅咒,咒语,祸因 vt.诅咒,咒骂,使受罪
 curtain	n.窗帘,门帘;幕(布);结束； vt遮掩
 curve	n.曲线,弯曲(物) v.弄弯,成曲形
 cushion	n.垫子,软垫 vt.装垫子;缓和,减轻;
-custom	n.习惯,风俗,惯例;(pl.)海关,关税
+custom	n.习惯,风俗,惯例;(pl)海关,关税
 customary	a.习惯的,惯例的
 customer	n.顾客,主顾
 cut	n./v.切，割，削;削减，删节 n.切口，伤口
@@ -1204,7 +1204,7 @@ cylinder	n.圆筒,圆锥体;汽缸
 daily	a.每日的 ad.每日,天天 n.日报
 dairy	n.牛奶场,奶店
 dam	n.水坝,水闸
-damage	v./n.损害,毁坏 n.(pl.)损害赔偿费
+damage	v./n.损害,毁坏 n.(pl)损害赔偿费
 damn	int.该死 vt.遣责；使失败 a.十足的 ad.极
 damp	n.潮湿 a.潮湿的 vt.使潮湿;使衰减
 dance	n.舞(蹈)；舞曲，舞会 v.跳舞;跳动
@@ -1562,13 +1562,13 @@ efficient	a.有效的,效率高的;有能力的,能胜任的
 effort	n.努力;成就;艰难的尝试
 egg	n.蛋; 卵; 卵形物
 ego	n.自我，自负，利已主义；(心理学)自我意识
-eight	num.八 pron.八(个，只...)
+eight	num.八 pron.八(个，只…)
 eighteen	num.十八，十八个
-eighty	num./a.八十 pron.八十(个，只...)
+eighty	num./a.八十 pron.八十(个，只…)
 either	ad.也(不) pron.两者之一 a.(两者中)任一的
 eject	v.喷射,排出;驱逐
 elaborate	v./a.精心制作(的);详细阐述(的)
-elapse	vi．(时间)溜走；(光阴)逝去
+elapse	vi.(时间)溜走；(光阴)逝去
 elastic	a.弹性的 n.松紧带,橡皮圈
 elbow	n.肘，(衣服的)肘部vt.用肘推，用肘挤
 elder	a.年长的,资格老的 n.长辈
@@ -1584,9 +1584,9 @@ elegant	a.优雅的;端庄的;雅致的
 element	n.元素;要素;成分;元件;自然环境
 elementary	a.初步的;基本的;[化]元素的;自然力的
 elephant	n.(动物)象
-elevate	vt.举起,提拔,振奋,提升...的职位
+elevate	vt.举起,提拔,振奋,提升…的职位
 elevator	n.电梯,升降机
-eleven	num.十一 pron./a.十一(个，只...)
+eleven	num.十一 pron./a.十一(个，只…)
 eligible	a.符合条件的;(尤指婚姻等)合适(意)的
 eliminate	vt.除去;淘汰;排(删,消)除;削减(人员)
 elite	n.<法>[集合名词]精华;精锐;中坚分子
@@ -1743,7 +1743,7 @@ excursion	n.短途旅行,游览;离题;[物理]偏移,漂移
 excuse	v.原谅,宽恕,免除 n.借口,辩解
 execute	v.实行;实施;执行;完成;履行;处死
 executive	n.总经理,董事,行政负责人 a.执行的,实施的
-exemplify	v.举例证明;示范;作...的范例[榜样]
+exemplify	v.举例证明;示范;作…的范例[榜样]
 exempt	a.免除的 v.免除 n.免税者;被免除义务者
 exercise	n.练习,习题;训练,锻练 v.训练,锻练;行使
 exert	v.尽(力),施加(压力等),努力
@@ -1807,7 +1807,7 @@ fabricate	v.捏造,编造(谎言,借口等);建造,制造
 fabulous	a.极好的；极为巨大的；寓言中的，传说中的
 face	n.脸,面貌;表情;正面 v.面对着;朝,面向
 facilitate	v.使变得(更)容易;使便利;推动;帮助;处进
-facility	n.灵巧,熟练;(pl.)设备,设施,便利条件
+facility	n.灵巧,熟练;(pl)设备,设施,便利条件
 fact	n.事实,实际
 factor	n.因素,要素
 factory	n.工厂
@@ -1861,7 +1861,7 @@ feasible	a.可行的;切实可行的;行得通的;可用的
 feast	n.节日;宴会
 feat	n.功绩，伟业，技艺
 feather	n.羽毛
-feature	n.特征;容貌;特色;特写 v.以...为特色
+feature	n.特征;容貌;特色;特写 v.以…为特色
 February	n.二月
 federal	a.联邦的;联邦制的;联合的;同盟的
 federation	n.同盟;联邦;联合;联盟;联合会
@@ -1889,20 +1889,20 @@ fiber	n.(fibre)纤维;构造;纤维制品
 fiction	n.虚构,编造;小说
 field	n.田野；运动场；(电或磁)场；领域，范围
 fierce	a.凶猛的,残忍的;狂热的,强烈的
-fifteen	num.十五 pron./a.十五(个，只...)
+fifteen	num.十五 pron./a.十五(个，只…)
 fifty	num.五十，五十个
 fight	v./n.打(仗),搏斗,斗争,战斗
 figure	n.体形;轮廓;数字;图形v.描绘;计算;推测
 file	n.锉刀;文件,档案 v.锉
 fill	v.(with)填满,充满
-film	n.电影；胶片；薄膜，薄层 vt.把..拍成电影
+film	n.电影；胶片；薄膜，薄层 vt.把…拍成电影
 filter	n.滤器,滤纸
 final	a.最终的,决定性的 n.结局;决赛;期末考试
 finally	ad.最后,最终;决定性地
 finance	n.财政,金融 v.为…提供资金
 financial	a.财政的,金融的
 find	v.(found,found)找到；发现；发觉；感到
-finding	n.发现,发现物;(常pl.)调查/研究结果
+finding	n.发现,发现物;(常pl)调查/研究结果
 fine	a.晴朗的,美好的,细致的 v./n.罚金,罚款
 finger	n.手指;指状物;指针
 finish	n.完成;结束;磨光 v.完成;结束;用完;毁掉
@@ -1912,12 +1912,12 @@ fireman	n.消防队员
 fireplace	n.壁炉
 firm	a.坚固的;坚决的,坚定的 n.公司,商号
 first	a./ad.第一；最初;首次 n.开始pron.第一名
-fish	n.(pl.fish(es))鱼；鱼肉 v.捕鱼；钓鱼
+fish	n.(plfish(es))鱼；鱼肉 v.捕鱼；钓鱼
 fisherman	n.渔夫，捕鱼人
 fist	n.拳头 vt.用拳头打；紧握
 fit	a.(病的)发作，痉挛 v./a.n.合适,试穿,安装
-fitting	a.适当的,恰当的 n.(常pl.)配件,附件;装配
-five	num.五 pron./a.五(个，只...)
+fitting	a.适当的,恰当的 n.(常pl)配件,附件;装配
+five	num.五 pron./a.五(个，只…)
 fix	v.(使)固定;修理;安装;决定;注视 n.困境
 fixture	n.固定设备;预定日期;比赛时间;定期存款
 flag	n.旗
@@ -1960,12 +1960,12 @@ fond	a.(of)喜爱的,爱好的
 food	n.食物，粮食，养料
 fool	n.傻子，笨蛋vt.欺骗，愚弄vi.干蠢事
 foolish	a.愚笨的,愚蠢的
-foot	n.(pl.feet)脚，足；英尺；底部
+foot	n.(plfeet)脚，足；英尺；底部
 football	n.足球
 footstep	n.脚步(声),足迹
 for	prep.为了；给；代替；向；支持 conj.因为?
 forbid	v.禁止,不许
-force	n.力量,力;势力;(pl.)(总称)军队 v.强迫
+force	n.力量,力;势力;(pl)(总称)军队 v.强迫
 fore	ad.在前面 a.先前的；在前部的 n.前部
 forecast	v./n.预测,预报
 forehead	n.前额;(任何事物的)前部
@@ -1985,14 +1985,14 @@ format	n.(出版物的)开本,版式,格式 vt.设计;安排
 formation	n.形成;构成;组织;构造;编制;塑造
 former	a.以前的,在前的 pron.前者
 formidable	a.强大的;令人敬畏的;可怕的;艰难的
-formula	n.(pl.formulae)公式;规则;分子式;药方
+formula	n.(plformulae)公式;规则;分子式;药方
 formulate	v. 用公式表示;规划;设计;系统地阐述
 forth	ad.向前；向外，往外
 forthcoming	a.即将到来的;准备好的;乐意帮助的;n.来临
 fortnight	n.两星期
 fortunate	a.幸运的,侥幸的
 fortune	n.运气;命运;财产;财富
-forty	num./a.四十 pron.四十(个，只...)
+forty	num./a.四十 pron.四十(个，只…)
 forum	n.论坛,讨论会
 forward	ad.(also forwards)向前 a.向前的 v.转交
 fossil	n.化石
@@ -2001,7 +2001,7 @@ foul	a.污秽的;邪恶的 v.弄脏;妨害;犯规 n.犯规
 found	vt.建立;创立;创办;使有根据;铸造;熔制
 foundation	n.基础,根本,建立,创立;地基,基金,基金会
 fountain	n.泉水,喷泉,源泉
-four	num.四 pron./a.四(个，只...)
+four	num.四 pron./a.四(个，只…)
 fourteen	num.十四，十四个
 fox	n.狐狸
 fraction	n.碎片,小部分,一点儿;分数
@@ -2044,9 +2044,9 @@ fulfill	v.(fulfil)完成,履行,实践,满足
 full	a.(of)满的,充满的 a./ad.完全,充分
 fume	n.(浓烈或难闻的）烟，气，汽
 fun	n.玩笑,娱乐;有趣的人(或事物)
-function	n.功能,作用;(pl.)职务;函数 v.起作用
+function	n.功能,作用;(pl)职务;函数 v.起作用
 fund	n.资金,基金;存款,现款;(知识等的)累积
-fundamental	a.基础的,基本的 n.(pl.)基本原则,基本原理
+fundamental	a.基础的,基本的 n.(pl)基本原则,基本原理
 funeral	n.丧葬,葬礼
 funny	a.滑稽的,可笑的
 fur	n.毛,毛皮
@@ -2066,7 +2066,7 @@ gallery	n.长廊,画廊,美术馆
 gallon	n.加仑
 gallop	v./n.奔驰,飞奔
 gamble	n./v.投机,冒险;赌博
-game	n.游戏，娱乐；比赛；(pl.)运动会 vi.赌博
+game	n.游戏，娱乐；比赛；(pl)运动会 vi.赌博
 gang	n.一帮,一群,一伙
 gaol	n.(jail)监狱；(不加冠词)监禁 vt.使…坐牢
 gap	n.缺口;差距;空白;缺乏
@@ -2115,7 +2115,7 @@ glad	a.高兴的，快活的；乐意的，情愿的
 glamor	n.(glamour)魅力;魔法 vt.迷惑
 glance	v.(at,over)扫视 n.匆匆看,一瞥,一眼
 glare	vi.怒目而视;发射强光 n.强光;怒视;炫耀
-glass	n.玻璃;玻璃杯;镜子;(pl.)眼镜
+glass	n.玻璃;玻璃杯;镜子;(pl)眼镜
 glide	n./v.溜,滑行;(时间)消逝
 glimpse	n./v.一瞥,瞥见
 glitter	n.光辉,灿烂 v.闪闪发光;闪耀
@@ -2137,8 +2137,8 @@ golf	n.高尔夫球
 good	a.好的;善良的;擅长的;乖的 n.好处;利益
 goodby	int.(goodbye)再见
 goodness	n.善良，仁慈；(食物等)精华 int.天哪
-goods	n.(pl.)货物，商品
-goose	n.(pl.geese)鹅,雌鹅,鹅肉
+goods	n.(pl)货物，商品
+goose	n.(plgeese)鹅,雌鹅,鹅肉
 gorgeous	a.华丽的；灿烂的；美丽的；宜人的；棒的
 gossip	n./v.(说)闲话,闲聊
 govern	v.统治,管理;决定,支配
@@ -2204,7 +2204,7 @@ guitar	n.吉他 vi.弹吉他
 gulf	n.海湾
 gum	n.树胶;口香糖
 gun	n.枪，炮，手枪
-gut	n.[pl.]胆量；内脏a.本能的vt.取出内脏
+gut	n.[pl]胆量；内脏a.本能的vt.取出内脏
 guy	n.家伙, 人
 gymnasium	n.(gym)体育馆，健身房
 habit	n.习惯,习性,脾性
@@ -2254,7 +2254,7 @@ hawk	n.鹰,隼
 hay	n.干草
 hazard	n.危险,冒险,危害 v.冒险,拼命
 he	pron.他；(不论性别的)一个人
-head	n.头；顶部；领导,首脑 v.主管；位于..顶部
+head	n.头；顶部；领导,首脑 v.主管；位于…顶部
 headache	n.头痛
 heading	n.标题
 headline	n.大字标题,新闻标题
@@ -2264,7 +2264,7 @@ heal	v.治愈,愈合
 health	n.健康,健康状况;卫生
 healthy	a.健康的,健壮的;有益健康的,卫生的
 heap	n.(一)堆,大量,许多 v.(up)堆,堆起
-hear	v.听见；审讯；(from)收到..的信/电话;听说
+hear	v.听见；审讯；(from)收到…的信/电话;听说
 hearing	n.听,倾听;听力;审讯
 heart	n.心(脏)；内心，感情；热忱；中心，要点
 heat	n.热,热度;热烈,激烈 v.(给)加热,(使)变热
@@ -2273,7 +2273,7 @@ heaven	n.天,天空,天堂;(Heaven)上帝,神
 heavy	a.重的,重型的;沉重的,大量的,猛烈的
 hedge	n.篱笆,树篱,障碍物 v.用树篱围住
 heel	n.脚后跟,踵,鞋跟
-height	n.高,高度;(常pl.)高地,高处
+height	n.高,高度;(常pl)高地,高处
 heighten	v.提高,升高
 heir	n.继承人
 helicopter	n.直升(飞)机
@@ -2308,7 +2308,7 @@ highly	ad.高度地,很,非常;赞许地
 highway	n.公路,大路
 hijack	v.劫持，劫机，拦路抢劫
 hike	n.徒步旅行；增加vi.徒步旅行vt.提高
-hill	n.小山，山岗，高地；[pl.]丘陵(地带)
+hill	n.小山，山岗，高地；[pl]丘陵(地带)
 him	pron.他(he的宾格形式)
 himself	pron.[反身代词]他自己；他本人
 hinder	v.(from)阻止,妨碍 a.后面的
@@ -2360,7 +2360,7 @@ hot	a.(炎)热的；辣的；急躁的；激动的；热衷的
 hotel	n.旅馆
 hound	n.猎狗；卑鄙的人 vt.用猎狗追，追逐
 hour	n.小时，钟点；时刻；课时，工作时间
-house	n.房屋；商业机构；[H-]议院 v.给...房子住
+house	n.房屋；商业机构；[H-]议院 v.给…房子住
 household	n.家庭，家人 a.家庭(务)的，家常的
 housewife	n.家庭主妇
 housework	n.家务，家事(不可数)
@@ -2374,14 +2374,14 @@ hug	v./n.热烈拥抱,紧抱
 huge	a.巨大的,庞大的
 hum	v.哼曲子；发嗡嗡声；忙碌n.嗡嗡声，嘈杂声
 human	a.人的,人类的 n.人
-humanity	n.人类,人性,人情;(pl.)人文科学
+humanity	n.人类,人性,人情;(pl)人文科学
 humble	a.谦卑的,恭顺的;地位低下的 v.降低,贬低
 humid	a.湿的,湿气重的
 humidity	n.湿气,湿度
 humiliate	v.使羞辱，使丢脸[同]disgrace
 humor	n.(humour)幽默,诙谐
 humorous	a.富于幽默感的，幽默的；滑稽的
-hundred	num.百，一百；[pl.]许多 a.一百的；许多
+hundred	num.百，一百；[pl]许多 a.一百的；许多
 hunger	n./v.饥饿;渴望
 hungry	a.饥饿的,渴望的
 hunt	v./n.打猎,猎取;(for)搜索;寻找
@@ -2440,11 +2440,11 @@ impatient	a.不耐烦的,急躁的
 imperative	n.命令;需要;规则;祈使语气a.强制的;紧急的
 imperial	a.帝国的，帝王的；(度量衡)英制的
 impetus	n.推动(力),促进
-implement	n.(pl.)工具,器具 v.贯彻,实现
+implement	n.(pl)工具,器具 v.贯彻,实现
 implication	n.含意，暗示，暗指；牵连
 implicit	a.含蓄的;(in)固有的;无疑问的;绝对的
 imply	v.意指,含…意思,暗示
-import	v./n.进口,输入,(pl.)进口商品;要旨,含意
+import	v./n.进口,输入,(pl)进口商品;要旨,含意
 importance	n.重要,重要性
 important	a.重要的,重大的;有地位的,有权力的
 impose	v.征(税);(on)把…强加给
@@ -2473,7 +2473,7 @@ incur	v.招致,惹起,遭受
 indeed	ad.确实,实在;真正地,多么
 independence	n.独立,自主
 independent	a.(of)独立的,自主的
-index	n.(pl.indexes,indices)索引 v.附以索引
+index	n.(plindexes,indices)索引 v.附以索引
 indicate	v.指出,指示;表明,暗示
 indication	n.指出,指示;表明,暗示
 indicative	a.(of)指示的,暗示的
@@ -2547,7 +2547,7 @@ instinct	n.本能,直觉,天性
 institute	n.学会,研究所;学院 v.设立,设置,制定
 institution	n.公共机构;协会;学校;研究所;制度;惯例
 instruct	v.教,教授;命令,指示
-instruction	n.教授;指导;(pl.)用法说明(书),操作指南
+instruction	n.教授;指导;(pl)用法说明(书),操作指南
 instrument	n.工具,仪器,器械;乐器
 instrumental	a.仪器的;器械的;乐器的;起作用的;有帮助的
 insulate	vt.隔离,孤立;使绝缘,使绝热
@@ -2589,7 +2589,7 @@ intervene	v.(in)干涉,干预;插入,介入
 interview	v./n.接见,会见;采访;面试
 intimate	a.亲密的,密切的 n.熟友,熟人
 intimidate	vt.胁迫，威胁(某人做某事)
-into	prep.到...里面，进入；成为(表示变化)
+into	prep.到…里面，进入；成为(表示变化)
 intricate	a.复杂的,错综的,难以理解的
 intrigue	n.阴谋v.密谋,私通;激起…的兴趣;诡计取得
 intrinsic	a.(指价值、性质)固有的，本质的，内在的
@@ -2665,7 +2665,7 @@ junk	n.废物，旧货；舢板
 jury	n.陪审团;全体评审员
 just	ad.正好地；刚才；只不过 a.公正的，公平的
 justice	n.公正,公平;审判,司法
-justify	v.证明...正当(或有理、正确)，为...辩护
+justify	v.证明…正当(或有理、正确)，为…辩护
 juvenile	n.青少年,少年读物 a.青少年的, 幼稚的
 keen	a.锋利的;敏锐的;敏捷的;(on)热心的,渴望的
 keep	v.保持,保存,遵守,经营,看守,拘留,维持
@@ -2699,7 +2699,7 @@ knot	n.(绳)结;(树)节;节(=海里/小时) v.打结
 know	vt.知道，了解；认识；识别 vi.知道，了解
 knowledge	n.知识,学识;知道,了解
 lab	n.(laboratory)实验室
-label	n.标签 v.把...称为；用标签于；用标签标明
+label	n.标签 v.把…称为；用标签于；用标签标明
 labor	n.(labour)工作，劳动；劳力 v.劳动，苦干
 lace	n.花边;带子,鞋带 v.系带,扎带
 lack	n./v.缺乏,不足
@@ -2731,7 +2731,7 @@ latent	a.潜在的,潜伏的,不易察觉的
 later	ad.后来,过后
 lateral	n.侧面的,旁边的
 Latin	a.拉丁的,拉丁文的 n.拉丁语
-latitude	n.纬度,行动或言论的自由(范围),(pl.)地区
+latitude	n.纬度,行动或言论的自由(范围),(pl)地区
 latter	a.后者的；后一半的，接近终了的 n.后者
 laugh	v.笑;(on)讥笑 n.笑,笑声
 laughter	n.笑,笑声
@@ -2777,15 +2777,15 @@ lend	vt.借给,贷(款)
 length	n.长,长度;一段,一节,程度,范围
 lens	n.透镜,镜头
 less	a./ad.更少的(地),更小的(地)
-lesson	n.(功)课；[pl.]课程；教训
+lesson	n.(功)课；[pl]课程；教训
 lest	conj.惟恐,免得
 let	v.让，允许，听任；设，假设；出租，租给
 letter	n.信,函件;字母,文字
 level	n.水平，水准，等级 v.弄平，铺平 a.水平的
 lever	n.杆,杠杆,手段,途径,工具
 levy	n.征收,征税,征兵 v.征收,征集,征用
-liability	n.责任,义务;(pl.)债务
-liable	a.有...倾向的；可能遭受...的；有责任的
+liability	n.责任,义务;(pl)债务
+liable	a.有…倾向的；可能遭受…的；有责任的
 liberal	a.慷慨的,大方的;富足的;自由的,思想开放的
 liberate	vt.解放,释放
 liberty	n.自由，自由权；特权
@@ -2869,7 +2869,7 @@ loudspeaker	n.扬声器,扩音器
 lounge	n.休息室,起居室,客厅
 love	n.爱，爱情，喜欢 vt.爱，热爱；爱好，喜欢
 lovely	a.可爱的,好看的;令人愉快的,美好的
-lover	n.爱好者;(pl.)情侣
+lover	n.爱好者;(pl)情侣
 low	a.低，矮；低级的，下层的，卑贱的；低声的
 lower	a.较低的,下级的,下游的 v.降下,放低
 loyal	a.(to)忠诚的,忠贞的
@@ -2911,7 +2911,7 @@ make	n.(产品)来源，制法 vt.制造，做成，准备
 male	n./a.男性(的),雄性(的)
 malignant	a.恶性的，致命的；恶意的，恶毒的
 mammal	n.哺乳动物
-man	n.(pl.men)人；人类(单数，不加冠词)；男人
+man	n.(plmen)人；人类(单数，不加冠词)；男人
 manage	v.经营,管理,处理;设法,对付;操纵,运用
 management	n.经营,管理;处理,操纵;管理部门
 manager	n.经理,管理人
@@ -2919,7 +2919,7 @@ maneuver	n.(manoeuvre)机动;运用,操作; v.机动
 manifest	v.表明,证明,显示 a.明白的,明了的
 manipulate	vt.(熟练地)使用，操作；(巧妙地)处理
 mankind	n.人类
-manner	n.方式;举止;(pl.)风度,礼貌;规矩;风俗
+manner	n.方式;举止;(pl)风度,礼貌;规矩;风俗
 manual	a.手的,手工做的,体力的 n.手册,指南
 manufacture	v.制造,加工 n.制造,制造业;产品
 manuscript	n.手稿,原稿
@@ -2941,7 +2941,7 @@ marvelous	a.(marvellous)惊人的,奇迹般的,妙极的
 Marxist	a.马克思主义的 n.马克思主义者
 masculine	a.男性的，似男性的；［语法］阳性的
 mask	n.面具,面罩;假面具,伪装 v. 掩饰,化装
-mass	n.大量,众多;团,块;(pl.)群众,民众;质量
+mass	n.大量,众多;团,块;(pl)群众,民众;质量
 massacre	vt.残杀,集体屠杀 n.残杀,大屠杀
 massive	a.大而重的,厚实的,粗大的;大规模的,大量的
 master	n.男主人;师傅;硕士 v.精通,控制 a.主要的
@@ -2977,8 +2977,8 @@ medical	a.医学的，医疗的，医药的；内科的
 medicine	n.内服药,医药;医术;医学,内科学
 medieval	a.中世纪的,中古(时代)的,老式的,原始的
 meditate	v.想,考虑,(尤指宗教上的)沉思,冥想
-meditation	n.熟虑;(尤指宗教的)默想,沉思;(pl.)冥想录
-medium	n.(pl.media)媒体,方法,媒介,介质 a.中等的
+meditation	n.熟虑;(尤指宗教的)默想,沉思;(pl)冥想录
+medium	n.(plmedia)媒体,方法,媒介,介质 a.中等的
 meet	n.会,集会 v.遇见;会谈;迎接;满足;符合
 meeting	n.会议,集合,汇合,会见,接见,汇合点
 melody	n.旋律，曲调；悦耳的音乐
@@ -3039,7 +3039,7 @@ ministry	n.(政府的)部;牧师
 minor	a.较小的,较小的 n.兼修学科 v.(in)兼修
 minority	n.少数,少数派,少数民族
 minus	a.负的,减的 prep.减去 n.负号,减号
-minute	n.分钟,片刻;(pl.)会议记录 a.微小的
+minute	n.分钟,片刻;(pl)会议记录 a.微小的
 miracle	n.奇迹,令人惊奇的人(或事)
 mirror	n.镜子;反映,反射 v.反映,反射
 mischief	n.损害,伤害,危害;恶作剧,胡闹;灾祸
@@ -3062,7 +3062,7 @@ moan	n.呻吟声,悲叹声 v.呻吟,抱怨,悲叹
 mob	n.乌合之众(尤指暴力者) vi.围攻，聚众闹事
 mobile	a.可动的,活动的,运动的
 mobilize	v.(mobilise)动员,赋予可动性
-mock	v.嘲笑 a.假的,模拟的 n.(常pl.)模拟考试
+mock	v.嘲笑 a.假的,模拟的 n.(常pl)模拟考试
 mode	n.方式,式样
 model	n.样式,型;模范;模型,原型;模特 v.模仿
 moderate	a.有节制的,中等的,适度的,温和的,稳健的
@@ -3112,7 +3112,7 @@ mould	n.(mold)模子，铸型 v.浇铸，造型，塑造
 mount	v.登上;安装n.支架,底板;(用于山名前)山峰
 mountain	n.山
 mourn	v.哀悼,忧伤
-mouse	n.(pl.mice)鼠,耗子
+mouse	n.(plmice)鼠,耗子
 mouth	n.口,嘴
 move	v.移动,迁移;活动;感动 n.移动,活动,行动
 movement	n.运动,活动;移动,迁移
@@ -3169,7 +3169,7 @@ nearly	ad.差不多,几乎
 neat	a.整洁的,干净的,优美的,精致的
 necessary	a.必需的,必要的;必然的 n.必需品
 necessitate	v.使成为必要,需要
-necessity	n.必要性,需要;必然性;(pl.)必需品
+necessity	n.必要性,需要;必然性;(pl)必需品
 neck	n.颈脖
 necklace	n.项链，项圈
 need	aux.v./v.需要；必须 n.需要；贫困，困窘
@@ -3201,8 +3201,8 @@ nickname	n.绰号，浑名vt.给…起绰号
 niece	n.侄女,甥女
 night	n.夜间；夜；晚(上)
 nightmare	n.恶梦；可怕的事物，无法摆脱的恐惧
-nine	num.九 pron./ad.九(个，只...)
-nineteen	num./a.十九 pron.十九(个，只...)
+nine	num.九 pron./ad.九(个，只…)
+nineteen	num./a.十九 pron.十九(个，只…)
 ninety	num.九十，九十个
 nitrogen	n.[化]氮
 no	ad.不是，不 a.没有的；不允许 n.不，拒绝
@@ -3247,7 +3247,7 @@ now	ad.现在，如今，目前；当时，于是，然后
 nowadays	ad.现今,现在
 nowhere	ad.任何地方都不,没有地方
 nuclear	a.核心的,中心的;原子核的,核能的
-nucleus	n.(pl.nuclei)核,核心,原子核
+nucleus	n.(plnuclei)核,核心,原子核
 nuisance	n.讨厌的人(或东西);麻烦事
 numb	a.麻木的,失去感觉的 v.使麻木
 number	n.数,数字,数量,号码,一群 v.共计,编号
@@ -3271,7 +3271,7 @@ objective	n.目标,目的 a.客观的,真实的
 obligation	n.义务,责任
 oblige	v.强迫,迫使;责成;(使)感激,施恩于
 obscure	a.暗的,朦胧的;模糊的,晦涩的
-observation	n.观察,观测,监视;(pl.)观察资料;观察力
+observation	n.观察,观测,监视;(pl)观察资料;观察力
 observe	v.观察,观测,注意到,监视,遵守,评述,说
 obsession	n.迷住, 困扰
 obsolete	a.已废弃的,过时的
@@ -3293,8 +3293,8 @@ odd	a.奇数的;奇怪的;单只的;临时的;带零头的
 odds	n.不平等,差异;机会
 odor	n.(odour)气味,香味,臭味,名声
 of	prep.…的；在…之中；用…制的；关于…的
-off	ad.离开；在远处；脱开 prep.从，从...离开
-offend	v.犯罪,冒犯,违反,得罪,使...不愉快
+off	ad.离开；在远处；脱开 prep.从，从…离开
+offend	v.犯罪,冒犯,违反,得罪,使…不愉快
 offensive	a.冒犯的,攻击的 n.攻势,进攻
 offer	v.提供,提议,出现 n.出价,提议,意图
 office	n.办公室,办事处;职务,公职;部,局,处
@@ -3313,7 +3313,7 @@ one	num.一 pron.一个(只)(表示代替可数的东西)
 oneself	pron.[反身代词]自己；亲自，本人
 onion	n.洋葱
 only	ad.仅仅，只不过 a.唯一的 conj.可是，不过
-onto	prep.在...上面；到...上面
+onto	prep.在…上面；到…上面
 opaque	a.不透明(光)的;难理解的,晦涩的
 open	n.公开,户外 a.开的,开放的 v.开
 opening	n.开,开放,开始,空缺,机会 a.开始的,开幕的
@@ -3385,7 +3385,7 @@ outward	a.外面的,公开的,向外的ad.向外,在外n.外表
 oval	a.卵形的，椭圆形的 n.卵形，椭圆形
 oven	n.炉,灶,灶箱
 over	ad.在上方；遍及地 prep.在的上方 a.结束的
-overall	a.全面的,综合的 n.(pl.)(套头)工作服
+overall	a.全面的,综合的 n.(pl)(套头)工作服
 overcoat	n.外衣,大衣
 overcome	v.战胜,克服
 overflow	v.(使)外溢,(使)溢出;溢出,流出,漫出
@@ -3419,9 +3419,9 @@ packet	n.小包裹,小捆;盒;一捆,一扎;邮船,班轮
 pact	n.合同,条约,公约,协定
 pad	n.垫,衬垫;便笺簿 v.加上衬垫
 paddle	n.桨 v.用桨划
-page	n.页,记录,事件,专栏 vt.给...标页码
+page	n.页,记录,事件,专栏 vt.给…标页码
 pail	n.桶, 提桶; 一桶的量
-pain	n.痛,痛苦;(pl.)努力,劳苦 vt.使痛苦
+pain	n.痛,痛苦;(pl)努力,劳苦 vt.使痛苦
 painful	a.疼痛的,使痛苦的,费力[心]的,棘手的
 paint	n.油漆,颜料 v.油漆;涂,涂漆;画;描绘,描述
 painter	n.漆工,画家
@@ -3451,7 +3451,7 @@ parameter	n.参数,参量
 parasite	n.寄生虫,食客
 parcel	n.包裹,邮包,部分 v.打包,捆扎,分配
 pardon	n.原谅,宽恕;请再说一遍 v.原谅,饶恕,赦免
-parent	n.父母,母亲;(pl.)双亲;父母
+parent	n.父母,母亲;(pl)双亲;父母
 park	n.公园,停车场,运动场 v.停放(汽车等),寄放
 parliament	n.国会,议会
 part	n.部分,角色,一方,零件,地区,部,篇v.使分开
@@ -3466,7 +3466,7 @@ party	n.聚会,政党,当事人 v.举行(参加)社交聚会
 pass	v.经/通/穿/度过；传递 n.通行证；考试及格
 passage	n.通过,经过;通路,走廊;(一)段落,(一)节
 passenger	n.乘客,旅客
-passer-by	n.(pl.passers-by)过路人
+passer-by	n.(plpassers-by)过路人
 passion	n.热情,激情,爱好;激怒;强烈感情
 passive	a.被动的,消极的
 passport	n.护照,达到某种目的的手段
@@ -3519,7 +3519,7 @@ people	n.人们，人；[the-]人民；一国人民，民族
 pepper	n.胡椒粉,胡椒;辣椒
 per	prep.每;经,由
 perceive	v.察觉,感知;理解,领悟
-percent	n.(per cent)百分之...的
+percent	n.(per cent)百分之…的
 percentage	n.百分数,百分率,百分比
 perfect	a.完善的;完全的;(语法)完成的 v.使完美
 perfection	n.尽善尽美,完美
@@ -3539,7 +3539,7 @@ perplex	v.使困惑,使费解,使复杂化
 persecute	v.迫害
 persevere	v.坚持,坚忍,不屈不挠
 persist	v.(in)坚持,持续
-person	n.人，喜欢(或适应)..的人；人物；人称
+person	n.人，喜欢(或适应)…的人；人物；人称
 personal	a.个人的,私人的;亲自的;身体的,人身的
 personality	n.人格,个性
 personnel	n.全体人员,全体职员;人事(部门)
@@ -3604,7 +3604,7 @@ planet	n.行星
 plant	n.植物,作物;工厂;装置 v.栽种,播种,栽培
 plantation	n.种植园
 plaster	n.灰泥;熟石膏;膏药
-plastic	n.(常pl.)塑料,塑料制品 a.可塑的,塑性的
+plastic	n.(常pl)塑料,塑料制品 a.可塑的,塑性的
 plate	n.金属板,片;盘子,盆子;板,钢板v.镀,电镀
 plateau	n.高原,平稳状态[时期]
 platform	n.平台,台;站台,月台;政纲,党纲
@@ -3646,7 +3646,7 @@ polite	a.有礼貌的,客气的;有教养的,文雅的
 political	a.政治的
 politician	n.政治家,政客
 politics	n.政治,政治学;政纲,政见
-poll	n.民意测验;(pl.)政治选举 v.获得…选票
+poll	n.民意测验;(pl)政治选举 v.获得…选票
 pollute	v.弄脏,污染
 pollution	n.污染
 pond	n.池塘
@@ -3670,7 +3670,7 @@ pose	n.姿势,姿态 v.造成,提出,摆姿势,佯装
 position	n.位置;职位;姿势,姿态;见解,立场,形势
 positive	a.肯定的,积极的,绝对的,无疑的,正的
 possess	v.占有,拥有
-possession	n.持有,拥有;所有权;所有物;(pl.)财产,财富
+possession	n.持有,拥有;所有权;所有物;(pl)财产,财富
 possibility	n.可能,可能性;可能的事,希望
 possible	a.可能的,做得到的;合理的;可允许的
 possibly	ad.可能地，也许；无论如何
@@ -3694,7 +3694,7 @@ powerful	a.强大的,有力的,有权的
 practical	a.实际的,实用的
 practically	ad.几乎,实际上,简直
 practice	n.练习,实践,实际,业务,惯例,习惯
-practise	v.练习,实习,实践,实行,使...练习,训练
+practise	v.练习,实习,实践,实行,使…练习,训练
 practitioner	n.实践者，从事者；(医生或律师等)开业者
 praise	v.赞扬,歌颂;表扬 n.称赞,赞美;赞美的话
 pray	v.请求,恳求;祈祷,祈求
@@ -3771,7 +3771,7 @@ probe	n.探针,探测器 v.(以探针等)探查,穿刺,查究
 problem	n.问题,疑难问题;思考题,讨论题
 procedure	n.程序,手续,步骤
 proceed	v.进行,继续下去;发生
-proceeding	n.行动,进行,(pl.)会议录,学报
+proceeding	n.行动,进行,(pl)会议录,学报
 process	n.过程,进程;工序,制作法;工艺 v.加工,处理
 procession	n.队伍,行列
 proclaim	v.宣告,声明
@@ -3830,7 +3830,7 @@ prove	v.证明,证实;检验;考验;鉴定;结果是,表明是
 provide	v.供应,供给,准备,预防,规定
 provided	conj.倘若,只要,假如
 province	n.省;领域,范围,本分
-provision	n.供应,(一批)供应品;预备;条款;(pl.)给养
+provision	n.供应,(一批)供应品;预备;条款;(pl)给养
 provoke	v.挑动;激发;招惹
 prudent	a.谨慎的,智慧的,稳健的,节俭的
 psychiatry	n.精神病学，精神病疗法
@@ -3858,7 +3858,7 @@ purse	n.钱包
 pursue	v.追赶,追踪;继续,从事
 pursuit	n.追赶,追求;职业,工作
 push	v.推;催逼,逼迫 n.推,推力;促进,推进
-put	vt.放，搁，置；表达；使处于...状态，记下
+put	vt.放，搁，置；表达；使处于…状态，记下
 puzzle	n.难题,谜,迷惑 v.(使)迷惑,(使)为难
 pyramid	n.金字塔
 qualification	n.资格,合格;限定,条件;合格证
@@ -3870,7 +3870,7 @@ quantitative	a.数量的,定量的
 quantity	n.量,数量;大量
 quarrel	v.争吵,争论 n.争吵,争吵的原因
 quart	n.夸脱
-quarter	n.四分之一;季;一刻钟;(pl.)方向;(pl.)住处
+quarter	n.四分之一;季;一刻钟;(pl)方向;(pl)住处
 quarterly	a.每季的 ad.每季一次 n.季刊
 quartz	n.石英
 queen	n.女王,皇后,王后
@@ -3903,8 +3903,8 @@ radioactive	a.放射性,放射引起的
 radius	n.半径,半径范围,有效航程,范围,界限
 rag	n.抹布,破布,碎布
 rage	n.愤怒
-raid	n/v..袭击,搜查
-rail	n.栏杆,围栏;(pl.)铁路;铁轨;横杆,栏杆
+raid	n/v…袭击,搜查
+rail	n.栏杆,围栏;(pl)铁路;铁轨;横杆,栏杆
 railroad	n.(railway)铁路 v.由铁道运输
 rain	n.雨；雨天；下雨 vi.下雨 vt.使大量落下
 rainbow	n.虹
@@ -3916,7 +3916,7 @@ range	n.范围,领域;排列,连续;(山)脉v.排列成行
 rank	n.军衔,社会阶层;排 v.分等级,把…分类
 rap	n.叩击,轻拍,斥责 v.敲,拍,打,斥责,使着迷
 rape	n./vt.掠夺,蹂躏,强奸
-rapid	a.快,急速的 n.(pl.)急流,湍滩
+rapid	a.快,急速的 n.(pl)急流,湍滩
 rare	a.稀有的,难得的,珍奇的;稀薄的,稀疏的
 rarely	ad.很少,难得,非常地
 rash	a.轻率的,鲁莽的 n.皮疹
@@ -3990,14 +3990,14 @@ reflection	n.(reflexion)映像,倒影;反省,沉思
 reform	v./n.改革,改造,改良
 refrain	v.节制,避免,制止 n.(诗的)叠句
 refresh	v.(使)精神振作,(使)精力恢复
-refreshment	n.(pl.)点心,饮料;精力恢复,爽快
+refreshment	n.(pl)点心,饮料;精力恢复,爽快
 refuge	n.避难处,藏身处
 refugee	n.(政治上的)避难者，难民
 refund	n.归还,偿还额,退款 v.退还,偿还,偿付
 refusal	n.拒绝,回绝
 refuse	v.拒绝,谢绝 n.废物,垃圾
 refute	v.反驳,驳斥
-regard	v.(as)把…看作为;考虑n.(pl.)敬重,问候
+regard	v.(as)把…看作为;考虑n.(pl)敬重,问候
 regarding	prep.关于,有关
 regardless	a./ad.不管…的,不顾…的,不注意的
 regime	n.政体,制度
@@ -4033,7 +4033,7 @@ reluctant	a.不愿的,勉强的
 rely	v.(on)依赖,依靠;信赖,信任
 remain	v.剩下,余留;留待,尚须;仍然是,依旧是
 remainder	n.剩余物,剩下的;余数,余项
-remains	n.(pl.)剩余,残余,遗迹
+remains	n.(pl)剩余,残余,遗迹
 remark	n.(about,on)评语,意见 v.(on)评论;注意到
 remarkable	a.值得注意的;显著的,异常的,非凡的
 remedy	n.药品;治疗措施 v.治疗,医治;纠正,补救
@@ -4055,7 +4055,7 @@ repeatedly	ad.重复地,再三地
 repel	v.击退,抵制,使厌恶,使不愉快
 repertoire	n.节目,全部剧目,保留剧目,全部技能
 repetition	n.重复,反复
-replace	vt.取代,替换,代替,把...放回原处
+replace	vt.取代,替换,代替,把…放回原处
 replacement	n.取代,替换,替换物,代替物
 reply	v./n.(to)回答,答复,以…作答
 report	n./v.报告,汇报;传说,传阅
@@ -4090,7 +4090,7 @@ resolute	a.坚决的,果断的
 resolution	n.坚决,决心;决定,决议
 resolve	v.决心;(使)分解,溶解;决议 n.解决;决心
 resort	v.凭借,求助,诉诸n.度假胜地,常去之处,手段
-resource	n.(pl.)资源,财力;办法,智谋;应变之才
+resource	n.(pl)资源,财力;办法,智谋;应变之才
 respect	n./v.尊敬,尊重 n.敬意,问候,关系,方面
 respective	a.各自的,各个的
 respond	v.回答,响应,作出反应
@@ -4191,7 +4191,7 @@ rubbish	n.垃圾,废物;废话
 ruby	n.红宝石
 rude	a.粗鲁的;猛烈的,残暴的;粗糙的,粗陋的
 rug	n.(小)地毯;围毯
-ruin	v.毁灭;(使)破产 n.毁灭,崩溃;(pl.)废墟
+ruin	v.毁灭;(使)破产 n.毁灭,崩溃;(pl)废墟
 rule	v.统治;支配;裁定n.规章,条例;习惯;统治
 ruler	n.统治者,支配者;尺,直尺
 rumor	n.(rumour)传闻,谣言
@@ -4222,7 +4222,7 @@ salvation	n.拯救,救助;救济(者,品),救助工具;救世主
 same	a.相同的 pron.相同的人(或物) ad.同样地
 sample	n.样品,实例,标本,抽样检查 v.取样,采样
 sanction	n./v.批准,同意,支持,认可 n.处罚,制裁
-sand	n.沙;(pl.)沙滩,沙地
+sand	n.沙;(pl)沙滩,沙地
 sandwich	n.三明治,夹肉面包 v.夹入,挤进
 sane	a.心智健全的,神志清醒的,明智的,稳健的
 sarcastic	a.讽刺的
@@ -4238,7 +4238,7 @@ saucer	n.茶托,碟子
 sausage	n.香肠,腊肠
 savage	a.野蛮的;凶恶的,残暴的 n.野人,未开化的人
 save	v.救,拯救;储蓄,贮存;节省
-saving	n.挽救,救助,节约,储蓄;(pl.)储蓄金,存款
+saving	n.挽救,救助,节约,储蓄;(pl)储蓄金,存款
 saw	n.锯子,锯床 v.锯,锯开
 say	vt.说，讲；说明；比如说 vi.说，发表意见
 scale	n.刻度;天平,磅秤;比例尺;规模;音阶;鱼鳞
@@ -4291,7 +4291,7 @@ secretary	n.秘书,书记;部长,大臣
 section	n.章节,部分;地区,部门,科;截面,剖面
 sector	n.部门，部分；防御地段，防区；扇形
 secure	a.(from,against)安全的,放心的v.得到;防护
-security	n.安全(感),防御(物),保证(人),(pl.)证券
+security	n.安全(感),防御(物),保证(人),(pl)证券
 see	vt.看见；会面；探望；知道，获悉；送行
 seed	n.种子 v.播种;结实,结籽
 seek	v.(after,for)寻找,探索;试图,企图
@@ -4303,7 +4303,7 @@ seize	v.抓住,逮住;夺取,占领;没收,查封
 seldom	ad.很少,不常
 select	v.选择,挑选 a.精选的,选择的
 selection	n.选择,挑选;选集,精选物
-self	n.自我，自己(pl.selves)
+self	n.自我，自己(plselves)
 selfish	adj.自私的，利己的
 sell	v.卖,出售
 semester	n.学期
@@ -4380,7 +4380,7 @@ shoot	v.发射;掠过,疾驰而过 n.嫩枝,苗,射击
 shop	n.商店，店铺；工厂，车间  v.买东西
 shopkeeper	n.店主
 shore	n.海滨,湖滨
-short	a.短的,矮的;(of)缺乏,不足 n.(pl.)短裤
+short	a.短的,矮的;(of)缺乏,不足 n.(pl)短裤
 shortage	n.不足,缺少
 shortcoming	n.短处,缺点
 shorthand	n.速记
@@ -4440,7 +4440,7 @@ sit	vi.坐，坐下；位于；栖息；孵卵 vt.使就坐
 site	n.位置,场所,地点
 situated	a.坐落在…的
 situation	n.形势,处境,状况;位置,场所;职位,职务
-six	num.六 pron./a.六(个，只...)
+six	num.六 pron./a.六(个，只…)
 size	n.大小,尺寸,规模;尺码
 skate	v.溜冰,滑冰 n.冰鞋
 skeleton	n.骨骼;骨架,框架;梗概,提要
@@ -4455,9 +4455,9 @@ skin	n.皮,皮肤;兽皮,皮毛;外皮,外壳 v.剥皮
 skip	vi.略过，跳过 n.跳跃 vt.故意忽略；略过
 skirt	n.裙子;边缘,郊区
 skull	n.头盖骨，颅骨
-sky	n.天空；[pl.]天色；气候
+sky	n.天空；[pl]天色；气候
 skyscraper	n.摩天大楼
-slack	a.懈怠的,松驰的;萧条的 n.淡季;(pl.)便裤
+slack	a.懈怠的,松驰的;萧条的 n.淡季;(pl)便裤
 slam	v.(门、窗等)砰地关上 n.猛然关闭的声音
 slap	n./v.拍,掌击
 slaughter	n.屠杀，屠宰 vt.屠杀，宰杀
@@ -4510,7 +4510,7 @@ social	a.社会的;交际的
 socialism	n.社会主义
 society	n.社会;社团,协会,社;社交界,上流社会
 sociology	n.社会学
-sock	n.(pl.)短袜
+sock	n.(pl)短袜
 soda	n.苏打,汽水
 sofa	n.长沙发，沙发
 soft	a.软的;温柔的;细嫩的,光滑的;不含酒精的
@@ -4574,10 +4574,10 @@ speciality	n.(specialty)特性，性质；专业/长；特产
 specialize	v.(specialise)(in)专攻,专门研究,专业化
 species	n.(物)种,种类
 specific	a.明确的,具体的;特定的,特有的
-specification	n.详述;(常pl.)规格,说明书,规范
+specification	n.详述;(常pl)规格,说明书,规范
 specify	v.指定,详细说明
 specimen	n.标本,样本
-spectacle	n.(pl.)眼镜;场面,景象;奇观,壮观
+spectacle	n.(pl)眼镜;场面,景象;奇观,壮观
 spectacular	a.壮观的,引人注目的 n.壮观的演出
 spectator	n.观众,旁观者
 spectrum	n.谱，光谱，频谱；范围，幅度，系列
@@ -4594,7 +4594,7 @@ spill	v.溢出,溅出 n.摔下,跌下
 spin	v.旋转;纺纱;织网,吐丝 n.旋转;自转
 spine	n.脊柱，脊椎；(动植物的)刺；书脊
 spiral	a.螺旋形的 n.螺旋，螺线 v.螺旋上升；盘旋
-spirit	n.精神;志气;(pl.)情绪,心情;(pl.)酒精
+spirit	n.精神;志气;(pl)情绪,心情;(pl)酒精
 spiritual	a.精神(上)的,心灵的
 spit	v.吐(唾沫),吐痰 n.唾液
 spite	n.恶意;怨恨
@@ -4607,7 +4607,7 @@ sponge	n.海绵
 sponsor	n.发起人,主力者,保证人 v.发起,主办
 spontaneous	a.自发的,自然产生的
 spoon	n.匙,调羹
-sport	n.(体育)运动 (pl.)运动会 vi.开玩笑；玩耍
+sport	n.(体育)运动 (pl)运动会 vi.开玩笑；玩耍
 sportsman	n.爱好运动的人；运动员
 spot	n.斑点;地点 v.认出,认清,发现;玷污,弄脏
 spouse	n.配偶(指夫或妻)
@@ -4630,7 +4630,7 @@ staff	n.全体职工;杠,棒;参谋部 v.配备工作人员
 stage	n.舞台,戏剧;阶段,时期
 stagger	vi.摇晃着移动;蹒跚 n.摇晃不稳的动作;蹒跚
 stain	n.污点,瑕疵 v.沾污;染色
-stair	n.(pl.)楼梯
+stair	n.(pl)楼梯
 staircase	n.(stairway)楼梯
 stake	n.桩,标桩;赌注,利害关系
 stale	n.变质的,不新鲜的;陈旧的,陈腐的
@@ -4684,7 +4684,7 @@ stock	n.备料,库存,现货;股票,公债 v.储存
 stocking	n.长(统)袜
 stomach	n.胃，胃口；肚子，腹部vt.承受，忍受
 stone	n.石，石头；岩石，矿石；(水果的)核、子
-stool	n.凳子；(pl.)大便
+stool	n.凳子；(pl)大便
 stoop	v.弯腰,俯身 n.弯腰,曲背
 stop	v.停止;塞住;阻止,阻挠;逗留 n.停车站;停止
 storage	n.贮藏(量),保管;库房
@@ -4711,7 +4711,7 @@ strenuous	a.费力的，艰辛的；奋发的，努力的
 stress	n.压力；重要性；应力；重音vt.强调，重读
 stretch	v.伸展，延伸 n.拉长；伸展；一段时间/路程
 strict	a.(with)严格的,严厉的;严谨的,精确的
-stride	vi.大踏步走；跨越 n.一大步(pl.)长足进步
+stride	vi.大踏步走；跨越 n.一大步(pl)长足进步
 strife	n.争吵；冲突，斗争；竞争
 strike	n./vi.罢工 vt.打，击；攻击；给…深刻印象
 striking	a.显著的；惹人注目的，容貌出众的
@@ -4734,7 +4734,7 @@ stun	vt.使…失去知觉；使目瞪口呆，使吃惊
 stupid	a.愚蠢的,迟钝的
 sturdy	a.坚定的，不屈不挠的；强健的，结实的
 style	n.风格,文体;式样,时式,类型
-subject	n.主题;学科 a.隶属的;易遭..的 v.使隶属
+subject	n.主题;学科 a.隶属的;易遭…的 v.使隶属
 subjective	a.主观(上)的，个人的
 submarine	n.潜水艇 a.水底的,海底的
 submerge	v.沉没,淹没;潜入
@@ -4796,7 +4796,7 @@ supper	n.晚餐
 supplement	n.补遗;增刊;附录 v.增刊,补充
 supply	v.(with,to)供给,供应,补足 n.供应,供应量
 support	n./vt.支撑;支持;赡养;维持 n.支持者;支柱
-suppose	v.料想,猜想;假定;conj.假使...结果会怎样
+suppose	v.料想,猜想;假定;conj.假使…结果会怎样
 suppress	v.镇压,压制;抑制,忍住;查禁
 supreme	a.极度的,最重要的;至高的,最高的
 sure	a.肯定的；一定会…的；有信心的，有把握的
@@ -4829,7 +4829,7 @@ swear	v.(at)诅咒,骂人;宣誓,发誓
 sweat	n.汗 v.(使)出汗
 sweater	n.毛衣,绒衣,厚运动衫
 sweep	v.扫,打扫;席卷,冲光;扫过,掠过
-sweet	a.甜的;可爱的,美好的 n.(常pl.)糖果;甜食
+sweet	a.甜的;可爱的,美好的 n.(常pl)糖果;甜食
 swell	n./v.肿胀;膨胀;增大;增加;
 swift	a./ad.快的(地);敏捷的(地)a.立刻的n.雨燕
 swim	vi.游泳;游;漂浮;眩晕;充溢 vt.游过 n.游泳
@@ -4845,7 +4845,7 @@ symphony	n.交响乐,交响曲
 symposium	n.讨论会,专题报告会;专题论文集
 symptom	n.(疾病的)症状；(不好事情的)征兆,表征
 syndrome	n.综合病征；并存特性
-synthesis	n.(pl.syntheses)综合,合成
+synthesis	n.(plsyntheses)综合,合成
 synthetic	a.合成的,人造的;综合的
 system	n.系统，体系；制度；方法，方式，步聚
 systematic	a.(systematical)系统的,有组织的
@@ -4879,7 +4879,7 @@ tea	n.茶(叶)；午后茶点
 teach	vt.教，讲授；教导(训)vi.讲课，当教师
 teacher	n.教师(员)，老(导)师
 team	n.小队,小组 v.协同工作
-tear	n.(pl.)眼泪 vt.撕裂；使…分裂 vi.破裂
+tear	n.(pl)眼泪 vt.撕裂；使…分裂 vi.破裂
 tease	v.戏弄,取笑;挑逗 n.(爱)戏弄他人者;戏弄
 technical	a.技术(性)的，工艺的；专门性的，专业性的
 technician	n.技术员,技师,技工
@@ -4900,7 +4900,7 @@ tempo	n.节奏,行进速度;(音乐的)速度
 temporary	a.暂时的,临时的
 tempt	v.诱惑,引诱;吸引,使感兴趣
 temptation	n.引诱，诱惑；诱惑物
-ten	num.十 pron./a.十(个，只...)
+ten	num.十 pron./a.十(个，只…)
 tenant	n.承租人;房客;佃户 vt.租借，承租
 tend	v.趋向,往往是;照料,看护
 tendency	n.趋势，趋向；倾向
@@ -4910,7 +4910,7 @@ tense	n.时态 v.拉紧，(使)紧张 a.绷紧的，紧张的
 tension	n.(紧张)状态；拉(绷)紧；张力，拉力
 tent	n.帐篷
 tentative	a.试探性的，暂时的；犹豫不决的
-term	n.学期;期限,期间;(pl.)条件,条款;术语
+term	n.学期;期限,期间;(pl)条件,条款;术语
 terminal	a.晚期的;终点的;期末的 n.终点(站);终端
 terminate	vi.(使)结束，(使)停止
 terrible	a.很糟的;可怕的,骇人的;极度的,厉害的
@@ -4926,13 +4926,13 @@ textbook	n.课本,教科书
 textile	n.纺织品 a.纺织的
 texture	n.(织物)质地；(材料)构造；结构；肌理
 than	conj.(用于形容词，副词的比较级之后)比
-thank	vt.感谢int.[-s]谢谢n.[pl.]感谢(意)
+thank	vt.感谢int.[-s]谢谢n.[pl]感谢(意)
 Thanksgiving	n.感恩节
 that	a./pron.那，那个 ad.那么 conj.[引导从句]
 the	art.这(那)个;这(那)些(指特定的人或物)
 theater	n.(theatre)戏院;戏剧;阶梯教室
 theft	n.偷窃(行为)，偷窃罪
-their	pron..[they的所有格]他(她、它)们的
+their	pron.[they的所有格]他(她、它)们的
 theirs	pron.[they的物主代词]他(她、它)们的
 them	pron.他们/她们/它们(they的宾格形式)
 theme	n.题目，主题；主旋律，基调
@@ -4948,7 +4948,7 @@ therefore	ad.因此，所以 conj.因此
 thermal	a.热的,热力的；(小规模的)上升气流
 thermometer	n.温度计
 these	pron.&a.[this的复数]这些；这些人(东西)
-thesis	n.(pl.theses) 论文;论题;论点
+thesis	n.(pltheses) 论文;论题;论点
 they	商店。(一般人经常用复数they来指一家商店)
 thick	a.厚的，粗的，稠的，浓的  ad.厚，浓，密
 thief	n.(thieves)贼；小偷
@@ -4959,7 +4959,7 @@ think	v.想，思索；认为，以为；想要；料想，预料
 third	num.第三(个)，三分之一(的)
 thirst	n.渴,口渴;(for)渴望,热望
 thirsty	a.口渴的;(for)渴望的,热望的
-thirteen	num./a.十三 pron.十三(个，只...)
+thirteen	num./a.十三 pron.十三(个，只…)
 thirty	num.三十，三十个(人或物)
 this	pron.这(个) a.这(个)；今 ad.这(样)
 thorn	n.刺,荆棘
@@ -4968,11 +4968,11 @@ those	pron./a.[that的复数]那些；那些人(东西)
 though	ad.可是，然而，不过 conj.尽管，虽然
 thought	n.思想，思考，思维；意图，打算；想法
 thoughtful	a.认真思考的,沉思的;体贴的,关心的
-thousand	num./n./a.一千；[pl.]许许多多，成千上万
+thousand	num./n./a.一千；[pl]许许多多，成千上万
 thread	n.线,细丝;线索,思路;螺纹 v.穿线,穿过
 threat	n.恐吓,威胁;坏兆头,危险迹象
 threaten	v.恐吓,威胁;有…危险,快要来临
-three	num.三 pron./a.三(个，只...)
+three	num.三 pron./a.三(个，只…)
 threshold	n.门槛;入门,开端
 thrift	a.节约，节俭
 thrill	n.一阵激动(恐惧) v.激动；(使)毛骨悚然
@@ -5024,13 +5024,13 @@ toll	n.(道路、桥等的)通行费；牺牲；死伤人数
 tomato	n.西红柿
 tomb	n.坟,冢
 tomorrow	n.明天；来日，未来 ad.在明天，在明日
-ton	n.吨;(pl.)大量,许多
+ton	n.吨;(pl)大量,许多
 tone	n.音调,音色;风气,气氛;腔调,语气;色调
 tongue	n.舌;语言
 tonight	ad.在今晚；在今夜 n.今晚，今夜
 too	ad.也，还；太，过于；很，非常
 tool	n.工具，用具；方法，手段
-tooth	n.(pl.teeth)牙齿；齿状物；
+tooth	n.(plteeth)牙齿；齿状物；
 top	n.顶，顶端；首位；顶点 a.最高的；顶上的
 topic	n.话题,主题,题目
 torch	n.手电筒;火炬,火把
@@ -5066,7 +5066,7 @@ trait	n.特征,特点,特性
 traitor	n.叛徒,卖国贼
 tram	n.有轨电车
 tramp	n./v步行;沉重的脚步声(走)v.践踏n.流浪者
-transaction	n.办理,处理;交易,事务;(pl.)会报,学报
+transaction	n.办理,处理;交易,事务;(pl)会报,学报
 transcend	vt.超出,超越(经验、知识、能力的范围等)
 transfer	vt./n.转移；转换；转让；过户；迁移；改乘
 transform	vt.改变,变换;变压;转化;改造,改造
@@ -5106,7 +5106,7 @@ triple	n.三倍数 a.三倍的;三部分构成的v.使成三倍
 triumph	n.胜利,成功 v.得胜,战胜
 trivial	a.琐碎的;无足轻重的
 trolley	n.手推车;(英)无轨电车,(美)有轨电车
-troop	n.(pl.)部队,军队;(一)群/队 v.群集,集合
+troop	n.(pl)部队,军队;(一)群/队 v.群集,集合
 tropic	n.回归线；[the T-s]热带地区
 tropical	a.热带的
 trouble	n.烦恼;动乱;疾病;故障;辛苦v.(使)烦恼
@@ -5136,8 +5136,8 @@ turn	v./n.(使)转动;(使)旋转;(使)转变 n.机会
 turnover	n.翻倒(物);人员调整;(资金等)周转;营业额
 tutor	n.导师;家庭教师 v.辅导;当导师;当家庭教师
 TV	n.(television)电视；电视机
-twelve	num.十二 pron./a.十二(个，只...)
-twenty	num.二十 pron./a.二十(个，只...)
+twelve	num.十二 pron./a.十二(个，只…)
+twenty	num.二十 pron./a.二十(个，只…)
 twice	ad.两次,两倍
 twin	a.双的,成对的,孪生的 n.孪生子,双生子
 twinkle	vi.(星等)闪烁，(眼情)发亮 n.闪烁，闪光
@@ -5160,7 +5160,7 @@ underestimate	vt.低估，看轻
 undergo	vt.遭受,经历,承受
 undergraduate	n.大学生,大学肆业生
 underground	a.地下的;秘密的 n.地铁 ad.在地下
-underlie	vt.位于...之下, 成为...的基础
+underlie	vt.位于…之下, 成为…的基础
 underline	vt.在…下划线;强调
 underlying	a.含蓄的,潜在的;在下面的
 undermine	v.暗中破坏,逐渐削弱;侵蚀…的基础
@@ -5188,10 +5188,10 @@ university	n.(综合)大学
 unless	conj.除非 prep.除…外
 unlike	a.不同的,不相似的 prep.不象,和…不同
 unlikely	a.未必的,靠不住的
-unload	vi.卸货;退子弹 vt.摆脱...之负担;倾销
+unload	vi.卸货;退子弹 vt.摆脱…之负担;倾销
 until	conj.&prep.直到…为止，在…以前；直到…
 unusual	a.不平常的,与众不同的
-up	ad.向上，...起来；...完；起床 prep.向上
+up	ad.向上，…起来；…完；起床 prep.向上
 update	v.更新,使现代化
 upgrade	v.提升,使升级
 uphold	vt.支持,赞成;举起;坚持
@@ -5223,7 +5223,7 @@ vague	a.不明确的,含糊的,暧昧的
 vain	a.徒劳的,徒然的;自负的,爱虚荣的
 valid	a.有效的;有根据的;正当的
 valley	n.(山)谷;流域
-valuable	a.贵重的,有价值的 n.(pl.)贵重物品,财宝
+valuable	a.贵重的,有价值的 n.(pl)贵重物品,财宝
 value	n.价格;价值;实用性 v.评价,估价;尊重
 valve	n.阀;(英)电子管,真空管;(心脏的）瓣膜
 van	n.有篷汽车;有篷货运车厢
@@ -5264,7 +5264,7 @@ veteran	n.老手,老兵
 veto	n./v.否决
 via	prep.经；通过；凭借
 vibrate	v.(使)振动,(使)摇摆；受…而感动
-vice	n.邪恶;恶习;(pl.)台钳,老虎钳
+vice	n.邪恶;恶习;(pl)台钳,老虎钳
 vicinity	n.邻近,附近
 vicious	a.恶毒的,凶残的,邪恶的
 victim	n.牺牲品,受害者
@@ -5310,7 +5310,7 @@ vowel	n.元音,元音字母
 voyage	n.航海;航行;旅行
 vulgar	a.粗俗的，庸俗的，本土的，通俗的，普通的
 vulnerable	a.易受攻击的
-wage	n.(常pl.)工资,报酬 vt.进行,开展
+wage	n.(常pl)工资,报酬 vt.进行,开展
 wagon	n.运货马车,运货车;敞蓬车厢
 waist	n.腰,腰部
 wait	v.(for)等待；(on)侍候 n.等候，等待时间
@@ -5422,7 +5422,7 @@ wipe	v./n.擦,揩,抹
 wire	n.金属线,电线;电报,电信 v.发电报(给)
 wisdom	n.智慧,明智;名言,格言
 wise	a.有智慧的,聪明的
-wish	v.希望；但愿；祝 n.愿望，希望；[pl.]祝愿
+wish	v.希望；但愿；祝 n.愿望，希望；[pl]祝愿
 wit	n.智力,才智,智慧
 witch	n.女巫, 巫婆，巫师
 with	prep.跟…一起；用；具有；关于；因；随着
@@ -5433,14 +5433,14 @@ without	prep.无，没有 n.外面，外部
 withstand	vt.抵抗,经受住
 witness	n.目击者,证人;证据,证明 v.目击,目睹;作证
 wolf	n.狼
-woman	n.(pl.）women妇女，成年女子
+woman	n.(pl）women妇女，成年女子
 wonder	n.惊奇,惊异;奇迹,奇事 v.(at)诧异;想知道
 wonderful	a.惊人的,奇妙的;极好的
-wood	n.木材，木头，木料；(pl.)森林，林地
+wood	n.木材，木头，木料；(pl)森林，林地
 wooden	a.木制的;呆笨的
 wool	n.羊毛,毛线,毛织品
 word	n.词，词语；言语，话；谈话；消息，信息
-work	n.工作(量)；作品；[pl.]工厂 v.工作；运转
+work	n.工作(量)；作品；[pl]工厂 v.工作；运转
 worker	n.工人，工作者，工作人员
 workshop	n.车间，工场，修理厂；研讨会，讲习班
 world	n.世界，地球；…界，领域；世间；全世界
