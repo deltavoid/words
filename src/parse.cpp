@@ -29,9 +29,16 @@ Entry parse(char* str, int len)
     }
 
    
-    int tmp = idx1[1];
+    int len1 = idx1[1];
+    int pron_idx[4];  
+    int pron_idx_cnt = 0;
+    for (int i = 0; i < len1; i++)
+        if  (str[i] == '/')  pron_idx[++pron_idx_cnt] = i;
+    int tmp = pron_idx[1];
     while (tmp -1 >= 0 && !is_letter(str[tmp - 1]))  tmp = tmp - 1;
     entry.word = string(str, tmp);
+    entry.pronunciation = string(str + pron_idx[1], pron_idx[2] - pron_idx[1] + 1);
+    //cout << entry.pronunciation;
 
     for (int i = 1; i <= idx_cnt; i++)
     {

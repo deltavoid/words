@@ -10,7 +10,7 @@ typedef std::pair<std::string, std::string> Paraphrase;
 struct Entry
 {
     std::string word;
-    //std::string pronunciation;
+    std::string pronunciation;
     std::vector<Paraphrase> paraphrases; 
 };
 

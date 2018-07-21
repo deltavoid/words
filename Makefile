@@ -1,7 +1,7 @@
 
 .PHONY : run
 run : bin/main
-	cd bin && ./main < input1.txt > output1.txt
+	cd bin && ./main < input.txt > output.txt
 
 bin/main : src/*
 	g++ -o bin/main src/*

@@ -16,6 +16,11 @@ vector<Entry> entries;
 typedef map<string, vector<Entry> > Dictionary;
 Dictionary dic;
 
+void output_space(int n)
+{
+    for (int i = 0; i < n; i++)
+        cout << " ";
+}
 
 void output_entry(Entry entry)
 {
@@ -27,10 +32,15 @@ void output_entry(Entry entry)
 void output_entry1(Entry entry)
 {
     cout << entry.word;
-    int tab = 12;
+    int tab = 14;
     int l = tab - (entry.word.size()) % tab;
-    for (int i = 0; i < l; i++)
-        cout << " ";
+    output_space(l);
+
+    cout << entry.pronunciation;
+    int tab1 = 16;
+    int l1 = tab1 - (entry.pronunciation.size()) % tab1;
+    output_space(l1);
+
     
         for (int i = 0; i < entry.paraphrases.size(); i++)
             cout << "  " << entry.paraphrases[i].first << "." << entry.paraphrases[i].second;
@@ -56,6 +66,7 @@ int main()
         {
             Entry en;
             en.word = entries[i].word;
+            en.pronunciation = entries[i].pronunciation;
             en.paraphrases.push_back(entries[i].paraphrases[j]);
             if  (en.paraphrases[0].second == string("/"))
                 en.paraphrases[0].second = entries[i].paraphrases[j + 1].second;
